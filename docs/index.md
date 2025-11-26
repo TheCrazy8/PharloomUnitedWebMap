@@ -6,8 +6,8 @@ title: Pharloom Web Map
 
 [[TOC]]
 
-# Maps:
+## Maps:
 
-## Region Layer:
+### Region Layer:
 
-## Diploma Layer:
+### Diploma Layer:
