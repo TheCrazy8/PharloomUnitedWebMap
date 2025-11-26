@@ -1,0 +1,17 @@
+{
+  "name": "KCSgate Combat Kit",
+  "version": "1.0.0",
+  "description": "The combat kit for KCSgate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "author": "WD_Bypass",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.18"
+  }
+}
