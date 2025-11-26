@@ -11,3 +11,8 @@ title: Pharloom Web Map
 ### Region Layer:
 
 ### Diploma Layer:
+
+## Info:
+
+### Region name:  
+drop-down with info
