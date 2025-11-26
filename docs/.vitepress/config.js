@@ -1,7 +1,7 @@
 export default {
     title: "Pharloom United Web Map",
     description: "A map of the Pharloom United roleplay world.",
-    base: "/Pharloom-Web-Map/",
+    base: "/PharloomUnitedWebMap/",
     themeConfig: {
         siteTitle: "Pharloom United Web Map",
         footer: {
