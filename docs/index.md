@@ -14,7 +14,11 @@ title: Pharloom Web Map
 ### Diplomacy Layer:
 
 ## Info:
-::: details Region name
-- info
-- more info
+::: details Mosslands
+- A mossy place, good for starting grand adventures.
+- Leader: TBD
+- Bestiary:
+  - Will be made when i have time and energy.
+- Art of the area:
+None yet :/
 :::
