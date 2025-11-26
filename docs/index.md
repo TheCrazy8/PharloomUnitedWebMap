@@ -11,7 +11,7 @@ title: Pharloom Web Map
 ### Region Layer:
 ![Region Map](./Pharloom.png)
 
-### Diploma Layer:
+### Diplomacy Layer:
 
 ## Info:
 ::: details Region name
