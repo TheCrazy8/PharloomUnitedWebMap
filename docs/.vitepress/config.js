@@ -1,20 +1,16 @@
 export default {
-    title: "KCSgate Combat Data",
-    description: "The info to deal with KCSgate.",
-    base: "/KCSgate-Combat-Data/",
+    title: "Pharloom United Web Map",
+    description: "A map of the Pharloom United roleplay world.",
+    base: "/Pharloom-Web-Map/",
     themeConfig: {
-        siteTitle: "KCSgate Combat Data",
+        siteTitle: "Pharloom United Web Map",
         footer: {
             message: "Released under the CC BY-NC-ND 4.0 License.",
-            copyright: "Copyright © 2025-present WD_Bypass",
+            copyright: "Copyright © 2025-present TheCrazy8",
         },
         nav: [
         ],
         sidebar: [
-        ],
-
-        socialLinks: [
-            { icon: "github", link: "https://github.com/WD-BYPASS" },
         ],
 
         lastUpdated: {
