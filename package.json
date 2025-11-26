@@ -1,14 +1,14 @@
 {
-  "name": "KCSgate Combat Kit",
+  "name": "Pharloom United Web Map",
   "version": "1.0.0",
-  "description": "The combat kit for KCSgate",
+  "description": "The map of the Pharloom United rp world",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
-  "author": "WD_Bypass",
+  "author": "theCrazy8",
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
     "vitepress": "^1.6.4",
