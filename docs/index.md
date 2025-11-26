@@ -9,6 +9,7 @@ title: Pharloom Web Map
 ## Maps:
 
 ### Region Layer:
+![Region Map](./Pharloom.png)
 
 ### Diploma Layer:
 
