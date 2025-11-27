@@ -83,7 +83,7 @@ None yet :/
 - Bestiary & Locals:
   - Soon
 - Art:
-None yet:/
+None yet :/
 - Subreddit: r/Bellhart
 :::
 ::: details Shellwood
@@ -103,4 +103,13 @@ None yet :/
 - Art:
 None yet :/
 - Subreddit: r/Wormways
+:::
+::: details Blasted Steps
+- A sandy land full of judges.
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/Blasted_Steps
 :::
