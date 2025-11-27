@@ -187,7 +187,18 @@ None yet :/
 - The west side of Greymoor, from the entrance to Far Fields home to Bellhart.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Mite:
+![erf](https://cdn.wikimg.net/en/hkwiki/images/0/09/B_Mite.png)
+    - Hornet's notes: Verminous pest, common throughout the dark corners of Greymoor. Individually they offer little challenge, but their numbers are surely vast, and most remain hidden.
+  - Fluttermite:
+![ergry](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Fluttermite.png)
+    - Hornet's notes: Airborne pest, less common than its grounded siblings. Attacks with sharp fangs if agitated. Similar bugs would gnaw away at unguarded food supplies in my homeland. As a child, I would hunt them, eager to make use of myself and test my skills.
+  - Mitemother:
+![erfurutviruv](https://cdn.wikimg.net/en/hkwiki/images/a/ae/B_Mitemother.png)
+    - Hornet's notes: Aged female mite, grown larger and stronger than most of its kin. Poor of sight but possessing a keen sense of smell, it uses its bulk to charge at foreign scents. Remaining fierce so far into old age is an admirable trait.
+  - Dreg Catcher:
+![edfrtrttrrt](https://cdn.wikimg.net/en/hkwiki/images/b/bb/B_Dreg_Catcher.png)
+    - Hornet's notes: Bug charged to catch dregs of Silk that fall from the Citadel. Will attack with its staff if provoked. These bugs look to have spent every waking moment at their work. Grim, endless labour in service of the unseen Citadel above.
 - Art:
 None yet :/
 - Subreddit: r/GreymoorSilksong
