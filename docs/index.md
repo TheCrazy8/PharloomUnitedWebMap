@@ -97,6 +97,21 @@ None yet :/
   - Vile Caranid:
 ![thisalttextwontbeusedright?](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Vicious_Caranid.png)
     - Hornet's notes: Aggressively winged bug of the lowlands. When angered, it rapidly whips its bladed tail as a weapon. Its wings are quite small compared to its bulk. Perhaps it uses the warm air of these fiery lands to help stay airborne. Clever, if so.
+  - Hardbone Hopper:
+![technically its deepdocks but it also fits here better soooooo](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Hardbone_Hopper.png)
+    - Hornet's notes: Grazing creature with sharp senses that nimbly retreats from danger. Despite the Haunting of its shell, it has not been overcome with aggression. Its desire to flee remains too strong.
+  - Hardbone Elder:
+![here ig](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Hardbone_Elder.png)
+    - Hornet's notes: Tall creature with sharp senses. Defends its herd with powerful legs and a sharp tipped mask. There is surprising strength hidden in their thin, elegant limbs. It would be a pleasure to ride upon it...
+  - Tarmite:
+![Termate](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Tarmite.png)
+    - Hornet's notes: Flying bone mite that lives near magma. Roasts its prey by spitting scorching tar. Its sticky spit would no doubt make a useful crafting material if moulded fresh. Unfortunately, I cannot stop to experiment.
+  - Mawling:
+![shush i know](https://cdn.wikimg.net/en/hkwiki/images/7/70/B_Mawling.png)
+    - Hornet's notes: Young, bony bug that can curl its body to form a ball. Their rough, ridged shell grips tight to any surface. Even walls and roofs become pathways for these nimble bugs.
+  - Marrowmaw:
+![so these are actually found inthe moss , nmed after the marrow, and i put it in far fielsd](https://cdn.wikimg.net/en/hkwiki/images/4/4a/B_Marrowmaw.png)
+    - Hornet's notes: Giant roller of the lowlands. Its ridged hide will crush smaller creatures beneath it. Sheer bulk makes for an effective weapon, but requires much sustenance. This creature would have spent most of its time eating. An acceptable life for some.
 - Art:
 None yet :/
 - Subreddit: r/FarFields
