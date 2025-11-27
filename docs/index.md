@@ -94,6 +94,9 @@ None yet :/
   - Caranid:
 ![thisthingy](https://cdn.wikimg.net/en/hkwiki/images/8/82/B_Caranid.png)
     - Hornet's notes: Common winged bug of the lowlands. Generally docile, but will attack if threats come close. Their plump, round shape makes them well-suited for target practice. Difficult to resist testing my aim on them...
+  - Vile Caranid:
+![thisalttextwontbeusedright?](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Vicious_Caranid.png)
+    - Hornet's notes: Aggressively winged bug of the lowlands. When angered, it rapidly whips its bladed tail as a weapon. Its wings are quite small compared to its bulk. Perhaps it uses the warm air of these fiery lands to help stay airborne. Clever, if so.
 - Art:
 None yet :/
 - Subreddit: r/FarFields
