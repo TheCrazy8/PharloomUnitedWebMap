@@ -362,7 +362,7 @@ None yet :/
 - Subreddit: r/TherestofPharloom
 :::
 ::: details Silver Wastes
-- The home of the Grimmmtroupe
+- The home of the Grimmmtroupe.
 - Leader: Grimm
 - Bestiary & Locals:
   - Soon
