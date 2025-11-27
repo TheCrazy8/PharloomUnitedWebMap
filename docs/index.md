@@ -199,6 +199,8 @@ None yet :/
   - Dreg Catcher:
 ![edfrtrttrrt](https://cdn.wikimg.net/en/hkwiki/images/b/bb/B_Dreg_Catcher.png)
     - Hornet's notes: Bug charged to catch dregs of Silk that fall from the Citadel. Will attack with its staff if provoked. These bugs look to have spent every waking moment at their work. Grim, endless labour in service of the unseen Citadel above.
+  - Silk Snipper:
+![wedewdfer](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
 - Art:
 None yet :/
 - Subreddit: r/GreymoorSilksong
