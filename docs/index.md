@@ -36,7 +36,12 @@ None yet :/
 - A bony place, with fire and such.
 - Leader: BigShip6556
 - Bestiary & Locals:
-  - Soon
+  - Skull Scuttler:
+![Skull Scuttler](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Skull_Scuttler.png)
+  - Skullwing:
+![Skullwing](https://cdn.wikimg.net/en/hkwiki/images/5/55/B_Skullwing.png)
+  - Skull Brute:
+![Skull Brute](https://cdn.wikimg.net/en/hkwiki/images/9/9a/B_Skull_Brute.png)
 - Art:
 None yet :/
 - Subreddit: r/MarrowPharloom, r/independantArmy
