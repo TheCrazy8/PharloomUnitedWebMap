@@ -1,6 +1,7 @@
 <script setup>
-import { ref, onMounted, onUnmounted, nextTick } from 'vue'
+import { computed, ref, onMounted, nextTick } from 'vue'
 import { useData } from 'vitepress'
+import { defaultLayers, defaultMapImage, defaultRegions } from '../data/mapData'
 
 const { site } = useData()
 
@@ -11,65 +12,28 @@ const props = defineProps({
   }
 })
 
+function cloneRegions(source) {
+  return source.map(region => ({
+    ...region,
+    hitArea: region.hitArea ? { ...region.hitArea } : null
+  }))
+}
+
 const activeLayer = ref(props.initialLayer)
 const mapContainer = ref(null)
 const hoveredRegion = ref(null)
 const tooltipPosition = ref({ x: 0, y: 0 })
+const customMapImage = ref('')
+const layers = ref([...defaultLayers])
+const regions = ref(cloneRegions(defaultRegions))
+const polygonDrafts = ref({})
 
-// Layer definitions for future expansion
-const layers = [
-  { id: 'region', name: 'Region Layer' },
-  { id: 'diplomacy', name: 'Diplomacy Layer', placeholder: true }
-]
-
-// Region definitions with approximate coordinates (percentages for responsive design)
-// Coordinates are in format: { x: %, y: %, width: %, height: % }
-const regions = [
-  { id: 'mosslands', name: 'Mosslands', x: 30, y: 72, width: 12, height: 8 },
-  { id: 'bone-bottom', name: 'Bone Bottom', x: 32, y: 68, width: 6, height: 4 },
-  { id: 'the-marrow', name: 'The Marrow', x: 42, y: 75, width: 10, height: 6 },
-  { id: 'deep-docks', name: 'Deep Docks', x: 52, y: 72, width: 10, height: 6 },
-  { id: 'hunters-march', name: 'Hunters March', x: 45, y: 68, width: 10, height: 5 },
-  { id: 'far-fields', name: 'Far Fields', x: 58, y: 66, width: 8, height: 5 },
-  { id: 'eastern-greymoor', name: 'Eastern Greymoor', x: 68, y: 62, width: 10, height: 6 },
-  { id: 'western-greymoor', name: 'Western Greymoor', x: 55, y: 62, width: 10, height: 6 },
-  { id: 'bellhart', name: 'Bellhart', x: 52, y: 58, width: 6, height: 4 },
-  { id: 'shellwood', name: 'Shellwood', x: 75, y: 58, width: 10, height: 6 },
-  { id: 'wormways', name: 'Wormways', x: 35, y: 52, width: 8, height: 6 },
-  { id: 'steps-of-judgement', name: 'Steps of Judgement', x: 28, y: 56, width: 10, height: 6 },
-  { id: 'order-of-karak', name: 'Order of Karak', x: 8, y: 56, width: 12, height: 8 },
-  { id: 'choral-chambers', name: 'Choral Chambers', x: 45, y: 48, width: 8, height: 5 },
-  { id: 'underworks', name: 'Underworks', x: 42, y: 42, width: 12, height: 8 },
-  { id: 'cogwork-core', name: 'Cogwork Core', x: 55, y: 40, width: 8, height: 6 },
-  { id: 'high-halls', name: 'High Halls', x: 48, y: 36, width: 10, height: 6 },
-  { id: 'whiteward', name: 'Whiteward', x: 52, y: 48, width: 6, height: 4 },
-  { id: 'memorium', name: 'Memorium', x: 60, y: 42, width: 6, height: 5 },
-  { id: 'whispering-vaults', name: 'Whispering Vaults', x: 68, y: 42, width: 8, height: 6 },
-  { id: 'flies-peoples-republic', name: 'Flies People\'s Republic', x: 32, y: 38, width: 8, height: 6 },
-  { id: 'the-cradle', name: 'The Cradle', x: 45, y: 32, width: 8, height: 5 },
-  { id: 'sinners-road', name: 'Sinners Road', x: 35, y: 32, width: 8, height: 5 },
-  { id: 'bilewater', name: 'Bilewater', x: 62, y: 52, width: 8, height: 5 },
-  { id: 'exhaust-organ', name: 'Exhaust Organ', x: 20, y: 42, width: 8, height: 5 },
-  { id: 'pharloom-labs', name: 'Pharloom Labs', x: 70, y: 52, width: 6, height: 4 },
-  { id: 'putrified-ducts', name: 'Putrified Ducts', x: 75, y: 48, width: 8, height: 6 },
-  { id: 'fleatopia', name: 'Fleatopia', x: 8, y: 74, width: 10, height: 6 },
-  { id: 'mythfalls', name: 'Mythfalls', x: 72, y: 56, width: 6, height: 4 },
-  { id: 'verdania', name: 'Verdania', x: 78, y: 50, width: 8, height: 5 },
-  { id: 'fields-of-eucor', name: 'Fields of Eucor', x: 82, y: 45, width: 8, height: 5 },
-  { id: 'mount-fay', name: 'Mount Fay', x: 18, y: 36, width: 10, height: 6 },
-  { id: 'last-oasis', name: 'Last Oasis', x: 15, y: 50, width: 8, height: 5 },
-  { id: 'vermilion-depths', name: 'Vermilion depths', x: 82, y: 62, width: 8, height: 6 },
-  { id: 'weavenests', name: 'Weavenests', x: 88, y: 56, width: 6, height: 5 },
-  { id: 'wisp-thicket', name: 'Wisp Thicket', x: 85, y: 38, width: 8, height: 6 },
-  { id: 'pharlooms-hive', name: 'Pharloom\'s Hive', x: 25, y: 42, width: 6, height: 5 },
-  { id: 'the-kingdom-above', name: 'The Kingdom Above', x: 42, y: 5, width: 12, height: 8 },
-  { id: 'nameless-town', name: 'Nameless Town', x: 72, y: 38, width: 6, height: 4 },
-  { id: 'voltnest', name: 'Voltnest', x: 78, y: 28, width: 8, height: 6 },
-  { id: 'frosted-prairie', name: 'Frosted Prairie', x: 22, y: 55, width: 8, height: 5 },
-  { id: 'silver-wastes', name: 'Silver Wastes', x: 12, y: 45, width: 8, height: 5 },
-  { id: 'fern-forest', name: 'Fern Forest', x: 52, y: 22, width: 10, height: 8 },
-  { id: 'the-abyss', name: 'The Abyss', x: 48, y: 85, width: 8, height: 10 }
-]
+const displayedMap = computed(() => {
+  if (customMapImage.value) {
+    return customMapImage.value
+  }
+  return site.value.base + defaultMapImage
+})
 
 function setLayer(layerId) {
   activeLayer.value = layerId
@@ -77,7 +41,7 @@ function setLayer(layerId) {
 
 function navigateToRegion(regionId) {
   // Find the region by ID to get its exact name
-  const region = regions.find(r => r.id === regionId)
+  const region = regions.value.find(r => r.id === regionId)
   if (!region) return
   
   const detailsName = region.name
@@ -119,6 +83,99 @@ function handleMouseMove(event, region) {
 function handleMouseLeave() {
   hoveredRegion.value = null
 }
+
+function handleImageUpload(event) {
+  const file = event.target.files?.[0]
+  if (!file) return
+  if (!file.type.startsWith('image/')) {
+    return
+  }
+  const reader = new FileReader()
+  reader.onload = e => {
+    customMapImage.value = e.target.result
+    if (typeof window !== 'undefined') {
+      window.localStorage.setItem('pharloom-map-image', customMapImage.value)
+    }
+  }
+  reader.readAsDataURL(file)
+}
+
+function resetCustomImage() {
+  customMapImage.value = ''
+  if (typeof window !== 'undefined') {
+    window.localStorage.removeItem('pharloom-map-image')
+  }
+}
+
+function resetRegionData() {
+  regions.value = cloneRegions(defaultRegions)
+  polygonDrafts.value = {}
+}
+
+function downloadRegionData() {
+  const payload = JSON.stringify(regions.value, null, 2)
+  const blob = new Blob([payload], { type: 'application/json' })
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+  link.href = url
+  link.download = 'map-regions.json'
+  link.click()
+  URL.revokeObjectURL(url)
+}
+
+function handleRegionDataUpload(event) {
+  const file = event.target.files?.[0]
+  if (!file) return
+  file.text().then(text => {
+    try {
+      const parsed = JSON.parse(text)
+      if (Array.isArray(parsed)) {
+        regions.value = cloneRegions(parsed)
+      } else if (parsed?.regions) {
+        regions.value = cloneRegions(parsed.regions)
+      }
+      polygonDrafts.value = {}
+    } catch (err) {
+      console.error('Unable to load region data', err)
+    }
+  })
+}
+
+function polygonString(region) {
+  if (region.hitArea?.type !== 'polygon') {
+    return ''
+  }
+  if (!polygonDrafts.value[region.id]) {
+    polygonDrafts.value[region.id] = region.hitArea.points.map(point => point.join(',')).join(' ')
+  }
+  return polygonDrafts.value[region.id]
+}
+
+function handlePolygonInput(regionId, value) {
+  polygonDrafts.value[regionId] = value
+  const region = regions.value.find(r => r.id === regionId)
+  if (!region) return
+  const parsed = value
+    .trim()
+    .split(/\s+/)
+    .map(pair => pair.split(',').map(Number))
+    .filter(point => point.length === 2 && !Number.isNaN(point[0]) && !Number.isNaN(point[1]))
+  if (parsed.length >= 3) {
+    region.hitArea = {
+      type: 'polygon',
+      points: parsed
+    }
+  }
+}
+
+onMounted(() => {
+  if (typeof window !== 'undefined') {
+    const cached = window.localStorage.getItem('pharloom-map-image')
+    if (cached) {
+      customMapImage.value = cached
+    }
+  }
+})
 </script>
 
 <template>
@@ -139,26 +196,44 @@ function handleMouseLeave() {
       </button>
     </div>
 
+    <div class="map-tools">
+      <label class="upload-btn">
+        <span>Upload map image</span>
+        <input type="file" accept="image/*" @change="handleImageUpload" />
+      </label>
+      <button v-if="customMapImage" class="reset-btn" @click="resetCustomImage">Use default image</button>
+      <span class="upload-hint">Upload stays local. Replace docs/public/Pharloom.png to publish.</span>
+    </div>
+
     <!-- Map Container -->
     <div ref="mapContainer" class="map-container">
       <!-- Region Layer -->
       <div v-show="activeLayer === 'region'" class="map-layer region-layer">
-        <img :src="site.base + 'Pharloom.png'" alt="Pharloom Region Map" class="map-image" />
+        <img :src="displayedMap" alt="Pharloom Region Map" class="map-image" />
         
         <!-- SVG Overlay for clickable regions -->
         <svg class="region-overlay" viewBox="0 0 100 100" preserveAspectRatio="none">
-          <rect
-            v-for="region in regions"
-            :key="region.id"
-            :x="region.x"
-            :y="region.y"
-            :width="region.width"
-            :height="region.height"
-            class="region-hitbox"
-            @click="navigateToRegion(region.id)"
-            @mousemove="handleMouseMove($event, region)"
-            @mouseleave="handleMouseLeave"
-          />
+          <template v-for="region in regions" :key="region.id">
+            <polygon
+              v-if="region.hitArea?.type === 'polygon'"
+              :points="region.hitArea.points.map(point => point.join(',')).join(' ')"
+              class="region-hitbox"
+              @click="navigateToRegion(region.id)"
+              @mousemove="handleMouseMove($event, region)"
+              @mouseleave="handleMouseLeave"
+            />
+            <rect
+              v-else
+              :x="region.hitArea?.x"
+              :y="region.hitArea?.y"
+              :width="region.hitArea?.width"
+              :height="region.hitArea?.height"
+              class="region-hitbox"
+              @click="navigateToRegion(region.id)"
+              @mousemove="handleMouseMove($event, region)"
+              @mouseleave="handleMouseLeave"
+            />
+          </template>
         </svg>
         
         <!-- Tooltip -->
@@ -181,6 +256,56 @@ function handleMouseLeave() {
     </div>
 
     <p class="map-hint">💡 Click on a region to view its details below</p>
+
+    <details class="map-editor">
+      <summary>Map calibration &amp; data tools</summary>
+      <div class="editor-actions">
+        <button class="reset-btn" @click="downloadRegionData">Download JSON</button>
+        <label class="upload-btn compact">
+          <span>Import JSON</span>
+          <input type="file" accept="application/json" @change="handleRegionDataUpload" />
+        </label>
+        <button class="ghost-btn" @click="resetRegionData">Reset to defaults</button>
+      </div>
+      <p class="editor-note">
+        Coordinates are stored as percentages of the map image. Use these fields to line up hotspots with any uploaded image,
+        then download the JSON and replace <code>docs/.vitepress/theme/data/mapData.js</code>.
+      </p>
+      <div class="region-editor-grid">
+        <div v-for="region in regions" :key="region.id" class="region-card">
+          <strong>{{ region.name }}</strong>
+          <template v-if="region.hitArea?.type === 'rect'">
+            <div class="editor-inputs">
+              <label>
+                X (%):
+                <input type="number" v-model.number="region.hitArea.x" min="0" max="100" step="0.1" />
+              </label>
+              <label>
+                Y (%):
+                <input type="number" v-model.number="region.hitArea.y" min="0" max="100" step="0.1" />
+              </label>
+              <label>
+                Width (%):
+                <input type="number" v-model.number="region.hitArea.width" min="0" max="100" step="0.1" />
+              </label>
+              <label>
+                Height (%):
+                <input type="number" v-model.number="region.hitArea.height" min="0" max="100" step="0.1" />
+              </label>
+            </div>
+          </template>
+          <template v-else-if="region.hitArea?.type === 'polygon'">
+            <label class="polygon-field">
+              Points (x,y pairs):
+              <textarea :value="polygonString(region)" @input="handlePolygonInput(region.id, $event.target.value)"></textarea>
+            </label>
+          </template>
+          <template v-else>
+            <p class="editor-note">Unsupported hit area type.</p>
+          </template>
+        </div>
+      </div>
+    </details>
   </div>
 </template>
 
@@ -237,6 +362,48 @@ function handleMouseLeave() {
   font-size: 0.75rem;
   opacity: 0.7;
   margin-left: 0.25rem;
+}
+
+.map-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.upload-btn {
+  position: relative;
+  overflow: hidden;
+  border: 1px dashed var(--vp-c-divider);
+  padding: 0.4rem 0.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--vp-c-text-2);
+  font-size: 0.85rem;
+  background: var(--vp-c-bg-soft);
+}
+
+.upload-btn input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.reset-btn {
+  border: none;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-contrast);
+  padding: 0.45rem 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.upload-hint {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
 }
 
 .map-container {
@@ -318,5 +485,97 @@ function handleMouseLeave() {
   font-size: 0.875rem;
   color: var(--vp-c-text-2);
   text-align: center;
+}
+
+.map-editor {
+  margin-top: 1rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  background: var(--vp-c-bg);
+}
+
+.map-editor summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.editor-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.ghost-btn {
+  border: 1px solid var(--vp-c-divider);
+  background: transparent;
+  color: var(--vp-c-text-2);
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.editor-note {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-3);
+}
+
+.editor-note code {
+  font-size: 0.8rem;
+}
+
+.region-editor-grid {
+  margin-top: 0.75rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.region-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 0.75rem;
+  background: var(--vp-c-bg-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.editor-inputs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  gap: 0.5rem;
+}
+
+.editor-inputs label {
+  font-size: 0.75rem;
+  color: var(--vp-c-text-2);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.editor-inputs input,
+.polygon-field textarea {
+  width: 100%;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  padding: 0.25rem 0.35rem;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+}
+
+.polygon-field textarea {
+  min-height: 90px;
+  font-family: ui-monospace, SFMono-Regular, SFMono, Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.8rem;
+}
+
+.upload-btn.compact {
+  padding: 0.35rem 0.6rem;
+  font-size: 0.8rem;
 }
 </style>
