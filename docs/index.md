@@ -70,7 +70,11 @@ None yet :/
 - A firey industrial district with forges and the likes.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Lavalug:
+![slug](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Lavalug.png)
+    - Hornet's notes: Sticky mollusc that defends itself by spraying burning fluid from growths on its back. What seems at first a purely defensive mechanism may also be necessary to rid this creature of excess heat.
+  - Lavalarga:
+
 - Art:
 None yet :/
 - Subreddit: r/deepdocks
@@ -112,6 +116,15 @@ None yet :/
   - Marrowmaw:
 ![so these are actually found inthe moss , nmed after the marrow, and i put it in far fielsd](https://cdn.wikimg.net/en/hkwiki/images/4/4a/B_Marrowmaw.png)
     - Hornet's notes: Giant roller of the lowlands. Its ridged hide will crush smaller creatures beneath it. Sheer bulk makes for an effective weapon, but requires much sustenance. This creature would have spent most of its time eating. An acceptable life for some.
+  - Hoker:
+![hoker](https://cdn.wikimg.net/en/hkwiki/images/0/0d/B_Hoker.png)
+    - Hornet's notes: Spine-shooting drifter of the lowlands. Whatever admiration I had for its fleecy down is spoilt by its disturbing mask... and its steely spines.
+  - Flintbeetle:
+![fleetle](https://cdn.wikimg.net/en/hkwiki/images/1/1a/B_Flintbeetle.png)
+    - Hornet's notes: Rarely seen beetle that spends most of its life nestled deep in bone and rock. The flintgems on its shell excrete an explosive powder. Its bright gems could be used to make beautiful, but short-lived jewellery. An amusing idea for a gift... or a trap.
+  - Rhinogrund:
+![did you meet this?](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Rhinogrund.png)
+    - Hornet's notes: Long-Horned beast of Pharloom's lowlands. Relies on its horn to both impale and to wrench the ground beneath it, flinging dangerous debris. Certain tools and skills can pierce its defences. I should adjust my strategy as needed.
 - Art:
 None yet :/
 - Subreddit: r/FarFields
@@ -156,7 +169,12 @@ None yet :/
 - A formerly sandy area, now infected with lifeblood.
 - Leader: Lifeblood (it consumes all)
 - Bestiary & Locals:
-  - Soon
+  - Gromling:
+![the adhd bee made this site](https://cdn.wikimg.net/en/hkwiki/images/e/e8/B_Gromling.png)
+    - Hornet's notes: Young masked worm that delights in ambushing intruders within its tunnels. A frustrating fiend. They flee beneath the bone whenever I try to strike them down.
+  - Grom:
+![qwef](https://cdn.wikimg.net/en/hkwiki/images/8/8e/B_Grom.png)
+    - Hornet's notes: Burrowing worm that uses its many blunted teeth to dig through even the hardest bone. They ceaselessly churn through rock and bone without ever seeming to rest. Do they have a destination? Or are they compelled to dig forever deeper?
 - Art:
 None yet :/
 - Subreddit: r/Wormways
