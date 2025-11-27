@@ -20,28 +20,47 @@ title: Pharloom Web Map
 - Bestiary & Locals:
   - Mossgrub:
 ![Mossgrub](./public/B_Mossgrub.png)
+    - Hornet's notes: Fur covered crawler with a series of sharp spikes along its back. If not for the spikes, I would think it an appealing bug.
   - Massive Mossgrub:
 ![Massive Mossgrub](./public/B_Massive_Mossgrub.png)
+    - Hornet's notes: Unnaturally overgrown Mossgrub, bred within the Citadel's Memorium. So close to a perfect furred form... If only they'd been able to breed out the spines.
   - Mossmir:
 ![Mossmir](./public/Mossmir_Idle.png)
+    - Hornet's notes: Small fluttering creature capable of defending itself with its small stinger. This bug is soft and clumsy, but to its fortune its home caves seem relatively free of effective predators. I wonder why that is.
   - Moss Mother:
 ![Moss Mother](https://cdn.wikimg.net/en/hkwiki/images/1/1e/B_Moss_Mother.png)
+    - Hornet's notes: Adult Mossmir with fully developed stinger and hardened hide. Motherhood is an instinct that can push creatures beyond what seems their normal limits. It turns even weaker beasts like these into formidable foes.
   - Aknid:
 ![Aknid](https://cdn.wikimg.net/en/hkwiki/images/f/fb/B_Aknid.png)
+    - Hornet's notes: Winged insect that feeds upon moss and lichen in the caves above Bone Bottom. In its natural state it would avoid potential predators, but Pharloom's Haunting now compels it to aggression. Fortunately, its jaws are ill-suited for combat.
 - Art:
 None yet :/
 - Subreddit: r/Mosslands
 :::
+::: details Bone Bottom
+  - A town in the mosslands, a quite pleasant one at that.
 ::: details The Marrow
 - A bony place, with fire and such.
 - Leader: BigShip6556
 - Bestiary & Locals:
   - Skull Scuttler:
 ![Skull Scuttler](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Skull_Scuttler.png)
+    - Hornet's notes: Small, soft bug that uses the hard skulls of the Marrow for protection and disguise. In every land, creatures find new and surprising ways to disguise themselves. One must be wary always.
   - Skullwing:
 ![Skullwing](https://cdn.wikimg.net/en/hkwiki/images/5/55/B_Skullwing.png)
+    - Hornet's notes: Airborne relative of the grounded Skull Scuttler, found only in the Marrow's deepest, hottest caves. Such feeble creatures could only survive thanks to the rarity of predators in these super-heated caverns.
   - Skull Brute:
 ![Skull Brute](https://cdn.wikimg.net/en/hkwiki/images/9/9a/B_Skull_Brute.png)
+    - Hornet's notes: Soft bug beneath a huge, horned skull. Charges at intruders to protect its territory and its smaller companions. Either its size has made it fearless or the Haunting has removed its sense of self-preservation.
+  - Skull Tyrant:
+![Skulltyrant](https://cdn.wikimg.net/en/hkwiki/images/2/29/B_Skull_Tyrant.png)
+    - Hornet's notes: Rare, enormous Skull Scuttler. The Marrow's largest predator, and the most feared for its ferocious temperament. Though surely fierce, the skull it bears looks taken from an even larger beast. If not for the bones as proof, I would scarcely believe bugs could grow to such scale.
+  - Kilik:
+![Killik](https://cdn.wikimg.net/en/hkwiki/images/1/1d/B_Kilik.png)
+    - Hornet's notes: Small bony bug that favours dark tunnels. Can expand its spiked carapace to ward against attacking predators. I am fond of simple, effective traps such as this bug's extendable spikes. An unwary predator would be skewered clean through.
+  - Beastfly:
+![Beastfly](https://cdn.wikimg.net/en/hkwiki/images/b/ba/B_Beastfly.png)
+    - Hornet's notes: Aggressive fly of Pharloom's lowlands. Rams prey with its hardbone mask. Dancing around this simple creature as it charges back and forth is the sort of game I delighted in as a child. Alas, I now have more pressing matters to attend to.
 - Art:
 None yet :/
 - Subreddit: r/MarrowPharloom, r/independantArmy
@@ -68,7 +87,12 @@ None yet :/
 - The outer reaches of the Skarr Tribe, unintentionally heated by Deep Docks.
 - Leader: Last Claw
 - Bestiary & Locals:
-  - Soon
+  - Savage Beastfly:
+![theworstboss /j](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Savage_Beastfly.png)
+    - Hornet's notes: Angered, adult Beastfly with a weighty body and a thickened hardshell mask. Civilisation encroaches from this kingdom's crown, but the lowlands are still ruled by great beasts. Its roar stirs something deep within me, some primal instinct.
+  - Caranid:
+![thisthingy](https://cdn.wikimg.net/en/hkwiki/images/8/82/B_Caranid.png)
+    - Hornet's notes: Common winged bug of the lowlands. Generally docile, but will attack if threats come close. Their plump, round shape makes them well-suited for target practice. Difficult to resist testing my aim on them...
 - Art:
 None yet :/
 - Subreddit: r/FarFields
@@ -268,7 +292,7 @@ None yet :/
 None yet :/
 - Subreddit: r/mythfalls_
 :::
-::: details Vernadia
+::: details Verdania
 - A lush and found kingdom.
 - Leader: TBD
 - Bestiary & Locals:
