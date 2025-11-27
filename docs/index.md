@@ -140,6 +140,15 @@ None yet :/
 None yet :/
 - Subreddit: r/Underworks
 :::
+::: details Cogwork Core
+- The inner workings of the citadel.
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/CitadelUnsung
+:::
 ::: details High Halls
 - The main social and commercial area of the citadel.
 - Leader: Hornet through Malafar
