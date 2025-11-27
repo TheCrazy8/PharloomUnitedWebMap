@@ -26,6 +26,8 @@ title: Pharloom Web Map
 ![Mossmir](./public/Mossmir_Idle.png)
   - Moss Mother:
 ![Moss Mother](https://cdn.wikimg.net/en/hkwiki/images/1/1e/B_Moss_Mother.png)
+  - Aknid:
+![Aknid](https://cdn.wikimg.net/en/hkwiki/images/f/fb/B_Aknid.png)
 - Art:
 None yet :/
 - Subreddit: r/Mosslands
