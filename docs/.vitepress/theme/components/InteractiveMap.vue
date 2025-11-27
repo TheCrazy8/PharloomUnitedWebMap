@@ -58,7 +58,7 @@ const regions = [
   { id: 'fields-of-eucor', name: 'Fields of Eucor', x: 82, y: 45, width: 8, height: 5 },
   { id: 'mount-fay', name: 'Mount Fay', x: 18, y: 36, width: 10, height: 6 },
   { id: 'last-oasis', name: 'Last Oasis', x: 15, y: 50, width: 8, height: 5 },
-  { id: 'vermilion-depths', name: 'Vermilion Depths', x: 82, y: 62, width: 8, height: 6 },
+  { id: 'vermilion-depths', name: 'Vermilion depths', x: 82, y: 62, width: 8, height: 6 },
   { id: 'weavenests', name: 'Weavenests', x: 88, y: 56, width: 6, height: 5 },
   { id: 'wisp-thicket', name: 'Wisp Thicket', x: 85, y: 38, width: 8, height: 6 },
   { id: 'pharlooms-hive', name: 'Pharloom\'s Hive', x: 25, y: 42, width: 6, height: 5 },
@@ -76,18 +76,18 @@ function setLayer(layerId) {
 }
 
 function navigateToRegion(regionId) {
-  // Convert region id to the format used in the details elements
-  const detailsName = regionId
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ')
+  // Find the region by ID to get its exact name
+  const region = regions.find(r => r.id === regionId)
+  if (!region) return
+  
+  const detailsName = region.name
   
   // Find and open the corresponding details element
   const allDetails = document.querySelectorAll('details.details')
   
   for (const details of allDetails) {
     const summary = details.querySelector('summary')
-    if (summary && summary.textContent.trim() === detailsName) {
+    if (summary && summary.textContent.trim().toLowerCase() === detailsName.toLowerCase()) {
       // Close all other details
       allDetails.forEach(d => {
         if (d !== details) {
