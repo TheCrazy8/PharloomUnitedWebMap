@@ -69,11 +69,38 @@ None yet :/
 - Subreddit: r/EasternGreymoor
 :::
 ::: details Western Greymoor
-- The west side of Greymoor, from the halfway home to Bellhart.
+- The west side of Greymoor, from the entrance to Far Fields home to Bellhart.
 - Leader: TBD
 - Bestiary & Locals:
   - Soon
 - Art:
 None yet :/
 - Subreddit: r/GreymoorSilksong
+:::
+::: details Bellhart
+- A quaint town between Greymoor and Shellwood, home to many friendly faces.
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet:/
+- Subreddit: r/Bellhart
+:::
+::: details Shellwood
+- A wet, forestlike, and wild woodland with pretty white flowers.
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/Shellwood
+:::
+::: details Wormways
+- A formerly sandy area, now infected with lifeblood.
+- Leader: Lifeblood (it consumes all)
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/Wormways
 :::
