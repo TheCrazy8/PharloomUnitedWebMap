@@ -19,7 +19,7 @@ title: Pharloom Web Map
 - Leader: TBD
 - Bestiary & Locals:
   - Will be made when i have time and energy.
-- Art of the area:
+- Art:
 None yet :/
 - Subreddit: r/Mosslands
 :::
@@ -28,7 +28,7 @@ None yet :/
 - Leader: BigShip6556
 - Bestiary & Locals:
   - Soon
-- Art of the area:
+- Art:
 None yet :/
 - Subreddit: r/MarrowPharloom, r/independantArmy
 :::
@@ -37,7 +37,7 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Soon
-- Art of the area:
+- Art:
 None yet :/
 - Subreddit: r/deepdocks
 :::
@@ -46,7 +46,34 @@ None yet :/
 - Leader: Last Claw
 - Bestiary & Locals:
   - Soon
-- Art of the area:
+- Art:
 None yet :/
 - Subreddit: r/Hunters_march
+:::
+::: details Far Fields
+- The outer reaches of the Skarr Tribe, unintentionally heated by Deep Docks.
+- Leader: Last Claw
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/FarFields
+:::
+::: details Eastern Greymoor
+- The eastern side of Greymoor, ruled by the Court of the Craws.
+- Leader: Crawfather
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/EasternGreymoor
+:::
+::: details Western Greymoor
+- The west side of Greymoor, from the halfway home to Bellhart.
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/GreymoorSilksong
 :::
