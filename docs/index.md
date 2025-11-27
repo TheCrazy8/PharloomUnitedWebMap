@@ -8,10 +8,7 @@ title: Pharloom Web Map
 
 ## Maps:
 
-### Region Layer:
-![Region Map](./public/Pharloom.png)
-
-### Diplomacy Layer:
+<InteractiveMap />
 
 ## Info:
 ::: details Mosslands
