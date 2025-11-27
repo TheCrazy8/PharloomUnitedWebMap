@@ -74,7 +74,23 @@ None yet :/
 ![slug](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Lavalug.png)
     - Hornet's notes: Sticky mollusc that defends itself by spraying burning fluid from growths on its back. What seems at first a purely defensive mechanism may also be necessary to rid this creature of excess heat.
   - Lavalarga:
-
+![slug but fat](https://cdn.wikimg.net/en/hkwiki/images/4/45/B_Lavalarga.png)
+    - Hornet's notes: Fully grown mollusc able to unleash a gushing torrent of burning fluid from its back. To survive while storing so much searing fluid within... Before I would have believed it impossible, but Pharloom is home to many marvels.
+  - Smelt Shoveller:
+![o](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Smelt_Shoveller.png)
+    - Hornet's notes: Low level worker lost to Pharloom's haunting. Instinct keeps them at their task, though in much simpler fashion than before. This kingdom appears more advanced in metalwork than my own ever was, in great part due to the natural heat source at its base. Working in such an environment is an impressive feat.
+  - Flintstone Flyer:
+![GRAND DAD](https://cdn.wikimg.net/en/hkwiki/images/9/92/B_Flintstone_Flyer.png)
+    - Hornet's notes: Aerial worker lost to Pharloom's Haunting. Bears a pouch full with flintstone which they will fling at intruders. That incendiary material they carry is a natural wonder, with many potential applications. What a waste to carelessly throw it at me whenever I pass by.
+  - Flintflame Flyer:
+![FLEENTSTONES?!](https://cdn.wikimg.net/en/hkwiki/images/b/b1/B_Flintflame_Flyer.png)
+    - Hornet's notes: Brave worker carrying unstable flintflame and wearing a heavy bell to protect against potential ignition. Theirs would be a high risk life, followed by a short, searing end.
+  - Smokerock Sifter:
+![egg](https://cdn.wikimg.net/en/hkwiki/images/1/1d/B_Smokerock_Sifter.png)
+    - Hornet's notes: Cymbal bearing worker of the Deep Docks. Pans the hauls of smokerock to find traces of more precious minerals. The Haunting has stolen some important part of these bugs, yet still they attempt their former task. Until, that is, they sense my presence...
+  - Deep Diver:
+![deev](https://cdn.wikimg.net/en/hkwiki/images/e/ef/B_Deep_Diver.png)
+    - Hornet's notes: Bell-clad bug responsible for mining the deeper, treacherous depths below their docks. Their heavier bells armour them well against my strikes, but against that oppressive heat... can they help at all?
 - Art:
 None yet :/
 - Subreddit: r/deepdocks
@@ -83,7 +99,24 @@ None yet :/
 - The lands of the Skarr Tribe, home to many traps.
 - Leader: Last Claw
 - Bestiary & Locals:
-  - Soon
+  - Skarrlid:
+![https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png)
+    - Hornet's notes: Small burrowing ant, servant to the larger Skarr. These bugs work mainly as finders and foragers for the warriors of their tribe. Combat has not long been their nature.
+  - Skarrwing:
+![feeff](https://cdn.wikimg.net/en/hkwiki/images/2/20/B_Skarrwing.png)
+    - Hornet's notes: Darting predator that clings fast to roofs and outcrops, often summoned to aid its larger companions. They would make effective hunting companions, though even without the Haunting I suspect their loyalty would always remain to their clan.
+  - Skarr Scout:
+![ruhyeifbovuegt](https://cdn.wikimg.net/en/hkwiki/images/2/2b/B_Skarr_Scout.png)
+    - Hornet's notes: Young ant hunter wielding sickles carved from teeth. Will often call for aid if danger comes close. Despite their youth, they are impressive opponents. It seems likely their tribe were trained for combat from birth.
+  - Skarr Stalker:
+![ecefvrfv](https://cdn.wikimg.net/en/hkwiki/images/1/13/B_Skarr_Stalker.png)
+    - Hornet's notes: Skilled ant hunter bearing blade and armour fashioned from bone. Fierce, strong and disciplined... yet these qualities do not protect them from the Haunting. Is such a fate inevitable in these lands?
+  - Spear Skarr:
+![  dedededed](https://cdn.wikimg.net/en/hkwiki/images/6/6e/Spear_Skarr.png)
+    - Hornet's notes: Winged ant hunter that strikes from the air with its bone lance. In my youth, I envied all bugs with wings. I even fancied I might grow a pair... I have since learned better. Accept the limitations of one's body... and augment with tools as needed.
+  - Skarrgard:
+![eicfefvirvri](https://cdn.wikimg.net/en/hkwiki/images/4/44/B_Skarrgard.png)
+    - Hornet's notes: Huge ant hunter tasked to protect the stores and passages of its tribe. Theirs is the perfect shell for their duty, a wall of a warrior and an adept fighter. If I hope to claim their treasures, I must bring my best.
 - Art:
 None yet :/
 - Subreddit: r/Hunters_march
@@ -125,6 +158,18 @@ None yet :/
   - Rhinogrund:
 ![did you meet this?](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Rhinogrund.png)
     - Hornet's notes: Long-Horned beast of Pharloom's lowlands. Relies on its horn to both impale and to wrench the ground beneath it, flinging dangerous debris. Certain tools and skills can pierce its defences. I should adjust my strategy as needed.
+  - Brushflit:
+![dowpeoeodkiedjcfiruhnviru](https://cdn.wikimg.net/en/hkwiki/images/5/51/B_Brushflit.png)
+    - Hornet's notes: Tiny, timid creatures that huddle in flocks and flee at the first hint of danger. They call out to their fellows at the smallest sense of threat. A successful hunt here means staying silent and hidden right up until the decisive strike.
+  - Fertid:
+![eodierjfvoruit](https://cdn.wikimg.net/en/hkwiki/images/7/74/B_Fertid.png)
+    - Hornet's notes: Skittish scrambler of the Far Fields. Its antennae resemble stalks of grass to aid in camouflage. It has no means to defend itself. Its only hope for survival is to be mistaken for a plant.
+  - Flapping Fertid:
+![keerceceecfcf](https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_Flapping_Fertid.png)
+    - Hornet's notes: Docile bugs whose wings mimic the grasses of the Far Fields. A common snack for larger predators. When roosting, it would look convincingly plant-like. In flight, its bulbous body quickly ruins the ruse.
+  - Fourth Chorus:
+![ecowdeweccwe](https://cdn.wikimg.net/en/hkwiki/images/thumb/d/db/B_Fourth_Chorus.png/600px-B_Fourth_Chorus.png)
+    - Hornet's notes: Towering iron automaton, driven by rotor and cog. A terrifying achievement of Pharloom, to build a construct so large and yet so nimble.
 - Art:
 None yet :/
 - Subreddit: r/FarFields
@@ -175,6 +220,12 @@ None yet :/
   - Grom:
 ![qwef](https://cdn.wikimg.net/en/hkwiki/images/8/8e/B_Grom.png)
     - Hornet's notes: Burrowing worm that uses its many blunted teeth to dig through even the hardest bone. They ceaselessly churn through rock and bone without ever seeming to rest. Do they have a destination? Or are they compelled to dig forever deeper?
+  - Cragglite:
+![this](https://cdn.wikimg.net/en/hkwiki/images/f/fc/B_Cragglite.png)
+    - Hornet's notes: Infant form of the more formidable Craggler. If left to grow, these young bugs will fight for dominance until only one remains.
+  - Craggler:
+![this is a boss?](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Craggler.png)
+    - Hornet's notes: Thick-plated scuttler that prefers high places. Holds an extensive supply of searing acid in a layered sack within its shell. The acid rains from its mouth upon any creature it sees as food.
 - Art:
 None yet :/
 - Subreddit: r/Wormways
