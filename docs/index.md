@@ -20,6 +20,10 @@ title: Pharloom Web Map
 - Bestiary & Locals:
   - Mossgrub:
 ![Mossgrub](./public/B_Mossgrub.png)
+  - Massive Mossgrub:
+![Massive Mossgrub](./public/B_Massive_Mossgrub.png)
+  - Mossmir:
+![Mossmir](./public/Mossmir_Idle.png)
 - Art:
 None yet :/
 - Subreddit: r/Mosslands
