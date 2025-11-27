@@ -18,7 +18,8 @@ title: Pharloom Web Map
 - A mossy place, good for starting grand adventures.
 - Leader: TBD
 - Bestiary & Locals:
-  - Will be made when i have time and energy.
+  - Mossgrub:
+![Mossgrub](./public/B_Mossgrub.png)
 - Art:
 None yet :/
 - Subreddit: r/Mosslands
