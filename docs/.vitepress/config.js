@@ -12,6 +12,9 @@ export default {
         ],
         sidebar: [
         ],
+        socialLinks: [
+            { icon: 'discord', link: 'https://discord.gg/qjyaSwRRk' },
+        ],
 
         lastUpdated: {
               text: 'Updated at',
