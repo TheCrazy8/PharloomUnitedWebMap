@@ -379,3 +379,12 @@ None yet :/
 None yet :/
 - Subreddit: r/TherestofPharloom
 :::
+::: details The Abyss
+- A deep dark void below the kingdom... Below everything...
+- Leader: the Shade Lord
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/the_Abys_silksong
+:::
