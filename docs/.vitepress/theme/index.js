@@ -1,12 +1,13 @@
-import {VPLTheme} from '@lando/vitepress-theme-default-plus';
+import DefaultTheme from 'vitepress/theme';
 import 'viewerjs/dist/viewer.min.css';
 import imageViewer from 'vitepress-plugin-image-viewer';
 import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
+
 export default {
-...VPLTheme,
+...DefaultTheme,
 enhanceApp(ctx) {
-VPLTheme.enhanceApp(ctx);
+DefaultTheme.enhanceApp(ctx);
 // Register global component (optional)
 ctx.app.component('vImageViewer', vImageViewer);
 },
