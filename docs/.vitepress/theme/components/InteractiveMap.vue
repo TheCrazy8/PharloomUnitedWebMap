@@ -363,7 +363,7 @@ watch(editingRegionId, seedDraftFromRegion)
     <div ref="mapContainer" class="map-container">
       <!-- Region Layer -->
       <div v-show="activeLayer === 'region'" class="map-layer region-layer">
-        <img :src="displayedMap" alt="Pharloom Region Map" class="map-image" />
+        <img :src="displayedMap" alt="Pharloom Region Map" :class="['map-image', { 'viewer-disabled': isEditing }]" />
         
         <!-- SVG Overlay for clickable regions -->
         <svg
@@ -646,6 +646,10 @@ watch(editingRegionId, seedDraftFromRegion)
   height: auto;
 }
 
+.map-image.viewer-disabled {
+  pointer-events: none;
+}
+
 .region-overlay {
   position: absolute;
   top: 0;
@@ -653,6 +657,10 @@ watch(editingRegionId, seedDraftFromRegion)
   width: 100%;
   height: 100%;
   pointer-events: none;
+}
+
+.region-overlay.editing {
+  pointer-events: all;
 }
 
 .region-hitbox {
