@@ -39,6 +39,7 @@ None yet :/
 :::
 ::: details Bone Bottom
   - A town in the mosslands, a quite pleasant one at that.
+:::
 ::: details The Marrow
 - A bony place, with fire and such.
 - Leader: BigShip6556
