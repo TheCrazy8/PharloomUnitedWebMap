@@ -41,8 +41,8 @@ jobs:
       - name: Install VitePress and build pages
         run: |
           cd docs
+          npm install vitepress
           npm install vitepress-plugin-image-viewer
-          npm install -D vitepress @lando/vitepress-theme-default-plus
           npx vitepress build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
