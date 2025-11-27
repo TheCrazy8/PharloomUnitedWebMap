@@ -104,7 +104,7 @@ None yet :/
 None yet :/
 - Subreddit: r/Wormways
 :::
-::: details Blasted Steps
+::: details Steps of Judgement
 - A sandy land full of judges.
 - Leader: TBD
 - Bestiary & Locals:
@@ -112,4 +112,76 @@ None yet :/
 - Art:
 None yet :/
 - Subreddit: r/Blasted_Steps
+:::
+::: details Order of Karak
+- A river with corals, now flourishing.
+- Leader: Crust King Khan
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/OrderOfKarak
+:::
+::: details Choral Chambers
+- The entrance to the citadel, now open to all!
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/CitadelUnsung
+:::
+::: details Underworks
+- The bulk of the citadel's industrial production.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/Underworks
+:::
+::: details High Halls
+- The main social and commercial area of the citadel.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soom
+- Art:
+None yet :/
+- Subreddit: r/CitadelUnsung
+:::
+::: details Whiteward
+- The citadel's hospital.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/WhiteWardCitadel
+:::
+::: details Whispering Vaults
+- The former home of all knowledge about everything.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/CitadelUnsung
+:::
+::: details Flies People's Republic
+- Formerly the Slab, but now free!
+- Leader: TBD
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/GoToTheSlab
+:::
+::: details The Cradle
+- The capital of the citadel.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/TheCradleOfPharloom
 :::
