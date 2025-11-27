@@ -1,5 +1,5 @@
 <script setup>
-import { computed, ref, onMounted, nextTick } from 'vue'
+import { computed, ref, onMounted, nextTick, watch } from 'vue'
 import { useData } from 'vitepress'
 import { defaultLayers, defaultMapImage, defaultRegions } from '../data/mapData'
 
@@ -27,6 +27,10 @@ const customMapImage = ref('')
 const layers = ref([...defaultLayers])
 const regions = ref(cloneRegions(defaultRegions))
 const polygonDrafts = ref({})
+const editingRegionId = ref('')
+const draftPoints = ref([])
+
+const isEditing = computed(() => Boolean(editingRegionId.value))
 
 const displayedMap = computed(() => {
   if (customMapImage.value) {
@@ -34,6 +38,16 @@ const displayedMap = computed(() => {
   }
   return site.value.base + defaultMapImage
 })
+
+function rectToPolygon(hitArea = {}) {
+  const { x = 0, y = 0, width = 0, height = 0 } = hitArea
+  return [
+    [x, y],
+    [x + width, y],
+    [x + width, y + height],
+    [x, y + height]
+  ]
+}
 
 function setLayer(layerId) {
   activeLayer.value = layerId
@@ -107,9 +121,19 @@ function resetCustomImage() {
   }
 }
 
+function persistRegionData() {
+  if (typeof window === 'undefined') return
+  window.localStorage.setItem('pharloom-region-data', JSON.stringify(regions.value))
+}
+
 function resetRegionData() {
   regions.value = cloneRegions(defaultRegions)
   polygonDrafts.value = {}
+  draftPoints.value = []
+  editingRegionId.value = ''
+  if (typeof window !== 'undefined') {
+    window.localStorage.removeItem('pharloom-region-data')
+  }
 }
 
 function downloadRegionData() {
@@ -126,6 +150,7 @@ function downloadRegionData() {
 function handleRegionDataUpload(event) {
   const file = event.target.files?.[0]
   if (!file) return
+  event.target.value = ''
   file.text().then(text => {
     try {
       const parsed = JSON.parse(text)
@@ -135,6 +160,9 @@ function handleRegionDataUpload(event) {
         regions.value = cloneRegions(parsed.regions)
       }
       polygonDrafts.value = {}
+      draftPoints.value = []
+      editingRegionId.value = ''
+      persistRegionData()
     } catch (err) {
       console.error('Unable to load region data', err)
     }
@@ -165,7 +193,99 @@ function handlePolygonInput(regionId, value) {
       type: 'polygon',
       points: parsed
     }
+    persistRegionData()
   }
+}
+
+function getSvgElementFromEvent(event) {
+  if (event.currentTarget instanceof SVGElement) {
+    return event.currentTarget
+  }
+  if (event.currentTarget?.ownerSVGElement) {
+    return event.currentTarget.ownerSVGElement
+  }
+  if (event.target instanceof SVGElement && event.target.ownerSVGElement) {
+    return event.target.ownerSVGElement
+  }
+  return mapContainer.value?.querySelector('svg') || null
+}
+
+function pointFromEvent(event) {
+  const svgEl = getSvgElementFromEvent(event)
+  if (!svgEl) return null
+  const rect = svgEl.getBoundingClientRect()
+  const x = ((event.clientX - rect.left) / rect.width) * 100
+  const y = ((event.clientY - rect.top) / rect.height) * 100
+  return [Number(x.toFixed(2)), Number(y.toFixed(2))]
+}
+
+function handleMapClick(event) {
+  if (!editingRegionId.value) return
+  event.stopPropagation()
+  addDraftPoint(event)
+}
+
+function handleRegionClick(event, region) {
+  if (editingRegionId.value) {
+    event.preventDefault()
+    event.stopPropagation()
+    addDraftPoint(event)
+    return
+  }
+  navigateToRegion(region.id)
+}
+
+function addDraftPoint(event) {
+  const point = pointFromEvent(event)
+  if (!point) return
+  draftPoints.value = [...draftPoints.value, point]
+}
+
+function undoPoint() {
+  if (!draftPoints.value.length) return
+  draftPoints.value = draftPoints.value.slice(0, -1)
+}
+
+function clearDraft() {
+  draftPoints.value = []
+}
+
+function finishPolygon() {
+  if (!editingRegionId.value || draftPoints.value.length < 3) return
+  const region = regions.value.find(r => r.id === editingRegionId.value)
+  if (!region) return
+  region.hitArea = {
+    type: 'polygon',
+    points: draftPoints.value.map(point => [...point])
+  }
+  persistRegionData()
+  polygonDrafts.value[region.id] = region.hitArea.points.map(point => point.join(',')).join(' ')
+  draftPoints.value = region.hitArea.points.map(point => [...point])
+}
+
+function seedDraftFromRegion(regionId) {
+  if (!regionId) {
+    draftPoints.value = []
+    return
+  }
+  const region = regions.value.find(r => r.id === regionId)
+  if (!region) {
+    draftPoints.value = []
+    return
+  }
+  if (region.hitArea?.type === 'polygon') {
+    draftPoints.value = region.hitArea.points.map(point => [...point])
+    return
+  }
+  if (region.hitArea?.type === 'rect') {
+    draftPoints.value = rectToPolygon(region.hitArea)
+    return
+  }
+  draftPoints.value = []
+}
+
+function saveRegionsLocally() {
+  persistRegionData()
 }
 
 onMounted(() => {
@@ -174,8 +294,21 @@ onMounted(() => {
     if (cached) {
       customMapImage.value = cached
     }
+    const cachedRegions = window.localStorage.getItem('pharloom-region-data')
+    if (cachedRegions) {
+      try {
+        const parsed = JSON.parse(cachedRegions)
+        if (Array.isArray(parsed)) {
+          regions.value = cloneRegions(parsed)
+        }
+      } catch (err) {
+        console.warn('Unable to parse stored regions', err)
+      }
+    }
   }
 })
+
+watch(editingRegionId, seedDraftFromRegion)
 </script>
 
 <template>
@@ -205,6 +338,27 @@ onMounted(() => {
       <span class="upload-hint">Upload stays local. Replace docs/public/Pharloom.png to publish.</span>
     </div>
 
+    <div class="map-editing-controls">
+      <label>
+        Trace region
+        <select v-model="editingRegionId">
+          <option value="">None (view only)</option>
+          <option
+            v-for="region in regions"
+            :key="region.id"
+            :value="region.id"
+          >
+            {{ region.name }}
+          </option>
+        </select>
+      </label>
+      <button class="primary-btn" @click="finishPolygon" :disabled="draftPoints.length < 3">
+        Save polygon ({{ draftPoints.length }})
+      </button>
+      <button class="ghost-btn" @click="undoPoint" :disabled="draftPoints.length === 0">Undo point</button>
+      <button class="ghost-btn" @click="clearDraft" :disabled="draftPoints.length === 0">Clear draft</button>
+    </div>
+
     <!-- Map Container -->
     <div ref="mapContainer" class="map-container">
       <!-- Region Layer -->
@@ -212,13 +366,19 @@ onMounted(() => {
         <img :src="displayedMap" alt="Pharloom Region Map" class="map-image" />
         
         <!-- SVG Overlay for clickable regions -->
-        <svg class="region-overlay" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <svg
+          class="region-overlay"
+          :class="{ editing: isEditing }"
+          viewBox="0 0 100 100"
+          preserveAspectRatio="none"
+          @click="handleMapClick"
+        >
           <template v-for="region in regions" :key="region.id">
             <polygon
               v-if="region.hitArea?.type === 'polygon'"
               :points="region.hitArea.points.map(point => point.join(',')).join(' ')"
               class="region-hitbox"
-              @click="navigateToRegion(region.id)"
+              @click="handleRegionClick($event, region)"
               @mousemove="handleMouseMove($event, region)"
               @mouseleave="handleMouseLeave"
             />
@@ -229,11 +389,25 @@ onMounted(() => {
               :width="region.hitArea?.width"
               :height="region.hitArea?.height"
               class="region-hitbox"
-              @click="navigateToRegion(region.id)"
+              @click="handleRegionClick($event, region)"
               @mousemove="handleMouseMove($event, region)"
               @mouseleave="handleMouseLeave"
             />
           </template>
+          <polyline
+            v-if="isEditing && draftPoints.length"
+            :points="draftPoints.map(point => point.join(',')).join(' ')"
+            class="draft-path"
+          />
+          <circle
+            v-for="(point, index) in draftPoints"
+            v-if="isEditing"
+            :key="`draft-${index}`"
+            :cx="point[0]"
+            :cy="point[1]"
+            r="1"
+            class="draft-point"
+          />
         </svg>
         
         <!-- Tooltip -->
@@ -256,6 +430,10 @@ onMounted(() => {
     </div>
 
     <p class="map-hint">💡 Click on a region to view its details below</p>
+    <p v-if="isEditing" class="map-hint editing-hint">
+      ✏️ Tracing {{ regions.find(r => r.id === editingRegionId)?.name || '' }} — click anywhere on the map to add points.
+      Finish by clicking “Save polygon” once you have at least three points.
+    </p>
 
     <details class="map-editor">
       <summary>Map calibration &amp; data tools</summary>
@@ -265,6 +443,7 @@ onMounted(() => {
           <span>Import JSON</span>
           <input type="file" accept="application/json" @change="handleRegionDataUpload" />
         </label>
+        <button class="ghost-btn" @click="saveRegionsLocally">Save locally</button>
         <button class="ghost-btn" @click="resetRegionData">Reset to defaults</button>
       </div>
       <p class="editor-note">
@@ -278,19 +457,19 @@ onMounted(() => {
             <div class="editor-inputs">
               <label>
                 X (%):
-                <input type="number" v-model.number="region.hitArea.x" min="0" max="100" step="0.1" />
+                <input type="number" v-model.number="region.hitArea.x" min="0" max="100" step="0.1" @change="persistRegionData" />
               </label>
               <label>
                 Y (%):
-                <input type="number" v-model.number="region.hitArea.y" min="0" max="100" step="0.1" />
+                <input type="number" v-model.number="region.hitArea.y" min="0" max="100" step="0.1" @change="persistRegionData" />
               </label>
               <label>
                 Width (%):
-                <input type="number" v-model.number="region.hitArea.width" min="0" max="100" step="0.1" />
+                <input type="number" v-model.number="region.hitArea.width" min="0" max="100" step="0.1" @change="persistRegionData" />
               </label>
               <label>
                 Height (%):
-                <input type="number" v-model.number="region.hitArea.height" min="0" max="100" step="0.1" />
+                <input type="number" v-model.number="region.hitArea.height" min="0" max="100" step="0.1" @change="persistRegionData" />
               </label>
             </div>
           </template>
@@ -404,6 +583,48 @@ onMounted(() => {
 .upload-hint {
   font-size: 0.8rem;
   color: var(--vp-c-text-3);
+}
+
+.map-editing-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.map-editing-controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  gap: 0.25rem;
+}
+
+.map-editing-controls select {
+  min-width: 200px;
+  border-radius: 6px;
+  border: 1px solid var(--vp-c-divider);
+  padding: 0.3rem 0.5rem;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+}
+
+.primary-btn {
+  border: none;
+  background: var(--vp-c-brand);
+  color: #fff;
+  padding: 0.45rem 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: opacity 0.2s ease;
+}
+
+.primary-btn:disabled,
+.ghost-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
 .map-container {
@@ -577,5 +798,29 @@ onMounted(() => {
 .upload-btn.compact {
   padding: 0.35rem 0.6rem;
   font-size: 0.8rem;
+}
+
+.region-overlay.editing {
+  cursor: crosshair;
+}
+
+.region-overlay.editing .region-hitbox {
+  pointer-events: none;
+}
+
+.draft-path {
+  fill: rgba(255, 255, 255, 0.08);
+  stroke: var(--vp-c-brand);
+  stroke-width: 0.4;
+}
+
+.draft-point {
+  fill: var(--vp-c-brand);
+  stroke: #000;
+  stroke-width: 0.2;
+}
+
+.editing-hint {
+  margin-top: 0.35rem;
 }
 </style>
