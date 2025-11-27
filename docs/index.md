@@ -24,6 +24,8 @@ title: Pharloom Web Map
 ![Massive Mossgrub](./public/B_Massive_Mossgrub.png)
   - Mossmir:
 ![Mossmir](./public/Mossmir_Idle.png)
+  - Moss Mother:
+![Moss Mother](https://cdn.wikimg.net/en/hkwiki/images/1/1e/B_Moss_Mother.png)
 - Art:
 None yet :/
 - Subreddit: r/Mosslands
