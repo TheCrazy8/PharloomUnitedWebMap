@@ -276,7 +276,7 @@ None yet :/
 None yet :/
 - Subreddit: r/Underworks
 :::
-::: details Colluseum of Spools
+::: details Colosseum of Spools
 - The military district of the citadel.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
