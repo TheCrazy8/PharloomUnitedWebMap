@@ -706,8 +706,8 @@
     }
   },
   {
-    "id": "colluseum-of-spools",
-    "name": "Colluseum of Spools",
+    "id": "colosseum-of-spools",
+    "name": "Colosseum of Spools",
     "hitArea": {
       "type": "polygon",
       "points": [
