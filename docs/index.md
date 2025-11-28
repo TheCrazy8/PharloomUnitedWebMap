@@ -283,6 +283,8 @@ None yet :/
   - No unique
 - Art:
 None yet :/
+- Subreddit: r/CitadelUnsung
+:::
 ::: details Cogwork Core
 - The inner workings of the citadel.
 - Leader: TBD
