@@ -1,7 +1,13 @@
 <script setup>
 import { computed, ref, onMounted, nextTick, watch } from 'vue'
 import { useData } from 'vitepress'
-import { defaultLayers, defaultMapImage, defaultRegions } from '../data/mapData'
+import defaultRegions from '../data/map-regions.json'
+
+const defaultMapImage = 'Pharloom.png'
+const defaultLayers = [
+  { id: 'region', name: 'Regions', placeholder: false },
+  { id: 'diplomacy', name: 'Diplomacy', placeholder: true }
+]
 
 const { site } = useData()
 
