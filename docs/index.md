@@ -276,6 +276,13 @@ None yet :/
 None yet :/
 - Subreddit: r/Underworks
 :::
+::: details Colluseum of Spools
+- The military district of the citadel.
+- Leader: Hornet through Malafar
+- Bestiary & Locals:
+  - No unique
+- Art:
+None yet :/
 ::: details Cogwork Core
 - The inner workings of the citadel.
 - Leader: TBD
