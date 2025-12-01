@@ -36,6 +36,7 @@ None yet :/
 :::
 ::: details Bone Bottom
   - A town in the mosslands, a quite pleasant one at that.
+  - Leader: Flick the fixer
 :::
 ::: details The Marrow
 - A bony place, with fire and such.
