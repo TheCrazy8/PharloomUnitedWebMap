@@ -403,8 +403,8 @@
     }
   },
   {
-    "id": "steps-of-judgement",
-    "name": "Steps of Judgement",
+    "id": "snitch-steps",
+    "name": "Snitch Steps",
     "hitArea": {
       "type": "polygon",
       "points": [
