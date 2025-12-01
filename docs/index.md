@@ -241,9 +241,9 @@ None yet :/
 None yet :/
 - Subreddit: r/Wormways
 :::
-::: details Steps of Judgement
-- A sandy land full of judges.
-- Leader: TBD
+::: details Snitch Steps
+- A sandy land full of Snitchflies.
+- Leader: Grindle
 - Bestiary & Locals:
   - Soon
 - Art:
