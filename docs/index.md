@@ -534,3 +534,10 @@ None yet :/
 None yet :/
 - Subreddit: r/the_Abys_silksong
 :::
+::: details Highland Trails
+- Chilly highlands above Mt Fay
+- Leader: Garmond
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
