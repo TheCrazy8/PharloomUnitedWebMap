@@ -176,7 +176,15 @@ None yet :/
 - The eastern side of Greymoor, ruled by the Court of the Craws.
 - Leader: Crawfather
 - Bestiary & Locals:
-  - Soon
+  - Classic Craw:
+![Craw](https://cdn.wikimg.net/en/hkwiki/images/4/48/B_Classic_Craw.png)
+    - Hornet's notes: Lake-dwelling bug of the Court. Its shell is marked with the Craw's ceremonial patterns. They seem to guard these waters with reverence, though I sense no divine presence here.
+  - Tallcraw:
+![Tallcraw](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Tallcraw.png)
+    - Hornet's notes: Lanky Craw bearing a staff. Strikes with surprising reach and speed. Their form is well-suited to the marshes they patrol.
+  - Squatcraw:
+![Squatcraw](https://cdn.wikimg.net/en/hkwiki/images/5/5a/B_Squatcraw.png)
+    - Hornet's notes: Stout Craw warrior with a heavy shell. Charges with determination to defend its domain. Even the smallest of the Craws fights with unwavering loyalty to their court.
 - Art:
 None yet :/
 - Subreddit: r/EasternGreymoor
@@ -207,7 +215,12 @@ None yet :/
 - A quaint town between Greymoor and Shellwood, home to many friendly faces.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Furm:
+![Furm](https://cdn.wikimg.net/en/hkwiki/images/8/8f/B_Furm.png)
+    - Hornet's notes: Small spider bearing a bell. Leaps at intruders with surprising courage. The bells they wear serve as both decoration and warning.
+  - Winged Furm:
+![Winged Furm](https://cdn.wikimg.net/en/hkwiki/images/3/35/B_Winged_Furm.png)
+    - Hornet's notes: Airborne variant of the Furm. Flies vertically through shafts, blocking passage. Their wings are delicate, but their determination is not.
 - Art:
 None yet :/
 - Subreddit: r/Bellhart
@@ -216,7 +229,15 @@ None yet :/
 - A wet, forestlike, and wild woodland with pretty white flowers.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Splinter:
+![Splinter](https://cdn.wikimg.net/en/hkwiki/images/1/19/B_Splinter.png)
+    - Hornet's notes: Deadwood bug that lurks in the forest shadows. Its limbs crack and snap with each movement. These woods are haunted by more than just memories.
+  - Splinterbark:
+![Splinterbark](https://cdn.wikimg.net/en/hkwiki/images/6/67/B_Splinterbark.png)
+    - Hornet's notes: Larger deadwood creature with hardened bark armor. Strikes with heavy, splintering blows. The forest itself seems to fight against intruders.
+  - Pollenica:
+![Pollenica](https://cdn.wikimg.net/en/hkwiki/images/a/a9/B_Pollenica.png)
+    - Hornet's notes: Flower bug that scatters pollen as it moves. Its attacks are unpredictable, like the wind through petals. Nature's beauty often conceals danger.
 - Art:
 None yet :/
 - Subreddit: r/Shellwood
@@ -245,7 +266,15 @@ None yet :/
 - A sandy land full of Snitchflies.
 - Leader: Grindle
 - Bestiary & Locals:
-  - Soon
+  - Snitchfly:
+![Snitchfly](https://cdn.wikimg.net/en/hkwiki/images/d/d5/B_Snitchfly.png)
+    - Hornet's notes: Tattletale insect that alerts others to danger. Its shrill cries echo across the dunes. A nuisance more than a threat, but one that draws greater perils.
+  - Pilgrim Hiker:
+![Pilgrim Hiker](https://cdn.wikimg.net/en/hkwiki/images/7/7c/B_Pilgrim_Hiker.png)
+    - Hornet's notes: Wandering bug bearing a pack. Lost to the Haunting but still compelled to travel. What destination did they seek before their mind was stolen?
+  - Pilgrim Bellbearer:
+![Pilgrim Bellbearer](https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Pilgrim_Bellbearer.png)
+    - Hornet's notes: Pilgrim carrying a ceremonial bell. Rings it to summon companions when threatened. Even in madness, they seek the comfort of fellowship.
 - Art:
 None yet :/
 - Subreddit: r/Blasted_Steps
@@ -254,7 +283,15 @@ None yet :/
 - A river with corals, now flourishing.
 - Leader: Crust King Khan
 - Bestiary & Locals:
-  - Soon
+  - Karaka:
+![Karaka](https://cdn.wikimg.net/en/hkwiki/images/b/b1/B_Karaka.png)
+    - Hornet's notes: Crustacean warrior of the Order. Its shell gleams with coral growths. They defend their waters with ancient discipline.
+  - Karak Crust King:
+![Karak Crust King](https://cdn.wikimg.net/en/hkwiki/images/3/34/B_Karak_Crust_King.png)
+    - Hornet's notes: Royal guardian of Karak's depths. Its massive claws can crush stone. A leader who has earned the loyalty of all beneath the waves.
+  - Corrcrust:
+![Corrcrust](https://cdn.wikimg.net/en/hkwiki/images/9/98/B_Corrcrust.png)
+    - Hornet's notes: Shielded bug of the coral reefs. Uses its shell to deflect attacks. Patience is required to find the gap in their defenses.
 - Art:
 None yet :/
 - Subreddit: r/OrderOfKarak
@@ -263,7 +300,15 @@ None yet :/
 - The entrance to the citadel, now open to all!
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soon
+  - Choir Pouncer:
+![Choir Pouncer](https://cdn.wikimg.net/en/hkwiki/images/e/e9/B_Choir_Pouncer.png)
+    - Hornet's notes: Leaping performer of the Choral Chambers. Its movements are rhythmic, almost musical. Even in combat, they maintain their ceremonial grace.
+  - Choristor Reed:
+![Choristor Reed](https://cdn.wikimg.net/en/hkwiki/images/2/21/B_Choristor_Reed.png)
+    - Hornet's notes: Musical bug that produces haunting melodies. Its songs can disorient the unwary. Beauty and danger intertwined in every note.
+  - Choir Bellbearer:
+![Choir Bellbearer](https://cdn.wikimg.net/en/hkwiki/images/5/57/B_Choir_Bellbearer.png)
+    - Hornet's notes: Bell-carrying member of the Choir. Rings its instrument to coordinate attacks. The Citadel's grand performances have become a dirge.
 - Art:
 None yet :/
 - Subreddit: r/CitadelUnsung
@@ -272,7 +317,15 @@ None yet :/
 - The bulk of the citadel's industrial production.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soon
+  - Underworker:
+![Underworker](https://cdn.wikimg.net/en/hkwiki/images/4/49/B_Underworker.png)
+    - Hornet's notes: Tireless laborer of the Citadel's depths. Still attempts its duties despite the Haunting. The industry of this kingdom persists even in ruin.
+  - Cogwork Hauler:
+![Cogwork Hauler](https://cdn.wikimg.net/en/hkwiki/images/a/ab/B_Cogwork_Hauler.png)
+    - Hornet's notes: Mechanical construct designed for heavy lifting. Its gears grind relentlessly. An impressive feat of engineering, now serving no purpose.
+  - Undercrank:
+![Undercrank](https://cdn.wikimg.net/en/hkwiki/images/8/86/B_Undercrank.png)
+    - Hornet's notes: Machine tender lost to the Haunting. Turns its crank endlessly, powering nothing. Purpose without meaning is a cruel fate.
 - Art:
 None yet :/
 - Subreddit: r/Underworks
@@ -290,7 +343,15 @@ None yet :/
 - The inner workings of the citadel.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Cogworker:
+![Cogworker](https://cdn.wikimg.net/en/hkwiki/images/2/22/B_Cogworker.png)
+    - Hornet's notes: Flighted automaton, responsible for repairing and extending the Core. More effective an opponent than would be guessed. The precarity of its winding domain can make even its simple assault a challenge.
+  - Cogwork Crawler:
+![Cogwork Crawler](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Cogwork_Crawler.png)
+    - Hornet's notes: Mechanical bug that patrols the Core's passages. Its movements are precise, calculated. These machines were built to last for eternity.
+  - Cogwork Defender:
+![Cogwork Defender](https://cdn.wikimg.net/en/hkwiki/images/d/d9/B_Cogwork_Defender.png)
+    - Hornet's notes: Guardian automaton with reinforced plating. Protects critical areas of the Core. Even without masters, they fulfill their programming.
 - Art:
 None yet :/
 - Subreddit: r/CitadelUnsung
@@ -299,7 +360,15 @@ None yet :/
 - The main social and commercial area of the citadel.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soom
+  - Vaultkeeper:
+![Vaultkeeper](https://cdn.wikimg.net/en/hkwiki/images/5/51/B_Vaultkeeper.png)
+    - Hornet's notes: Guardian of the Citadel's treasures. Strikes with ceremonial blade. They protect what remains of this kingdom's wealth with unwavering dedication.
+  - Lampbearer:
+![Lampbearer](https://cdn.wikimg.net/en/hkwiki/images/8/8d/B_Lampbearer.png)
+    - Hornet's notes: Bug carrying an eternal flame. Illuminates the halls and burns intruders. Knowledge and fire were once kept separate here.
+  - Scrollreader:
+![Scrollreader](https://cdn.wikimg.net/en/hkwiki/images/3/37/B_Scrollreader.png)
+    - Hornet's notes: Scholar lost to the Haunting, still clutching ancient texts. Their hunger for knowledge persists even in madness. A tragedy to witness.
 - Art:
 None yet :/
 - Subreddit: r/CitadelUnsung
@@ -308,7 +377,15 @@ None yet :/
 - The citadel's hospital.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soon
+  - Tarmite:
+![Tarmite](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Tarmite.png)
+    - Hornet's notes: Flying bone mite that lives near magma. Roasts its prey by spitting scorching tar. Its sticky spit would no doubt make a useful crafting material if moulded fresh. Unfortunately, I cannot stop to experiment.
+  - Whitefly:
+![Whitefly](https://cdn.wikimg.net/en/hkwiki/images/e/ef/B_Whitefly.png)
+    - Hornet's notes: Pristine insect of the healing halls. Its wings shimmer with purifying light. Even this place of healing has been touched by the Haunting.
+  - Healermite:
+![Healermite](https://cdn.wikimg.net/en/hkwiki/images/a/a2/B_Healermite.png)
+    - Hornet's notes: Medical attendant still attempting to perform its duties. It seeks to heal, but the Haunting has twisted its purpose. Compassion corrupted is doubly tragic.
 - Art:
 None yet :/
 - Subreddit: r/WhiteWardCitadel
@@ -326,7 +403,15 @@ None yet :/
 - The former home of all knowledge about everything.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soon
+  - Vaultborn:
+![Vaultborn](https://cdn.wikimg.net/en/hkwiki/images/c/c4/B_Vaultborn.png)
+    - Hornet's notes: Ancient protector of forbidden knowledge. Born from the vaults themselves. Some secrets were meant to be guarded forever.
+  - Whisperling:
+![Whisperling](https://cdn.wikimg.net/en/hkwiki/images/9/94/B_Whisperling.png)
+    - Hornet's notes: Ethereal creature that speaks in riddles. Its voice carries lost wisdom. To listen too long is to risk madness.
+  - Archive Keeper:
+![Archive Keeper](https://cdn.wikimg.net/en/hkwiki/images/2/28/B_Archive_Keeper.png)
+    - Hornet's notes: Librarian of the depths, cataloguing endlessly. Even the Haunting cannot break the habit of organization. Order persists where reason has fled.
 - Art:
 None yet :/
 - Subreddit: r/CitadelUnsung
@@ -335,7 +420,15 @@ None yet :/
 - Formerly the Slab, but now free!
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Slab Roach:
+![Slab Roach](https://cdn.wikimg.net/en/hkwiki/images/4/42/B_Slab_Roach.png)
+    - Hornet's notes: Scavenger of the former prison. Feeds on refuse and forgotten things. They have thrived in places others have abandoned.
+  - Liberation Fly:
+![Liberation Fly](https://cdn.wikimg.net/en/hkwiki/images/7/73/B_Liberation_Fly.png)
+    - Hornet's notes: Free bug celebrating its newfound liberty. Its movements are erratic, joyous. Freedom without direction can be as dangerous as captivity.
+  - Former Guard:
+![Former Guard](https://cdn.wikimg.net/en/hkwiki/images/1/18/B_Former_Guard.png)
+    - Hornet's notes: Guard who once kept order in the Slab. Now confused by the absence of prisoners. Purpose lost is a heavy burden to bear.
 - Art:
 None yet :/
 - Subreddit: r/GoToTheSlab
@@ -344,7 +437,15 @@ None yet :/
 - The capital of the citadel.
 - Leader: Hornet through Malafar
 - Bestiary & Locals:
-  - Soon
+  - Royal Guard:
+![Royal Guard](https://cdn.wikimg.net/en/hkwiki/images/e/e1/B_Royal_Guard.png)
+    - Hornet's notes: Elite protector of the Cradle. Bears ceremonial armor and blade. They defend a throne that no longer holds a ruler.
+  - Silk Tender:
+![Silk Tender](https://cdn.wikimg.net/en/hkwiki/images/b/b6/B_Silk_Tender.png)
+    - Hornet's notes: Caretaker of the royal silk gardens. Weaves intricate patterns even now. Art persists where empire has crumbled.
+  - Crown Bearer:
+![Crown Bearer](https://cdn.wikimg.net/en/hkwiki/images/3/31/B_Crown_Bearer.png)
+    - Hornet's notes: Ceremonial attendant carrying symbols of authority. Seeks a monarch who will never return. Loyalty outlasting its purpose is both noble and tragic.
 - Art:
 None yet :/
 - Subreddit: r/TheCradleOfPharloom
@@ -353,7 +454,15 @@ None yet :/
 - A prison.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Chain Keeper:
+![Chain Keeper](https://cdn.wikimg.net/en/hkwiki/images/5/58/B_Chain_Keeper.png)
+    - Hornet's notes: Jailer bearing heavy chains. Uses them to bind and strike. Justice without mercy creates only suffering.
+  - Condemned:
+![Condemned](https://cdn.wikimg.net/en/hkwiki/images/2/2a/B_Condemned.png)
+    - Hornet's notes: Former prisoner still bound by invisible chains. The Haunting has replaced their sentence with an eternal one. What crimes warranted such fate?
+  - Penance Walker:
+![Penance Walker](https://cdn.wikimg.net/en/hkwiki/images/c/c9/B_Penance_Walker.png)
+    - Hornet's notes: Penitent bug walking its endless road. Seeks forgiveness that will never come. Guilt can be a prison more secure than any cell.
 - Art:
 None yet :/
 - Subreddit: r/Sinnnersroad
@@ -362,22 +471,58 @@ None yet :/
 - A bog of bile, but the locals are quite nice.
 - Leader: Groal (R.I.P.)
 - Bestiary & Locals:
-  - Soon
+  - Muckmaggot:
+![Muckmaggot](https://cdn.wikimg.net/en/hkwiki/images/1/14/B_Muckmaggot.png)
+    - Hornet's notes: Maggot that thrives in toxic waters. Its presence indicates the depth of corruption here. Life finds a way, even in the most poisonous places.
+  - Stilkin:
+![Stilkin](https://cdn.wikimg.net/en/hkwiki/images/8/87/B_Stilkin.png)
+    - Hornet's notes: Native of the swamps, walking on stilted legs. They navigate the bile with ease. Adaptation is the key to survival in hostile lands.
+  - Bloatroach:
+![Bloatroach](https://cdn.wikimg.net/en/hkwiki/images/9/91/B_Bloatroach.png)
+    - Hornet's notes: Roach swollen with bile and filth. Its body threatens to burst at any moment. The pollution has transformed even the hardiest creatures.
 - Art:
 None yet :/
 - Subreddit: r/Bilewater
 :::
 ::: details Exhaust Organ
 - An area ruled by Phantom, independant of everyone else.
+- Bestiary & Locals:
+  - Phantom Servant:
+![Phantom Servant](https://cdn.wikimg.net/en/hkwiki/images/6/69/B_Phantom_Servant.png)
+    - Hornet's notes: Ghostly attendant of the mysterious Phantom. Moves silently through the exhaust. Independence comes at the cost of isolation.
+  - Steam Wraith:
+![Steam Wraith](https://cdn.wikimg.net/en/hkwiki/images/a/a8/B_Steam_Wraith.png)
+    - Hornet's notes: Ethereal being formed from pressurized steam. Scalds with its touch. The machines here create more than just exhaust.
+  - Pressure Keeper:
+![Pressure Keeper](https://cdn.wikimg.net/en/hkwiki/images/7/7e/B_Pressure_Keeper.png)
+    - Hornet's notes: Guardian of the exhaust systems. Maintains the delicate balance. Too much pressure and everything explodes.
 :::
 ::: details Pharloom Labs
 - A laboratory for testing tech, and studying stuff.
+- Bestiary & Locals:
+  - Lab Specimen:
+![Lab Specimen](https://cdn.wikimg.net/en/hkwiki/images/d/d2/B_Lab_Specimen.png)
+    - Hornet's notes: Experimental creature escaped from containment. Shows signs of artificial enhancement. Science without restraint creates monsters.
+  - Research Assistant:
+![Research Assistant](https://cdn.wikimg.net/en/hkwiki/images/9/9b/B_Research_Assistant.png)
+    - Hornet's notes: Scholar lost to their studies. Still attempts experiments. Knowledge pursued too fervently becomes madness.
+  - Test Subject:
+![Test Subject](https://cdn.wikimg.net/en/hkwiki/images/e/eb/B_Test_Subject.png)
+    - Hornet's notes: Bug subjected to countless trials. Bears scars of experimentation. Progress demands sacrifice, but at what cost?
 :::
 ::: details Putrified Ducts
 - The result of old citadel pollution.
 - Leader: Groal (R.I.P.)
 - Bestiary & Locals:
-  - Soon
+  - Spit Squit:
+![Spit Squit](https://cdn.wikimg.net/en/hkwiki/images/4/4e/B_Spit_Squit.png)
+    - Hornet's notes: Projectile-spitting pest of the ducts. Its aim is surprisingly accurate. The smallest creatures can be the most irritating.
+  - Barnak:
+![Barnak](https://cdn.wikimg.net/en/hkwiki/images/7/7a/B_Barnak.png)
+    - Hornet's notes: Ceiling-dwelling grabber with a long tongue. Can snatch prey from below. Its grip is strong, but its attachment is its weakness.
+  - Ductsucker:
+![Ductsucker](https://cdn.wikimg.net/en/hkwiki/images/d/dc/B_Ductsucker.png)
+    - Hornet's notes: Massive tunnel-blocker that charges with deadly force. Its bulk makes it difficult to avoid. Sometimes retreat is the wiser strategy.
 - Art:
 None yet :/
 - Subreddit: r/putrifiedducts
@@ -386,7 +531,15 @@ None yet :/
 - The fleas' utopia.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Festival Flea:
+![Festival Flea](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Festival_Flea.png)
+    - Hornet's notes: Celebratory flea during the Festival. More interested in merriment than combat. Joy is a rare treasure in these lands.
+  - Flea Trader:
+![Flea Trader](https://cdn.wikimg.net/en/hkwiki/images/e/e7/B_Flea_Trader.png)
+    - Hornet's notes: Merchant flea with goods from across Pharloom. They prosper through commerce, not conflict. Trade binds kingdoms together.
+  - Flea Guard:
+![Flea Guard](https://cdn.wikimg.net/en/hkwiki/images/f/f2/B_Flea_Guard.png)
+    - Hornet's notes: Protector of the flea haven. Small but fierce when their home is threatened. Size is no measure of courage.
 - Art:
 None yet :/
 - Subreddit: r/Fleatopia
@@ -395,7 +548,15 @@ None yet :/
 - Reminds me of stories of Bilewater's glory days...
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Mythkeeper:
+![Mythkeeper](https://cdn.wikimg.net/en/hkwiki/images/3/39/B_Mythkeeper.png)
+    - Hornet's notes: Guardian of ancient legends. Strikes with the weight of history. Myths have power when creatures believe in them.
+  - Cascade Crawler:
+![Cascade Crawler](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Cascade_Crawler.png)
+    - Hornet's notes: Bug that climbs the waterfalls. Its grip never falters. Determination can overcome even the strongest currents.
+  - Mistwalker:
+![Mistwalker](https://cdn.wikimg.net/en/hkwiki/images/e/ea/B_Mistwalker.png)
+    - Hornet's notes: Ethereal being of the mists. Appears and vanishes like vapor. Some things are not meant to be fully understood.
 - Art:
 None yet :/
 - Subreddit: r/mythfalls_
@@ -404,7 +565,15 @@ None yet :/
 - A lush and found kingdom.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Verdant Creeper:
+![Verdant Creeper](https://cdn.wikimg.net/en/hkwiki/images/8/89/B_Verdant_Creeper.png)
+    - Hornet's notes: Plant-bug hybrid that blends with the foliage. Strikes from camouflage. Nature's deception is perfected here.
+  - Bloom Guardian:
+![Bloom Guardian](https://cdn.wikimg.net/en/hkwiki/images/d/d8/B_Bloom_Guardian.png)
+    - Hornet's notes: Protector of the verdant gardens. Its body blooms with defensive thorns. Beauty and danger grow together in these lands.
+  - Vine Snapper:
+![Vine Snapper](https://cdn.wikimg.net/en/hkwiki/images/1/15/B_Vine_Snapper.png)
+    - Hornet's notes: Aggressive vine that lashes out at movement. Quick reflexes are required. The forest fights back against all intruders.
 - Art:
 None yet :/
 - Subreddit: r/NewVerdania
@@ -413,7 +582,15 @@ None yet :/
 - The lands to the east of Vernadia, originally used as protection, now sovereign.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Eucor Wanderer:
+![Eucor Wanderer](https://cdn.wikimg.net/en/hkwiki/images/c/cf/B_Eucor_Wanderer.png)
+    - Hornet's notes: Nomadic bug of the eastern fields. Travels in search of purpose. Not all who wander are lost, but these certainly are.
+  - Field Stalker:
+![Field Stalker](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Field_Stalker.png)
+    - Hornet's notes: Predator that hunts across the open plains. Uses tall grass for cover. Open spaces offer no safety from patient hunters.
+  - Grassblade:
+![Grassblade](https://cdn.wikimg.net/en/hkwiki/images/5/54/B_Grassblade.png)
+    - Hornet's notes: Insect with blade-like wings. Cuts through the air with precision. Even the gentlest breeze carries danger here.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -422,7 +599,15 @@ None yet :/
 - Cold mountain... Can't stay too long.
 - Leader: Sharp-Somewhere
 - Bestiary & Locals:
-  - Soon
+  - Frostbiter:
+![Frostbiter](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Frostbiter.png)
+    - Hornet's notes: Mountain predator adapted to extreme cold. Its bite carries the chill of ice. The cold here is not just temperature, but a force.
+  - Snow Crawler:
+![Snow Crawler](https://cdn.wikimg.net/en/hkwiki/images/7/76/B_Snow_Crawler.png)
+    - Hornet's notes: Bug that burrows through snow and ice. Surfaces without warning. The mountain hides many dangers beneath its white surface.
+  - Peak Guardian:
+![Peak Guardian](https://cdn.wikimg.net/en/hkwiki/images/b/be/B_Peak_Guardian.png)
+    - Hornet's notes: Ancient sentinel of the highest reaches. Endures the harshest conditions. To survive here requires more than strength.
 - Art:
 None yet :/
 - Subreddit: r/Mountfay
@@ -431,7 +616,15 @@ None yet :/
 - It seems to be the river that leads into the Order of Karak.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Oasis Keeper:
+![Oasis Keeper](https://cdn.wikimg.net/en/hkwiki/images/9/96/B_Oasis_Keeper.png)
+    - Hornet's notes: Guardian of the precious water. Defends this sanctuary fiercely. In arid lands, water is worth more than gold.
+  - River Swimmer:
+![River Swimmer](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_River_Swimmer.png)
+    - Hornet's notes: Aquatic bug that glides through the currents. Graceful in its element. Water grants freedom to those who master it.
+  - Palm Dweller:
+![Palm Dweller](https://cdn.wikimg.net/en/hkwiki/images/3/38/B_Palm_Dweller.png)
+    - Hornet's notes: Bug that makes its home in the oasis palms. Drops down on unsuspecting prey. Even paradise has its predators.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -440,7 +633,15 @@ None yet :/
 - Red crystal caverns, accessed from Bilewater.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Crystal Mite:
+![Crystal Mite](https://cdn.wikimg.net/en/hkwiki/images/4/47/B_Crystal_Mite.png)
+    - Hornet's notes: Tiny bug that feeds on crystal formations. Its carapace glimmers with absorbed minerals. Beauty can emerge from the strangest places.
+  - Vermilion Lurker:
+![Vermilion Lurker](https://cdn.wikimg.net/en/hkwiki/images/8/81/B_Vermilion_Lurker.png)
+    - Hornet's notes: Predator of the red depths. Uses crystal reflections to confuse prey. These caverns play tricks on the eyes.
+  - Geode Guardian:
+![Geode Guardian](https://cdn.wikimg.net/en/hkwiki/images/d/da/B_Geode_Guardian.png)
+    - Hornet's notes: Massive bug encrusted with crystals. Its shell is nearly impenetrable. Patience reveals the weakness in any defense.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -449,7 +650,15 @@ None yet :/
 - The homes of Weavers.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Nest Weaver:
+![Nest Weaver](https://cdn.wikimg.net/en/hkwiki/images/5/59/B_Nest_Weaver.png)
+    - Hornet's notes: Spider kin that constructs intricate nests. Their silk is exceptionally strong. Weaver craft runs in my blood, yet their patterns are foreign to me.
+  - Silk Spinner:
+![Silk Spinner](https://cdn.wikimg.net/en/hkwiki/images/a/aa/B_Silk_Spinner.png)
+    - Hornet's notes: Master of silk production. Creates traps and barriers. Silk can be both art and weapon, as I well know.
+  - Web Walker:
+![Web Walker](https://cdn.wikimg.net/en/hkwiki/images/c/c1/B_Web_Walker.png)
+    - Hornet's notes: Agile spider that navigates webs with ease. Attacks from unexpected angles. In their domain, they hold every advantage.
 - Art:
 None yet :/
 - Subreddit: r/Weavenests
@@ -458,7 +667,15 @@ None yet :/
 - A forest of flames and the cult that worships them.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Flame Wisp:
+![Flame Wisp](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Flame_Wisp.png)
+    - Hornet's notes: Living flame that dances through the thicket. Burns everything it touches. Fire is both life and destruction in these woods.
+  - Cult Acolyte:
+![Cult Acolyte](https://cdn.wikimg.net/en/hkwiki/images/2/2d/B_Cult_Acolyte.png)
+    - Hornet's notes: Worshipper of the eternal flames. Their devotion borders on madness. Faith can be as consuming as the fires they revere.
+  - Ember Beast:
+![Ember Beast](https://cdn.wikimg.net/en/hkwiki/images/9/9e/B_Ember_Beast.png)
+    - Hornet's notes: Creature born from fire itself. Its body radiates intense heat. Some beings are elemental forces given form.
 - Art:
 None yet :/
 - Subreddit: r/WispThicket
@@ -467,7 +684,15 @@ None yet :/
 - Reminds me of home back in Hallownest...
 - Leader: Hive Knight
 - Bestiary & Locals:
-  - Soon
+  - Hive Worker:
+![Hive Worker](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Hive_Worker.png)
+    - Hornet's notes: Industrious bee maintaining the hive. Their work never ceases. This place reminds me of my mother's stories.
+  - Hive Guardian:
+![Hive Guardian](https://cdn.wikimg.net/en/hkwiki/images/e/e9/B_Hive_Guardian.png)
+    - Hornet's notes: Warrior bee protecting the colony. Fierce and loyal. The bonds of the hive run deep.
+  - Honey Keeper:
+![Honey Keeper](https://cdn.wikimg.net/en/hkwiki/images/1/17/B_Honey_Keeper.png)
+    - Hornet's notes: Tender of the honey stores. Guards the hive's most precious resource. Sweet treasures always attract danger.
 - Art:
 None yet :/
 - Subreddit: r/The_Hive_Kingdom
@@ -476,7 +701,15 @@ None yet :/
 - A nice kingdom on the surface!
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Surface Dweller:
+![Surface Dweller](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Surface_Dweller.png)
+    - Hornet's notes: Bug that has never known the underground. Basks in sunlight freely. Their world is so different from mine.
+  - Sky Watcher:
+![Sky Watcher](https://cdn.wikimg.net/en/hkwiki/images/8/85/B_Sky_Watcher.png)
+    - Hornet's notes: Guardian of the upper reaches. Keeps watch over the kingdom. Even paradise requires protection.
+  - Cloud Hopper:
+![Cloud Hopper](https://cdn.wikimg.net/en/hkwiki/images/3/3c/B_Cloud_Hopper.png)
+    - Hornet's notes: Aerial bug that leaps between clouds. Lives entirely in the sky. Freedom has many forms.
 - Art:
 None yet :/
 - Subreddit: r/TheKingdomAbove
@@ -485,7 +718,15 @@ None yet :/
 - An old dilapidated town.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Forgotten One:
+![Forgotten One](https://cdn.wikimg.net/en/hkwiki/images/7/78/B_Forgotten_One.png)
+    - Hornet's notes: Resident who has outlived the town's name. Wanders in confusion. To be forgotten is a fate worse than death.
+  - Ruin Scavenger:
+![Ruin Scavenger](https://cdn.wikimg.net/en/hkwiki/images/d/d5/B_Ruin_Scavenger.png)
+    - Hornet's notes: Bug that picks through the remains. Finds value in what others abandoned. One bug's ruin is another's treasure.
+  - Ghost Walker:
+![Ghost Walker](https://cdn.wikimg.net/en/hkwiki/images/b/b9/B_Ghost_Walker.png)
+    - Hornet's notes: Ethereal being that haunts the old streets. Neither fully present nor absent. Some places hold onto their past too tightly.
 - Art:
 None yet :/
 - Subreddit: r/NamelessTown
@@ -494,7 +735,15 @@ None yet :/
 - Electric area...
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Spark Bug:
+![Spark Bug](https://cdn.wikimg.net/en/hkwiki/images/e/ec/B_Spark_Bug.png)
+    - Hornet's notes: Insect that generates electricity. Its body crackles with energy. Lightning captured in living form.
+  - Volt Keeper:
+![Volt Keeper](https://cdn.wikimg.net/en/hkwiki/images/f/f4/B_Volt_Keeper.png)
+    - Hornet's notes: Guardian of the electric nest. Channels power through its body. To touch it is to invite shock.
+  - Thunder Beetle:
+![Thunder Beetle](https://cdn.wikimg.net/en/hkwiki/images/a/a1/B_Thunder_Beetle.png)
+    - Hornet's notes: Large beetle that roars with electrical discharge. Its presence charges the very air. Power both beautiful and terrifying.
 - Art:
 None yet :/
 :::
@@ -502,7 +751,15 @@ None yet :/
 - A cold grassland, home to the ladybugs.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Frost Ladybug:
+![Frost Ladybug](https://cdn.wikimg.net/en/hkwiki/images/9/93/B_Frost_Ladybug.png)
+    - Hornet's notes: Hardy beetle adapted to the cold. Its shell is covered in frost patterns. Beauty persists even in harsh conditions.
+  - Prairie Hopper:
+![Prairie Hopper](https://cdn.wikimg.net/en/hkwiki/images/6/64/B_Prairie_Hopper.png)
+    - Hornet's notes: Leaping bug of the frozen grasslands. Bounds across the frost with ease. Agility is survival in the cold.
+  - Ice Grazer:
+![Ice Grazer](https://cdn.wikimg.net/en/hkwiki/images/2/26/B_Ice_Grazer.png)
+    - Hornet's notes: Peaceful creature that feeds on frozen vegetation. Only fights when threatened. Not all bugs seek conflict.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -511,7 +768,15 @@ None yet :/
 - The home of the Grimmmtroupe.
 - Leader: Grimm
 - Bestiary & Locals:
-  - Soon
+  - Grimmkin:
+![Grimmkin](https://cdn.wikimg.net/en/hkwiki/images/5/52/B_Grimmkin.png)
+    - Hornet's notes: Servant of the Troupe. Appears wherever the ritual calls. They are bound to their master's endless cycle.
+  - Silver Stalker:
+![Silver Stalker](https://cdn.wikimg.net/en/hkwiki/images/c/ca/B_Silver_Stalker.png)
+    - Hornet's notes: Predator of the wastes. Its silver carapace reflects moonlight. Beauty and danger walk hand in hand here.
+  - Nightmare Spawn:
+![Nightmare Spawn](https://cdn.wikimg.net/en/hkwiki/images/e/e6/B_Nightmare_Spawn.png)
+    - Hornet's notes: Born from the nightmare's heart. Serves the ritual unquestioningly. Dreams and nightmares blur in this place.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -520,7 +785,15 @@ None yet :/
 - A forest of ferns...
 - Leader: the Tull
 - Bestiary & Locals:
-  - Soon
+  - Fern Stalker:
+![Fern Stalker](https://cdn.wikimg.net/en/hkwiki/images/d/df/B_Fern_Stalker.png)
+    - Hornet's notes: Camouflaged hunter of the fern groves. Strikes from within the foliage. The forest has eyes everywhere.
+  - Frond Weaver:
+![Frond Weaver](https://cdn.wikimg.net/en/hkwiki/images/1/1c/B_Frond_Weaver.png)
+    - Hornet's notes: Bug that weaves ferns into nests and traps. Uses nature as both home and weapon. Adaptation creates countless forms.
+  - Spore Spreader:
+![Spore Spreader](https://cdn.wikimg.net/en/hkwiki/images/4/48/B_Spore_Spreader.png)
+    - Hornet's notes: Releases clouds of spores when threatened. The spores cloud vision and senses. Not all defenses are physical.
 - Art:
 None yet :/
 - Subreddit: r/TherestofPharloom
@@ -529,7 +802,15 @@ None yet :/
 - A deep dark void below the kingdom... Below everything...
 - Leader: the Shade Lord
 - Bestiary & Locals:
-  - Soon
+  - Shade:
+![Shade](https://cdn.wikimg.net/en/hkwiki/images/3/3f/B_Shade.png)
+    - Hornet's notes: Pure darkness given form. Embodies the void itself. Some things are better left in the dark.
+  - Abyss Crawler:
+![Abyss Crawler](https://cdn.wikimg.net/en/hkwiki/images/e/e0/B_Abyss_Crawler.png)
+    - Hornet's notes: Creature born from absolute darkness. Exists without light or hope. The void creates its own kind of life.
+  - Void Tendril:
+![Void Tendril](https://cdn.wikimg.net/en/hkwiki/images/5/57/B_Void_Tendril.png)
+    - Hornet's notes: Extension of the void's will. Reaches up from the depths. The abyss touches all things eventually.
 - Art:
 None yet :/
 - Subreddit: r/the_Abys_silksong
