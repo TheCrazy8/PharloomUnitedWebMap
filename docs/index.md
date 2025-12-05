@@ -486,7 +486,15 @@ None yet :/
 - A forest of flames and the cult that worships them.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Wisp:
+![sde](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Wisp.png)
+    - Hornet's notes: Short-lived sprite born of flickering flame. To live only a single, bright moment... What would one feel? Is it glorious, or only despair? Or could it be both, mixed equal?
+  - Burning Bug:
+![qww](https://cdn.wikimg.net/en/hkwiki/images/thumb/4/4e/B_Burning_Bug.png/300px-B_Burning_Bug.png)
+    - Hornet's notes: Many-legged insect fanatically obsessed with flame. These ones somehow learnt to call and guide the scorching Wisps that share their thicket. Whether through dominance or reverence is unclear.
+  - Father of the Flame:
+![ded](https://cdn.wikimg.net/en/hkwiki/images/thumb/6/61/B_Father_of_the_Flame.png/300px-B_Father_of_the_Flame.png)
+    - Hornet's notes: Totem and god, built and worshipped by the Burning Bugs. The remains of an aged bug were housed at the pyre's heart. The structure suggested they wished for immolation. If so, I have seen their wish granted.
 - Art:
 None yet :/
 - Subreddit: [r/WispThicket](https://www.reddit.com/r/WispThicket)
