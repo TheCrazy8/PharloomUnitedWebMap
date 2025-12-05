@@ -387,7 +387,7 @@ None yet :/
 ![ert](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Watcher_at_the_Edge.png)
     - Hornet's notes: Old warrior guarding the border of their domain, stiffened by time and awoken by song. They held long at their vigil, far beyond the age of their brethren, yet still when roused they swung their blade with remarkable ease.
 - Art:
-<img :src="https://cdn.discordapp.com/attatchments/1439581601158926366/1445555487452958826/1qcungj6jv4g1.png"/>
+![](https://cdn.discordapp.com/attatchments/1439581601158926366/1445555487452958826/1qcungj6jv4g1.png)
 - Subreddit: [r/OrderOfKarak](https://www.reddit.com/r/OrderOfKarak)
 :::
 ::: details Choral Chambers
