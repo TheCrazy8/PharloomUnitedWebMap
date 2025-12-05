@@ -272,7 +272,9 @@ None yet :/
 - A sandy land full of Snitchflies.
 - Leader: Grindle
 - Bestiary & Locals:
-  - Soon
+  - Snitchfly:
+![https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png)
+    - Hornet's notes: Pernicious looter found all over Pharloom. While these bothersome bugs are left free to forage, no loose rosary or trinket is safe.
 - Art:
 None yet :/
 - Subreddit: [r/Blasted_Steps](https://www.reddit.com/r/Blasted_Steps)
