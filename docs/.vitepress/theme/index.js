@@ -1,11 +1,11 @@
-import DefaultTheme from 'vitepress/theme';
+import {VPLTheme} from '@lando/vitepress-theme-default-plus';
 import 'viewerjs/dist/viewer.min.css';
 import imageViewer from 'vitepress-plugin-image-viewer';
 import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
 import InteractiveMap from './components/InteractiveMap.vue';
 
-export default {
+export default VPLTheme {
 ...DefaultTheme,
 enhanceApp(ctx) {
 DefaultTheme.enhanceApp(ctx);
