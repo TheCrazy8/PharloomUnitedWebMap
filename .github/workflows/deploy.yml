@@ -43,6 +43,7 @@ jobs:
           cd docs
           npm install vitepress
           npm install vitepress-plugin-image-viewer
+          npm i vitepress-plugin-search flexsearch -D
           npx vitepress build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
