@@ -372,6 +372,7 @@ None yet :/
 :::
 ::: details Pharloom Labs
 - A laboratory for testing tech, and studying stuff.
+- Subreddit: [r/PharloomLabs](https://www.reddit.com/r/PharloomLabs)
 :::
 ::: details Putrified Ducts
 - The result of old citadel pollution.
