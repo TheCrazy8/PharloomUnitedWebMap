@@ -32,7 +32,7 @@ title: Pharloom Web Map
     - Hornet's notes: Winged insect that feeds upon moss and lichen in the caves above Bone Bottom. In its natural state it would avoid potential predators, but Pharloom's Haunting now compels it to aggression. Fortunately, its jaws are ill-suited for combat.
 - Art:
 None yet :/
-- Subreddit: [r/Mosslands](www.reddit.com/r/Mosslands)
+- Subreddit: [r/Mosslands](https://www.reddit.com/r/Mosslands)
 :::
 ::: details Bone Bottom
   - A town in the mosslands, a quite pleasant one at that.
@@ -62,7 +62,7 @@ None yet :/
     - Hornet's notes: Aggressive fly of Pharloom's lowlands. Rams prey with its hardbone mask. Dancing around this simple creature as it charges back and forth is the sort of game I delighted in as a child. Alas, I now have more pressing matters to attend to.
 - Art:
 None yet :/
-- Subreddit: [r/MarrowPharloom](www.reddit.com/r/MarrowPharloom), [r/independantArmy](www.reddit.com/r/independantArmy)
+- Subreddit: [r/MarrowPharloom](https://www.reddit.com/r/MarrowPharloom), [r/independantArmy](https://www.reddit.com/r/independantArmy)
 :::
 ::: details Deep Docks
 - A firey industrial district with forges and the likes.
@@ -91,7 +91,7 @@ None yet :/
     - Hornet's notes: Bell-clad bug responsible for mining the deeper, treacherous depths below their docks. Their heavier bells armour them well against my strikes, but against that oppressive heat... can they help at all?
 - Art:
 None yet :/
-- Subreddit: [r/deepdocks](www.reddit.com/r/deepdocks)
+- Subreddit: [r/deepdocks](https://www.reddit.com/r/deepdocks)
 :::
 ::: details Hunters March
 - The lands of the Skarr Tribe, home to many traps.
@@ -117,7 +117,7 @@ None yet :/
     - Hornet's notes: Huge ant hunter tasked to protect the stores and passages of its tribe. Theirs is the perfect shell for their duty, a wall of a warrior and an adept fighter. If I hope to claim their treasures, I must bring my best.
 - Art:
 None yet :/
-- Subreddit: [r/Hunters_march](www.reddit.com/r/Hunters_march)
+- Subreddit: [r/Hunters_march](https://www.reddit.com/r/Hunters_march)
 :::
 ::: details Far Fields
 - The outer reaches of the Skarr Tribe, unintentionally heated by Deep Docks.
@@ -170,7 +170,7 @@ None yet :/
     - Hornet's notes: Towering iron automaton, driven by rotor and cog. A terrifying achievement of Pharloom, to build a construct so large and yet so nimble.
 - Art:
 None yet :/
-- Subreddit: [r/FarFields](www.reddit.com/r/FarFields)
+- Subreddit: [r/FarFields](https://www.reddit.com/r/FarFields)
 :::
 ::: details Eastern Greymoor
 - The eastern side of Greymoor, ruled by the Court of the Craws.
@@ -179,7 +179,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/EasternGreymoor](www.reddit.com/r/EasternGreymoor)
+- Subreddit: [r/EasternGreymoor](https://www.reddit.com/r/EasternGreymoor)
 :::
 ::: details Western Greymoor
 - The west side of Greymoor, from the entrance to Far Fields home to Bellhart.
@@ -201,7 +201,7 @@ None yet :/
 ![wedewdfer](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
 - Art:
 None yet :/
-- Subreddit: [r/GreymoorSilksong](www.reddit.com/r/GreymoorSilksong)
+- Subreddit: [r/GreymoorSilksong](https://www.reddit.com/r/GreymoorSilksong)
 :::
 ::: details Bellhart
 - A quaint town between Greymoor and Shellwood, home to many friendly faces.
@@ -210,7 +210,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Bellhart](www.reddit.com/r/Bellhart)
+- Subreddit: [r/Bellhart](https://www.reddit.com/r/Bellhart)
 :::
 ::: details Shellwood
 - A wet, forestlike, and wild woodland with pretty white flowers.
@@ -219,7 +219,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Shellwood](www.reddit.com/r/Shellwood)
+- Subreddit: [r/Shellwood](https://www.reddit.com/r/Shellwood)
 :::
 ::: details Wormways
 - A formerly sandy area, now infected with lifeblood.
@@ -239,7 +239,7 @@ None yet :/
     - Hornet's notes: Thick-plated scuttler that prefers high places. Holds an extensive supply of searing acid in a layered sack within its shell. The acid rains from its mouth upon any creature it sees as food.
 - Art:
 None yet :/
-- Subreddit: [r/Wormways](www.reddit.com/r/Wormways)
+- Subreddit: [r/Wormways](https://www.reddit.com/r/Wormways)
 :::
 ::: details Snitch Steps
 - A sandy land full of Snitchflies.
@@ -248,7 +248,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Blasted_Steps](www.reddit.com/r/Blasted_Steps)
+- Subreddit: [r/Blasted_Steps](https://www.reddit.com/r/Blasted_Steps)
 :::
 ::: details Order of Karak
 - A river with corals, now flourishing.
@@ -257,7 +257,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/OrderOfKarak](www.reddit.com/r/OrderOfKarak)
+- Subreddit: [r/OrderOfKarak](https://www.reddit.com/r/OrderOfKarak)
 :::
 ::: details Choral Chambers
 - The entrance to the citadel, now open to all!
@@ -266,7 +266,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Underworks
 - The bulk of the citadel's industrial production.
@@ -275,7 +275,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Underworks](www.reddit.com/r/Underworks)
+- Subreddit: [r/Underworks](https://www.reddit.com/r/Underworks)
 :::
 ::: details Colosseum of Spools
 - The military district of the citadel.
@@ -284,7 +284,7 @@ None yet :/
   - No unique
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Cogwork Core
 - The inner workings of the citadel.
@@ -293,7 +293,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details High Halls
 - The main social and commercial area of the citadel.
@@ -302,7 +302,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Whiteward
 - The citadel's hospital.
@@ -311,7 +311,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/WhiteWardCitadel](www.reddit.com/r/WhiteWardCitadel)
+- Subreddit: [r/WhiteWardCitadel](https://www.reddit.com/r/WhiteWardCitadel)
 :::
 ::: details Memorium
 - A conservatory for all beasts of any kind!
@@ -320,7 +320,7 @@ None yet :/
   - No unique creatures.
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Whispering Vaults
 - The former home of all knowledge about everything.
@@ -329,7 +329,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/CitadelUnsung](www.reddit.com/r/CitadelUnsung)
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Flies People's Republic
 - Formerly the Slab, but now free!
@@ -338,7 +338,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/GoToTheSlab](www.reddit.com/r/GoToTheSlab)
+- Subreddit: [r/GoToTheSlab](https://www.reddit.com/r/GoToTheSlab)
 :::
 ::: details The Cradle
 - The capital of the citadel.
@@ -347,7 +347,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TheCradleOfPharloom](www.reddit.com/r/TheCradleOfPharloom)
+- Subreddit: [r/TheCradleOfPharloom](https://www.reddit.com/r/TheCradleOfPharloom)
 :::
 ::: details Sinners Road
 - A prison.
@@ -356,7 +356,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Sinnnersroad](www.reddit.com/r/Sinnersroad)
+- Subreddit: [r/Sinnnersroad](https://www.reddit.com/r/Sinnersroad)
 :::
 ::: details Bilewater
 - A bog of bile, but the locals are quite nice.
@@ -365,7 +365,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Bilewater](www.reddit.com/r/Bilewater)
+- Subreddit: [r/Bilewater](https://www.reddit.com/r/Bilewater)
 :::
 ::: details Exhaust Organ
 - An area ruled by Phantom, independant of everyone else.
@@ -380,7 +380,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/putrifiedducts](www.reddit.com/r/putrifiedducts)
+- Subreddit: [r/putrifiedducts](https://www.reddit.com/r/putrifiedducts)
 :::
 ::: details Fleatopia
 - The fleas' utopia.
@@ -389,7 +389,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Fleatopia](www.reddit.com/r/Fleatopia)
+- Subreddit: [r/Fleatopia](https://www.reddit.com/r/Fleatopia)
 :::
 ::: details Mythfalls
 - Reminds me of stories of Bilewater's glory days...
@@ -398,7 +398,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/mythfalls_](www.reddit.com/r/mythfalls_)
+- Subreddit: [r/mythfalls_](https://www.reddit.com/r/mythfalls_)
 :::
 ::: details Verdania
 - A lush and found kingdom.
@@ -407,7 +407,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/NewVerdania](www.reddit.com/r/NewVerdania)
+- Subreddit: [r/NewVerdania](https://www.reddit.com/r/NewVerdania)
 :::
 ::: details Fields of Eucor
 - The lands to the east of Vernadia, originally used as protection, now sovereign.
@@ -416,7 +416,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Mount Fay
 - Cold mountain... Can't stay too long.
@@ -425,7 +425,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Mountfay](www.reddit.com/r/Mountfay)
+- Subreddit: [r/Mountfay](https://www.reddit.com/r/Mountfay)
 :::
 ::: details Last Oasis
 - It seems to be the river that leads into the Order of Karak.
@@ -434,7 +434,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Vermilion depths
 - Red crystal caverns, accessed from Bilewater.
@@ -443,7 +443,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Weavenests
 - The homes of Weavers.
@@ -452,7 +452,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/Weavenests](www.reddit.com/r/Weavenests)
+- Subreddit: [r/Weavenests](https://www.reddit.com/r/Weavenests)
 :::
 ::: details Wisp Thicket
 - A forest of flames and the cult that worships them.
@@ -461,7 +461,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/WispThicket](www.reddit.com/r/WispThicket)
+- Subreddit: [r/WispThicket](https://www.reddit.com/r/WispThicket)
 :::
 ::: details Pharloom's Hive
 - Reminds me of home back in Hallownest...
@@ -470,7 +470,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/The_Hive_Kingdom](www.reddit.com/r/The_Hive_Kingdom)
+- Subreddit: [r/The_Hive_Kingdom](https://www.reddit.com/r/The_Hive_Kingdom)
 :::
 ::: details The Kingdom Above
 - A nice kingdom on the surface!
@@ -479,7 +479,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TheKingdomAbove](www.reddit.com/r/TheKingdomAbove)
+- Subreddit: [r/TheKingdomAbove](https://www.reddit.com/r/TheKingdomAbove)
 :::
 ::: details Nameless Town
 - An old dilapidated town.
@@ -488,7 +488,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/NamelessTown](www.reddit.com/r/NamelessTown)
+- Subreddit: [r/NamelessTown](https://www.reddit.com/r/NamelessTown)
 :::
 ::: details Voltnest
 - Electric area...
@@ -506,7 +506,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Silver Wastes
 - The home of the Grimmmtroupe.
@@ -515,7 +515,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Fern Forest
 - A forest of ferns...
@@ -524,7 +524,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details The Abyss
 - A deep dark void below the kingdom... Below everything...
@@ -533,7 +533,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/the_Abys_silksong](www.reddit.com/r/the_Abys_silksong)
+- Subreddit: [r/the_Abys_silksong](https://www.reddit.com/r/the_Abys_silksong)
 :::
 ::: details Highland Trails
 - Chilly highlands above Mt Fay.
@@ -542,7 +542,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/TherestofPharloom](www.reddit.com/r/TherestofPharloom)
+- Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
 ::: details Fern Farms
 - The Citadel's farming district.
@@ -551,5 +551,5 @@ None yet :/
   - Soon
 - Art:
 None yet :/
-- Subreddit: [r/FernFarmsCitadel](www.reddit.com/r/FernFarmsCitadel)
+- Subreddit: [r/FernFarmsCitadel](https://www.reddit.com/r/FernFarmsCitadel)
 :::
