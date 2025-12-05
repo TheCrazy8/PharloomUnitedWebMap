@@ -16,8 +16,6 @@
   },
   "dependencies": {
     "viewerjs": "^1.11.7",
-    "vitepress-plugin-image-viewer": "^1.1.6",
-    "vitepress-plugin-search": "^1.0.3",
-    "flexsearch": "^0.8.2"
+    "vitepress-plugin-image-viewer": "^1.1.6"
   }
 }
