@@ -1,6 +1,6 @@
 import defineConfig from '@lando/vitepress-theme-default-plus/config';
 
-export default defineConfig{
+export default defineConfig {
     title: "Pharloom United Web Map",
     description: "A map of the Pharloom United roleplay world.",
     base: "/PharloomUnitedWebMap/",
