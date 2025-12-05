@@ -37,6 +37,11 @@ None yet :/
 ::: details Bone Bottom
   - A town in the mosslands, a quite pleasant one at that.
   - Leader: Flick the fixer
+  - Bestiary & Locals:
+    - Bell Beast:
+![Bell Beast](https://cdn.wikimg.net/en/hkwiki/images/8/84/B_Bell_Beast.png)
+      - Hornet's notes: Massive creature controlled by ceremonial bells. The bells command its every movement. Control through sound - a fascinating method.
+    - (Also home to Pilgrim Groveller and Pilgrim Pouncer - see Bellhart)
 :::
 ::: details The Marrow
 - A bony place, with fire and such.
@@ -223,6 +228,9 @@ None yet :/
   - Thread Raker:
 ![Thread Raker](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Thread_Raker.png)
     - Hornet's notes: Worker bug responsible for raking and organizing gathered silk threads. Lost to the Haunting, they still perform their tasks mindlessly. Their dedication persists even as their minds have failed them.
+  - Moorwing:
+![Moorwing](https://cdn.wikimg.net/en/hkwiki/images/6/6e/B_Moorwing.png)
+    - Hornet's notes: Guardian boss of Western Greymoor. Massive winged beast that patrols the misty moors. Some guardians are skippable, but worthy opponents nonetheless.
 - Art:
 None yet :/
 - Subreddit: [r/GreymoorSilksong](https://www.reddit.com/r/GreymoorSilksong)
@@ -586,7 +594,24 @@ None yet :/
 - A prison.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Stilkin:
+![Stilkin](https://cdn.wikimg.net/en/hkwiki/images/b/b0/B_Stilkin.png)
+    - Hornet's notes: Lanky bug that stalks the prison corridors. Moves on long, thin legs. Height and reach create advantage in narrow spaces.
+  - Stilkin Trapper:
+![Stilkin Trapper](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Stilkin_Trapper.png)
+    - Hornet's notes: Stilkin that sets traps for escapees. Guards the prison with cunning rather than strength. Intelligence can be more dangerous than power.
+  - Judge:
+![Judge](https://cdn.wikimg.net/en/hkwiki/images/6/6c/B_Judge.png)
+    - Hornet's notes: Stern arbiter of justice in Sinners Road. Passes sentence on all who enter. Justice without mercy becomes cruelty.
+  - Last Judge:
+![Last Judge](https://cdn.wikimg.net/en/hkwiki/images/4/45/B_Last_Judge.png)
+    - Hornet's notes: Final judge of Sinners Road, ancient and unyielding. Has seen countless souls pass through. What makes one qualified to judge others?
+  - Wraith:
+![Wraith](https://cdn.wikimg.net/en/hkwiki/images/d/d7/B_Wraith.png)
+    - Hornet's notes: Spectral entity that haunts the prison. Perhaps a former inmate, now eternally imprisoned. Some sentences extend beyond death.
+  - Mothleaf Lagnia:
+![Mothleaf Lagnia](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Mothleaf_Lagnia.png)
+    - Hornet's notes: Mysterious moth creature found in the prison depths. Its presence suggests this place holds more than common criminals.
 - Art:
 None yet :/
 - Subreddit: [r/Sinnnersroad](https://www.reddit.com/r/Sinnersroad)
@@ -672,7 +697,15 @@ None yet :/
 - Reminds me of stories of Bilewater's glory days...
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Shardillard:
+![Shardillard](https://cdn.wikimg.net/en/hkwiki/images/8/8d/B_Shardillard.png)
+    - Hornet's notes: Crystal-backed bug of the Mythfalls. Its shards reflect light beautifully. Beauty often conceals danger.
+  - Sandcarver:
+![Sandcarver](https://cdn.wikimg.net/en/hkwiki/images/3/3f/B_Sandcarver.png)
+    - Hornet's notes: Artisan bug that carves intricate patterns in sandstone. Even in ruin, art persists. Creation is an unstoppable urge.
+  - Squirrm:
+![Squirrm](https://cdn.wikimg.net/en/hkwiki/images/1/19/B_Squirrm.png)
+    - Hornet's notes: Wriggling creature of the mythic waters. Moves with unpredictable motion. Chaos has its own form of grace.
 - Art:
 None yet :/
 - Subreddit: [r/mythfalls_](https://www.reddit.com/r/mythfalls_)
@@ -716,7 +749,12 @@ None yet :/
 - The lands to the east of Vernadia, originally used as protection, now sovereign.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Furm:
+![Furm](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
+    - Hornet's notes: Common insect of the Eucor fields. Feeds on grain and grass. Every land has its humble inhabitants.
+  - Winged Furm:
+![Winged Furm](https://cdn.wikimg.net/en/hkwiki/images/c/c1/B_Winged_Furm.png)
+    - Hornet's notes: Airborne variant of the Furm. Takes to the skies during mating season. Flight opens new possibilities.
 - Art:
 None yet :/
 - Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
@@ -805,7 +843,21 @@ None yet :/
 - Electric area...
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Voltvyrm:
+![Voltvyrm](https://cdn.wikimg.net/en/hkwiki/images/c/c2/B_Voltvyrm.png)
+    - Hornet's notes: Electric serpent that crackles with energy. Generates powerful shocks to stun prey. Lightning given form and purpose.
+  - Drapefly:
+![Drapefly](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Drapefly.png)
+    - Hornet's notes: Flying bug with electrical membrane wings. Static builds with each wing beat. Flight and lightning combined.
+  - Drapelord:
+![Drapelord](https://cdn.wikimg.net/en/hkwiki/images/9/9e/B_Drapelord.png)
+    - Hornet's notes: Massive Drapefly crackling with accumulated charge. Commands lesser drapeflies with electromagnetic pulses. Power attracts power.
+  - Drapemite:
+![Drapemite](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Drapemite.png)
+    - Hornet's notes: Tiny electric parasite. Feeds on electrical energy. Even electricity has its predators.
+  - Giant Drapemite:
+![Giant Drapemite](https://cdn.wikimg.net/en/hkwiki/images/d/da/B_Giant_Drapemite.png)
+    - Hornet's notes: Enormous Drapemite swollen with stolen energy. Dangerously overcharged. Greed leads to dangerous accumulation.
 - Art:
 None yet :/
 - Subreddit: N/A
