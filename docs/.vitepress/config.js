@@ -1,3 +1,8 @@
+import { SearchPlugin } from "vitepress-plugin-search";
+import { defineConfig } from "vitepress";
+export default defineConfig({
+  vite: { plugins: [SearchPlugin(options)] }
+});
 export default {
     title: "Pharloom United Web Map",
     description: "A map of the Pharloom United roleplay world.",
