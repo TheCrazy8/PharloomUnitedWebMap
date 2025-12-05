@@ -5,10 +5,10 @@ import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
 import InteractiveMap from './components/InteractiveMap.vue';
 
-export default VPLTheme {
-...DefaultTheme,
+export default {
+...VPLTheme,
 enhanceApp(ctx) {
-DefaultTheme.enhanceApp(ctx);
+VPLTheme.enhanceApp(ctx);
 // Register global component (optional)
 ctx.app.component('vImageViewer', vImageViewer);
 // Register InteractiveMap component
