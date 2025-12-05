@@ -234,7 +234,12 @@ None yet :/
 - A quaint town between Greymoor and Shellwood, home to many friendly faces.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Furm:
+![defrg](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
+    - Hornet's notes: Burrower that nests in the Bellvein and seeks out hard bells to protect its soft body. I would very much like to feel their soft fur, if only they weren't so hostile.
+  - Winged Furm:
+![xwcdefvrgbthnyj](https://cdn.wikimg.net/en/hkwiki/images/thumb/c/c1/B_Winged_Furm.png/300px-B_Winged_Furm.png)
+    - Hornet's notes: Furred bug beneath a heavy bell. It has grown too large to burrow, but in maturing has developed small wings. Huge and soft, a fantastic combination ruined by their haunted aggression.
 - Art:
 None yet :/
 - Subreddit: [r/Bellhart](https://www.reddit.com/r/Bellhart)
@@ -243,7 +248,42 @@ None yet :/
 - A wet, forestlike, and wild woodland with pretty white flowers.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Pond Skipper:
+![dd](https://cdn.wikimg.net/en/hkwiki/images/5/5e/B_Pond_Skipper.png)
+    - Hornet's notes: Hard-shelled insect common upon the surface of Shellwood Pond. Once a staple food for passing pilgrims.The way they skate along the water's surface is so elegant. Surely it is a skill that can be learned? When time permits, I should attempt the task.
+  - Pondcatcher:
+![ervrgth](https://cdn.wikimg.net/en/hkwiki/images/5/58/B_Pondcatcher.png)
+    - Hornet's notes: Old catcher over Shellwood Pond, bearing a longpin and stricken by the Haunting. Once a hunter purely for food, now they hunt unthinking and unending.
+  - Shellwood Gnat:
+![dccf](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Shellwood_Gnat.png)
+    - Hornet's notes: Tiny, soft creature that armours itself using the hard, hollow growths of Shellwood. If the woody hide is shattered, the bug will still bravely, foolishly try to attack.
+  - Wood Wasp:
+![dffg](https://cdn.wikimg.net/en/hkwiki/images/e/ed/B_Wood_Wasp.png)
+    - Hornet's notes: Pointed, darting insect that builds a hardy hive from Shellwood's dried bark. Destroying the hives will limit their presence in the wood. Useful to me now, as I pass along the branches. Dangerous in time for the wood's order. Even a small disruption can tip a fragile balance.
+  - Splinter:
+![defrg](https://cdn.wikimg.net/en/hkwiki/images/thumb/5/5f/B_Splinter.png/300px-B_Splinter.png)
+    - Hornet's notes: Insect formed to imitate a branch, capable of remaining perfectly still for long periods, but unexpectedly swift when roused. Avoiding their ambush is a good test of my senses, and my ability to rapidly retaliate.
+  - Splinterhorn:
+![!](https://cdn.wikimg.net/en/hkwiki/images/9/91/B_Splinterhorn.png)
+    - Hornet's notes: Insect formed to imitate a branch, born with sharp, retractable horns atop its head. Its shell gives it the advantage of surprise, but also forces it into a slender, brittle shape that cannot withstand a heavy attack.
+  - Splinterbark:
+![dcefrvgt](https://cdn.wikimg.net/en/hkwiki/images/d/dc/B_Splinterbark.png)
+    - Hornet's notes: Winged insect with a flaky shell that perfectly mimics its environment. Its assault... like a young bug's toy turned deadly. Could I, in time, fashion a spinning tool to match?
+  - Sister Splinter:
+![eefrvgt](https://cdn.wikimg.net/en/hkwiki/images/thumb/5/5c/B_Sister_Splinter.png/300px-B_Sister_Splinter.png)
+    - Hornet's notes: Imposing old insect nesting in the heights of Shellwood. Her command of twig and branch ensured no pilgrim ever survived her territory. This one lived long and fed much. The wood will be much safer for their slaying.
+  - Phacia:
+![wcdefr g](https://cdn.wikimg.net/en/hkwiki/images/c/ce/B_Phacia.png)
+    - Hornet's notes: Drifting bug disguised as a flower. Disperses crackling clouds of pollen if threatened. Quite a beautiful creature. In my own kingdom's court, it would have been highly favoured as an ornamental pet.
+  - Pollencia:
+![dceeef](https://cdn.wikimg.net/en/hkwiki/images/f/f6/B_Pollenica.png)
+    - Hornet's notes: Floral foe that reacts instinctively to movement nearby. Spits pellets of crackling pollen that burst on impact. What exceptional senses it possesses. It detects me with ease, even when not a single sound is made.
+  - Gahlia:
+![wwdcefrv](https://cdn.wikimg.net/en/hkwiki/images/thumb/1/19/B_Gahlia.png/300px-B_Gahlia.png)
+    - Hornet's notes: Floral foe with a core shaped to mimic a mask. The core can be thrust forth to bludgeon unwary bugs. The false mask alone is frightening enough to scare away smaller pests.
+  - Nyleth:
+![cedfrv](https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b1/B_Nyleth.png/300px-B_Nyleth.png)
+    - Hornet's notes: Ancient heart of Shellwood, connected to all its living things. Her presence would once have maintained the wood's fragile order, allowing the safe passage of bugs across its branches.
 - Art:
 None yet :/
 - Subreddit: [r/Shellwood](https://www.reddit.com/r/Shellwood)
