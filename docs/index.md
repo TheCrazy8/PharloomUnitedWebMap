@@ -261,7 +261,7 @@ None yet :/
 :::
 ::: details Choral Chambers
 - The entrance to the citadel, now open to all!
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -270,7 +270,7 @@ None yet :/
 :::
 ::: details Underworks
 - The bulk of the citadel's industrial production.
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -279,7 +279,7 @@ None yet :/
 :::
 ::: details Colosseum of Spools
 - The military district of the citadel.
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - No unique
 - Art:
@@ -297,7 +297,7 @@ None yet :/
 :::
 ::: details High Halls
 - The main social and commercial area of the citadel.
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - Soom
 - Art:
@@ -324,7 +324,7 @@ None yet :/
 :::
 ::: details Whispering Vaults
 - The former home of all knowledge about everything.
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -342,7 +342,7 @@ None yet :/
 :::
 ::: details The Cradle
 - The capital of the citadel.
-- Leader: Hornet through Malafar
+- Leader: Hornet
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -535,9 +535,19 @@ None yet :/
 - Subreddit: r/the_Abys_silksong
 :::
 ::: details Highland Trails
-- Chilly highlands above Mt Fay
+- Chilly highlands above Mt Fay.
 - Leader: Garmond
 - Bestiary & Locals:
   - Soon
 - Art:
 None yet :/
+- Subreddit: r/TherestofPharloom
+:::
+::: details Fern Farms
+- The Citadel's farming district.
+- Leader: Hornet
+- Bestiary & Locals:
+  - Soon
+- Art:
+None yet :/
+- Subreddit: r/FernFarmsCitadel
