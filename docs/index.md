@@ -394,7 +394,21 @@ None yet :/
 - The entrance to the citadel, now open to all!
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Drapefly:
+![](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Drapefly.png)
+    - Hornet's notes: Erratic, flying pest that nests in rags and curtains. Like fabric somehow sprung to life. Its pelt is perfectly matched to the rags it infests.
+  - Drapelord:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/9/9e/B_Drapelord.png/300px-B_Drapelord.png)
+    - Hornet's notes: Elder Drapefly grown big from age and consumption. Its heavy body allows it to hit much harder than its younger companions. Greed will always see some bugs swell above their kin.
+  - Drapemite:
+![e](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Drapemite.png)
+    - Hornet's notes: Cloth-covered crawler with sharpened forelimbs. Lives and breeds in dark places. Pharloom's structures seem almost built for them. The endless corners and cracks, so perfect for mites to burrow and nest.
+  - Giant Drapemite:
+![wcdefvrg](https://cdn.wikimg.net/en/hkwiki/images/thumb/d/da/B_Giant_Drapemite.png/300px-B_Giant_Drapemite.png)
+    - Hornet's  notes: Full-sized mite of the Citadel cloaked in an old curtain. Few creatures of that Silk stricken place would find nourishment enough to grow so large.
+  - Clawmaiden:
+![defr](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
+    - Hornet's notes: Puppet servant of the Citadel, suspended on strings of Silk. An early form of automaton, requiring extensive Silk to maintain its service. If given a chance, this one will steal Silk from any significant source, including my own shell.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -689,7 +703,9 @@ None yet :/
 - Electric area...
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Voltvyrm:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/c/c2/B_Voltvyrm.png/300px-B_Voltvyrm.png)
+    - Hornet's notes: Coiled nest of charged worms. Assaults intruders with bolts of crackling electricity. Barely a bug, and possessing only basic thought, yet instinct alone proved enough to turn it deadly.
 - Art:
 None yet :/
 - Subreddit: N/A
