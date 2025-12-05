@@ -182,6 +182,12 @@ None yet :/
   - Tallcraw:
 ![dewivhwiirfvirw](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Tallcraw.png)
     - Hornet's notes: Rag-winged adult crawbug bearing a scavenged pin. Far more hostile than their younger companions but seemingly less likely to roam far from their nest.
+  - Squatcraw:
+![defebgrthytresdfbgfbfwetynre](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Squatcraw.png)
+    - Hornet's notes: Stout adult crawbug bearing several short pins. A cowardly sort. They will try to remain at range to throw their sharp weapons. Best to rush them down and cut quick.
+  - Craw Juror:
+![wr](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Craw_Juror.png)
+    - Hornet's notes: Screeching scavenger dyed black in mourning at their land's collapse. Weak, afraid, and aware of the imminent end. I understand their desperation, but my death will not prevent the coming fall.
 - Art:
 None yet :/
 - Subreddit: [r/EasternGreymoor](https://www.reddit.com/r/EasternGreymoor)
