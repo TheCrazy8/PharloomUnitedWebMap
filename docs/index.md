@@ -323,7 +323,69 @@ None yet :/
 - A river with corals, now flourishing.
 - Leader: Crust King Khan
 - Bestiary & Locals:
-  - Soon
+  - Coral Furm:
+![dcef](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Coral_Furm.png)
+    - Hornet's notes: Dark-furred bug protecting itself with a spiked coral nut. Its fur is thick and silky. Sadly, lost to its Haunting, I shall never safely be able to touch it.
+  - Driznit:
+![ed3regt](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Driznit.png)
+    - Hornet's notes: Nesting creature that fuses its face with sharpened coral. It is easy to be caught off-guard by the ricocheting trajectory of its flung mask, especially in tight corners.
+  - Driznarga:
+![defrgtbhyhbtgvrfcedx](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Driznarga.png)
+    - Hornet's notes: Large male Driznit, ferocious and territorial. Fires its heavy coral mask at intruders. A fine shot with its sharp mask. Its aggression has no ill effect on its aim.
+  - Pokenabbin:
+![wcervtbyn](https://cdn.wikimg.net/en/hkwiki/images/f/fe/B_Pokenabbin.png)
+    - Hornet's notes: Drifting creature with a wide coral mask and hard proboscis to stab its prey. Passively waits for prey to blunder into its path. A technique that should not necessarily be derided. Whatever is effective is best.
+  - Conchfly:
+![ecr](https://cdn.wikimg.net/en/hkwiki/images/f/f2/B_Conchfly.png)
+    - Hornet's notes: Small bug that crafts a shell of sharpened coral. Spins its shell at rapid speed to cut through crust and bone. The way it darts in and out of the ground has an almost playful quality to it. An amusing and effective way to ambush prey.
+  - Great Conchfly:
+![ervtb](https://cdn.wikimg.net/en/hkwiki/images/thumb/2/28/B_Great_Conchfly.png/300px-B_Great_Conchfly.png)
+    - Hornet's notes: Elder Conchfly crowned with a huge coral horn. Once partnered with a mate, they will rarely be seen alone. To pair with another is a base instinct, and one that brings some bugs great joy. I once sought similar union, but of my own mates none could match my lifespan.
+  - Crustcrawler:
+![dwcefvrgb](https://cdn.wikimg.net/en/hkwiki/images/4/4c/B_Crustcrawler.png)
+    - Hornet's notes: Soft-shelled scrambler encased in coral. Hidden amongst their tower's matching crust, these smaller bugs would have survived and thrived.
+  - Crustcrag:
+![derfvtgbynuju](https://cdn.wikimg.net/en/hkwiki/images/b/b2/B_Crustcrag.png)
+    - Hornet's notes: Coral hulk with a dense shell, bred to immense size by the Citadel's Memorium. Nature distorted... This bug was born tiny and mild. The Citadel deformed it in futile hope it may sustain.
+  - Kai:
+![wervtr](https://cdn.wikimg.net/en/hkwiki/images/8/8e/B_Kai.png)
+    - Hornet's notes: Plump, plentiful drifter of a coral past. They once teemed around their tower, in numbers immense. It is a rare chance to witness such a bountiful display of life.
+  - Spinebeak Kai:
+![wdert](https://cdn.wikimg.net/en/hkwiki/images/5/51/B_Spinebeak_Kai.png)
+    - Hornet's notes: Steel horned floater, able to defend itself and its companions. A critical member of the larger flock. Without them present the Kai would be fast driven to extinction by larger predators.
+  - Steelspine Kai:
+![cevrgt](https://cdn.wikimg.net/en/hkwiki/images/5/53/B_Steelspine_Kai.png)
+    - Hornet's notes: Toughened Kai capable of extending sharp spikes from within its shellsack. Seeming soft, but hiding a sharp surprise. Any larger predator attempting a bite would learn a pointed and painful lesson.
+  - Yuma:
+![](https://cdn.wikimg.net/en/hkwiki/images/6/6b/B_Yuma.png)
+    - Hornet's notes: Gelatinous coral drifter of simple mind and placid demeanour. A creature at its most basic. This one is no threat to me, or any other.
+  - Yumama:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/0/03/B_Yumama.png/300px-B_Yumama.png)
+    - Hornet's notes: Large, gelatinous drifter. Chases away threats by hurling its bulk around. When defeated, it splits into many smaller forms. Yet another remarkable creature of this land before the monarch.
+  - Karaka:
+![](https://cdn.wikimg.net/en/hkwiki/images/8/85/B_Karaka.png)
+    - Hornet's notes: Staunch and skilled bladebug of a once flourishing land lost to time. The core member of a powerful order, trained fearless and faithful. Theirs was a kingdom of warriors, one built upon their blades.
+  - Kakri:
+![](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Kakri.png)
+    - Hornet's notes: Lithe, winged scouts frequently paired with their heavier brethren. Its training resembles my own, favouring fast strikes and rapid movement. Once a hunter, perhaps?
+  - Yago:
+![](https://cdn.wikimg.net/en/hkwiki/images/7/7d/B_Yago.png)
+    - Hornet's notes: Wide-masked aerial attacker trained to act as support for its grounded companions while remaining at range. Not a frontline force, but in my assault upon their tower all emerge to see me stilled.
+  - Karak Gor:
+![defr](https://cdn.wikimg.net/en/hkwiki/images/thumb/c/ca/B_Karak_Gor.png/300px-B_Karak_Gor.png)
+    - Hornet's notes: Heavy, hard-shelled charger relying on weight and strength. Far tougher for being matched inside their encrusted domain. They must have lived their whole lives within their tower, to command it so.
+  - Alita:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/6/68/B_Alita.png/300px-B_Alita.png)
+    - Hornet's notes: Leaping hunter of a bygone age. The swiftest of their sect, deftly skilled with spinning foreblades. In contests of speed against strength, I have seen the swift more often triumphant, a lesson I have taken to my own heart.
+  - Corrcrust Karaka:
+![wwde](https://cdn.wikimg.net/en/hkwiki/images/b/b7/B_Corrcrust_Karaka.png)
+    - Hornet's notes: Overgrown elder, able to spawn burning bubbles from within its coral-cased shell. This bug's fusion with the crust-growth... It seems intentional, though I imagine the union is far from comfortable.
+  - Crust King Khann:
+![wffc](https://cdn.wikimg.net/en/hkwiki/images/thumb/5/5d/B_Crust_King_Khann.png/300px-B_Crust_King_Khann.png)
+    - Hornet's notes: Hardened warrior lord of a bygone age, able to command the coral crust to his bidding. For his stern stewardship his legions seemed utterly loyal. For less combative bugs his would have been a hard rule.
+  - Watcher at the Edge:
+![ert](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Watcher_at_the_Edge.png)
+    - Hornet's notes: Old warrior guarding the border of their domain, stiffened by time and awoken by song. They held long at their vigil, far beyond the age of their brethren, yet still when roused they swung their blade with remarkable ease.
 - Art:
 None yet :/
 - Subreddit: [r/OrderOfKarak](https://www.reddit.com/r/OrderOfKarak)
