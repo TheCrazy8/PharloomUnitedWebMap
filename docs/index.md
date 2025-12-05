@@ -394,6 +394,17 @@ None yet :/
 - The entrance to the citadel, now open to all!
 - Leader: Hornet
 - Bestiary & Locals:
+  - Clawmaiden:
+![defr](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
+    - Hornet's notes: Puppet servant of the Citadel, suspended on strings of Silk. An early form of automaton, requiring extensive Silk to maintain its service. If given a chance, this one will steal Silk from any significant source, including my own shell.
+- Art:
+None yet :/
+- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
+:::
+::: details Underworks
+- The bulk of the citadel's industrial production.
+- Leader: Hornet
+- Bestiary & Locals:
   - Drapefly:
 ![](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Drapefly.png)
     - Hornet's notes: Erratic, flying pest that nests in rags and curtains. Like fabric somehow sprung to life. Its pelt is perfectly matched to the rags it infests.
@@ -406,18 +417,6 @@ None yet :/
   - Giant Drapemite:
 ![wcdefvrg](https://cdn.wikimg.net/en/hkwiki/images/thumb/d/da/B_Giant_Drapemite.png/300px-B_Giant_Drapemite.png)
     - Hornet's  notes: Full-sized mite of the Citadel cloaked in an old curtain. Few creatures of that Silk stricken place would find nourishment enough to grow so large.
-  - Clawmaiden:
-![defr](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
-    - Hornet's notes: Puppet servant of the Citadel, suspended on strings of Silk. An early form of automaton, requiring extensive Silk to maintain its service. If given a chance, this one will steal Silk from any significant source, including my own shell.
-- Art:
-None yet :/
-- Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
-:::
-::: details Underworks
-- The bulk of the citadel's industrial production.
-- Leader: Hornet
-- Bestiary & Locals:
-  - Soon
 - Art:
 None yet :/
 - Subreddit: [r/Underworks](https://www.reddit.com/r/Underworks)
@@ -504,7 +503,9 @@ None yet :/
 - The former home of all knowledge about everything.
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Vaultkeeper:
+![e](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Vaultkeeper.png)
+    - Hornet's notes: High caste bug, responsible for delivering sermons and leading prayer for those beyond the walls of the Whispering Vaults. Most likely this one's true charge was to root out and condemn those not seen as sufficiently fervent.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -613,10 +614,14 @@ None yet :/
 :::
 ::: details Exhaust Organ
 - An area ruled by Phantom, independant of everyone else.
+- Leader: Phantom
 - Bestiary & Locals:
   - Wraith:
 ![c](https://cdn.wikimg.net/en/hkwiki/images/d/d7/B_Wraith.png)
     - Hornet's notes: Anguished spectre of lingering thread. Despite its ephemeral nature, strong strikes can dispel the Wraith for a time. Not a bug but a projection of another's will in smog and Silk.
+  - Phantom:
+![er](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Phantom.png)
+    - Hornet's notes: Mournful creature tasked alone to expel the Citadel's choking refuse. Their talent with a longpin is unmatched. Though grey with age, their frayed form suggested a being strung from Silk, one who welcomed a decisive end in combat over a slow decline.
 :::
 ::: details Pharloom Labs
 - A laboratory for testing tech, and studying stuff.
@@ -658,7 +663,39 @@ None yet :/
 - A lush and found kingdom.
 - Leader: Green Prince
 - Bestiary & Locals:
-  - Soon
+  - Leaf Glider:
+![](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Leaf_Glider.png)
+    - Hornet's notes: Fine winged flyer that survives in flocks. So light they can rest atop still water's surface. An elegant bug indeed.
+  - Leaf Roller:
+![e](https://cdn.wikimg.net/en/hkwiki/images/9/9d/B_Leaf_Roller.png)
+    - Hornet's notes: Pointed scurrier posing as plant life. Simple. Graceful. Another fine bug lost forever from these lands.
+  - Pendra:
+![e](https://cdn.wikimg.net/en/hkwiki/images/0/0d/B_Pendra.png)
+    - Hornet's notes: Flighty insect that lives beside still waters. Though generally passive, their sharp masks can cause injury if carelessly blundered into.
+  - Pendragor:
+![d](https://cdn.wikimg.net/en/hkwiki/images/thumb/2/2e/B_Pendragor.png/300px-B_Pendragor.png)
+    - Hornet's notes: Heavy insect that lives near large bodies of water. Its weighty body is best avoided. When they do not hinder my path, I find their simple motion rather pleasant.
+  - Nuphar:
+![](https://cdn.wikimg.net/en/hkwiki/images/f/f3/B_Nuphar.png)
+    - Hornet's notes: Predatory plant with a powerful jaw shaped to resemble a lily pad. A snapping surprise on first encounter, though one easily avoided once aware.
+  - Cloverstag:
+![](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Cloverstag.png)
+    - Hornet's notes: Placid native of Verdania. Its hide closely mimics the flora of its territory. An impressive act of mimicry. To match so closely with its land, their clover caves must have sustained through generations uncounted.
+  - Palestag:
+![e](https://cdn.wikimg.net/en/hkwiki/images/thumb/8/8b/B_Palestag.png/300px-B_Palestag.png)
+    - Hornet's notes: Fabled first Cloverstag of Verdania's wilds. Commands the grass and leaves to aid its attack. Myth made real in memory. The creature seemed completely at one with the flora around it. Did it ever truly exist as I have seen it?
+  - Kindanir:
+![er](https://cdn.wikimg.net/en/hkwiki/images/8/82/B_Kindanir.png)
+    - Hornet's notes: Child of Verdania, fully capable to fight despite its young age. Fierce and fast, and defending their lands even from birth. These are children to be proud of.
+  - Verdanir:
+![er](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Verdanir.png)
+    - Hornet's notes: Darting warrior with sharpened forelimbs and heightened senses. They rarely relax, always alert for potential danger, even deep in their own territory. To defeat them my focus must match their own.
+  - Escalion:
+![ert](https://cdn.wikimg.net/en/hkwiki/images/d/da/B_Escalion.png)
+    - Hornet's notes: Blindingly fast, winged warrior able to launch pointed pinions from its forelimbs. Born with many tools I would once have desired for myself. Fortunately, I have trained hard around those limits.
+  - Clover Dancers:
+![ert](https://cdn.wikimg.net/en/hkwiki/images/thumb/c/c2/B_Clover_Dancers.png/300px-B_Clover_Dancers.png)
+    - Hornet's notes: Dual princes of old Verdania, beloved by their subjects for their grace and for the ballet of death they delivered upon outsiders. For one to love another so similar to themselves, is that selfless or vain?
 - Art:
 None yet :/
 - Subreddit: [r/NewVerdania](https://www.reddit.com/r/NewVerdania)
@@ -682,6 +719,9 @@ None yet :/
   - Mnemonid:
 ![tf u say this?](https://cdn.wikimg.net/en/hkwiki/images/9/9e/B_Mnemonid.png)
     - Hornet's notes: Flighted creature formed from coldshard. If shattered it will quickly reform. The coldshard, even when destroyed it remembers its former shape. A remarkable material, and perhaps even more astonishing there seems life contained within it.
+  - Mnemonord:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/2/2d/B_Mnemonord.png/300px-B_Mnemonord.png)
+    - Hornet's notes: Huge flighted creature formed from coldshard. This larger form carries so much weight it can barely move from its place.
 - Art:
 None yet :/
 - Subreddit: [r/Mountfay](https://www.reddit.com/r/Mountfay)
@@ -799,7 +839,15 @@ None yet :/
 - A deep dark void below the kingdom... Below everything...
 - Leader: the Shade Lord
 - Bestiary & Locals:
-  - Soon
+  - Shadow Creeper:
+![df](https://cdn.wikimg.net/en/hkwiki/images/9/92/B_Shadow_Creeper_%28Silksong%29.png)
+    - Hornet's notes: Shell-plated worm found only in the deepest depths. Seems to survive despite consuming no food or liquid. A creature long familiar to me. I suspect that no matter how far I travel, if I descend deep enough they will always be there.
+  - Shadow Charger:
+![de](https://cdn.wikimg.net/en/hkwiki/images/thumb/7/76/B_Shadow_Charger.png/300px-B_Shadow_Charger.png)
+    - Hornet's notes: Bulky worm of the deepest depths. Lives in tight crevices and uses its weighty body to batter. These ones grow large, yet I have never observed them eating, or sleeping. They seem such simple bugs... but I suspect they are not truly our cousins.
+  - Gloomsac:
+![e](https://cdn.wikimg.net/en/hkwiki/images/d/dc/B_Gloomsac.png)
+    - Hornet's notes: Tiny empty creature, barely a bug. Swallows its prey whole and sucks their nutrients until nothing remains. This one disturbs me... There is something in its simplicity. Do I almost feel fear?
 - Art:
 None yet :/
 - Subreddit: [r/the_Abys_silksong](https://www.reddit.com/r/the_Abys_silksong)
