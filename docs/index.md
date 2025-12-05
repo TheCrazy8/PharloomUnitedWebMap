@@ -251,6 +251,12 @@ None yet :/
   - Winged Pilgrim:
 ![Winged Pilgrim](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Winged_Pilgrim.png)
     - Hornet's notes: Flying pilgrim capable of swift aerial maneuvers. Their wings carry them through the air with practiced ease. I wonder if they remember learning to fly.
+  - Furm:
+![Furm](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
+    - Hornet's notes: Common insect of Bellhart. Feeds on grain and grass. Every land has its humble inhabitants.
+  - Winged Furm:
+![Winged Furm](https://cdn.wikimg.net/en/hkwiki/images/c/c1/B_Winged_Furm.png)
+    - Hornet's notes: Airborne variant of the Furm. Takes to the skies during mating season. Flight opens new possibilities.
 - Art:
 None yet :/
 - Subreddit: [r/Bellhart](https://www.reddit.com/r/Bellhart)
@@ -303,6 +309,15 @@ None yet :/
   - Craggler:
 ![this is a boss?](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Craggler.png)
     - Hornet's notes: Thick-plated scuttler that prefers high places. Holds an extensive supply of searing acid in a layered sack within its shell. The acid rains from its mouth upon any creature it sees as food.
+  - Shardillard:
+![Shardillard](https://cdn.wikimg.net/en/hkwiki/images/8/8d/B_Shardillard.png)
+    - Hornet's notes: Crystal-backed bug of the Wormways. Its shards reflect light beautifully. Beauty often conceals danger.
+  - Sandcarver:
+![Sandcarver](https://cdn.wikimg.net/en/hkwiki/images/3/3f/B_Sandcarver.png)
+    - Hornet's notes: Artisan bug that carves intricate patterns in sandstone. Even in ruin, art persists. Creation is an unstoppable urge.
+  - Squirrm:
+![Squirrm](https://cdn.wikimg.net/en/hkwiki/images/1/19/B_Squirrm.png)
+    - Hornet's notes: Wriggling creature of the sandy tunnels. Moves with unpredictable motion. Chaos has its own form of grace.
 - Art:
 None yet :/
 - Subreddit: [r/Wormways](https://www.reddit.com/r/Wormways)
@@ -697,15 +712,7 @@ None yet :/
 - Reminds me of stories of Bilewater's glory days...
 - Leader: TBD
 - Bestiary & Locals:
-  - Shardillard:
-![Shardillard](https://cdn.wikimg.net/en/hkwiki/images/8/8d/B_Shardillard.png)
-    - Hornet's notes: Crystal-backed bug of the Mythfalls. Its shards reflect light beautifully. Beauty often conceals danger.
-  - Sandcarver:
-![Sandcarver](https://cdn.wikimg.net/en/hkwiki/images/3/3f/B_Sandcarver.png)
-    - Hornet's notes: Artisan bug that carves intricate patterns in sandstone. Even in ruin, art persists. Creation is an unstoppable urge.
-  - Squirrm:
-![Squirrm](https://cdn.wikimg.net/en/hkwiki/images/1/19/B_Squirrm.png)
-    - Hornet's notes: Wriggling creature of the mythic waters. Moves with unpredictable motion. Chaos has its own form of grace.
+  - Soon
 - Art:
 None yet :/
 - Subreddit: [r/mythfalls_](https://www.reddit.com/r/mythfalls_)
@@ -749,12 +756,7 @@ None yet :/
 - The lands to the east of Vernadia, originally used as protection, now sovereign.
 - Leader: TBD
 - Bestiary & Locals:
-  - Furm:
-![Furm](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
-    - Hornet's notes: Common insect of the Eucor fields. Feeds on grain and grass. Every land has its humble inhabitants.
-  - Winged Furm:
-![Winged Furm](https://cdn.wikimg.net/en/hkwiki/images/c/c1/B_Winged_Furm.png)
-    - Hornet's notes: Airborne variant of the Furm. Takes to the skies during mating season. Flight opens new possibilities.
+  - Soon
 - Art:
 None yet :/
 - Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
