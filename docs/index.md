@@ -435,7 +435,27 @@ None yet :/
 - The inner workings of the citadel.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Cogwork Underfly:
+![](https://cdn.wikimg.net/en/hkwiki/images/1/16/B_Cogwork_Underfly.png)
+    - Hornet's notes: Small automaton built to work, without complaint, in the scorching heat of the Underworks' Cauldron. It is no wonder these constructs were cast. No mortal bug would last long inside that scorching place. Even my shell struggles to withstand its heat.
+  - Cogwork Hauler:
+![r](https://cdn.wikimg.net/en/hkwiki/images/f/f3/B_Cogwork_Hauler.png)
+    - Hornet's notes: Small automaton with a shielded shell, intended to carry loads of dangerous flintflame. Born and built only to work until time stiffens its limbs. Perhaps it is mercy this construct knows nothing of the freedom it lacks.
+  - Cogwork Crawler:
+![er](https://cdn.wikimg.net/en/hkwiki/images/1/13/B_Cogwork_Crawler.png)
+    - Hornet's notes: Automaton built in the shape of a scuttling bug. Its back contains retractable pins, intended to cut song cylinders free of any obstruction. Its form is certainly based on bugs found outside the Citadel. In my own craftwork, I too often look to nature for inspiration.
+  - Cogworker:
+![d](https://cdn.wikimg.net/en/hkwiki/images/3/36/B_Cogworker.png)
+    - Hornet's notes: Flighted automaton, responsible for repairing and extending the Core. More effective an opponent than would be guessed. The precarity of its winding domain can make even its simple assault a challenge.
+  - Cogwork Spine:
+![edcr](https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Cogwork_Spine.png)
+    - Hornet's notes: Spherical, winged automaton housing many sharp spikes. I cannot decipher its function to the greater Core. Is it built for defence? If so, its passivity seems far from optimal.
+  - Cogwork Choirbug:
+![de](https://cdn.wikimg.net/en/hkwiki/images/8/88/B_Cogwork_Choirbug.png)
+    - Hornet's notes: Bug forged of iron, rotor and cog. The automaton works tirelessly to maintain the Core that houses it. Its core is filled with fine mechanisms, but that alone should not produce such a convincing mimic of life. Silk must also be used to animate this artifice, though exactly how I am not sure.
+  - Cogwork Cleanser:
+![](https://cdn.wikimg.net/en/hkwiki/images/d/d3/B_Cogwork_Cleanser.png)
+    - Hornet's notes: Steam shooting automaton, forged to clean the Cogwork Core and keep it free of infestation. An inspired use of steam. I must remember its construction when designing future tools.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -444,7 +464,15 @@ None yet :/
 - The main social and commercial area of the citadel.
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Minister:
+![d](https://cdn.wikimg.net/en/hkwiki/images/0/0f/B_Minister.png)
+    - Hornet's notes: Gold ranked disciple of the Choir and direct servant to the Citadel's Conductors. The lethality of these bugs is unexpected. Their bodies were never built for combat. The Haunting has altered their nature dramatically.
+  - Maestro:
+![e](https://cdn.wikimg.net/en/hkwiki/images/thumb/d/d0/B_Maestro.png/300px-B_Maestro.png)
+    - Hornet's notes: Choir commander of the High Halls, able to summon and command cogflies at a flick of their baton. Once they summoned song from their subjects. Now they rise only to command an end to those unstrung.
+  - Second Sentinel:
+![3](https://cdn.wikimg.net/en/hkwiki/images/thumb/a/aa/B_Second_Sentinel.png/300px-B_Second_Sentinel.png)
+    - Hornet's notes: Cogwork knight of Pharloom, once protector of its pilgrims, and master of the scissor blade. The talent and intelligence of this construct goes far beyond others I have witnessed. They seem less built as a tool to serve than an attempt at life itself.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -453,7 +481,12 @@ None yet :/
 - The citadel's hospital.
 - Leader: Conductor Mizello
 - Bestiary & Locals:
-  - Soon
+  - Dreg Husk:
+![](https://cdn.wikimg.net/en/hkwiki/images/thumb/3/39/B_Dreg_Husk.png/300px-B_Dreg_Husk.png)
+    - Hornet's notes: Remains of a Citadel bug possessed by Silk dregs. The husk will lash out wildly with the many sharp pins caught inside its thread. There is old anguish bound upon these threads, the result of countless cruel procedures.
+  - Dregwheel:
+![e](https://cdn.wikimg.net/en/hkwiki/images/f/f3/B_Dregwheel.png)
+    - Hornet's notes: Shell of a small bug possessed by Silk dregs. The husk will stretch its Silk to form a crude, crushing wheel. Living Silk commanding a dead shell... An affront to nature, and one all too common across Pharloom.
 - Art:
 None yet :/
 - Subreddit: [r/WhiteWardCitadel](https://www.reddit.com/r/WhiteWardCitadel)
@@ -479,8 +512,28 @@ None yet :/
 ::: details Flies People's Republic
 - Formerly the Slab, but now free!
 - Leader: TBD
-- Bestiary & Locals:
-  - Soon
+- Bestiary & Locals: (Warning: Hornet was racist in the notes, and we are looking for alternatives)
+  - Penitent:
+![](https://cdn.wikimg.net/en/hkwiki/images/c/ca/B_Penitent.png)
+    - Hornet's notes: Humbled prisoner serving their sentence for sin committed within the Citadel. All are haunted here, the jailers and the jailed. Do they realise they will never leave this place? Or how long they have stayed already?
+  - Puny Penitent:
+![](https://cdn.wikimg.net/en/hkwiki/images/1/1c/B_Puny_Penitent.png)
+    - Hornet's notes: Small bug, shackled and cowled for sin committed within the Citadel. Their thick shroud leaves them sightless, yet it seems to matter little. They have no care for their safety, wishing only to charge at those they sense as sinful.
+  - Freshfly:
+![freshfly prince of bel air](https://cdn.wikimg.net/en/hkwiki/images/1/1a/B_Freshfly.png)
+    - Hornet's notes: Infant fly, freshly hatched. At this age the soft, blind fly is little more than a bother. The less these gruesome bugs breed, the better.
+  - Scabfly:
+![e](https://cdn.wikimg.net/en/hkwiki/images/d/d0/B_Scabfly.png)
+    - Hornet's notes: Sticky young fly, born and grown in service to the Slab. Foul creatures birthed into servitude. Their plight elicits no sympathy from me.
+  - Guardfly:
+![wwdcefr](https://cdn.wikimg.net/en/hkwiki/images/e/e7/B_Guardfly.png)
+    - Hornet's notes: Starved servant of the Slab, bearing a hooked longpin. The smell from these jailers overwhelms my senses. I strongly doubt they have ever thought to bathe.
+  - Wardenfly:
+![r](https://cdn.wikimg.net/en/hkwiki/images/4/4b/Slab_Fly_Large.png)
+    - Hornet's notes: Heavy, hairy jailer responsible for capturing sinners and punishing prisoners. Disgusting both in manner and stench. I feel no remorse to see them felled.
+  - Broodmother:
+![er](https://cdn.wikimg.net/en/hkwiki/images/thumb/2/23/B_Broodmother.png/300px-B_Broodmother.png)
+    - Hornet's notes: Mad matriarch of the Slab rarely seen outside her warren. From her all jailers are born and bred. With this one vanquished, I hope to have sped the end for that jail and its distasteful order.
 - Art:
 None yet :/
 - Subreddit: [r/GoToTheSlab](https://www.reddit.com/r/GoToTheSlab)
@@ -623,7 +676,12 @@ None yet :/
 - Cold mountain... Can't stay too long.
 - Leader: Sharp-Somewhere
 - Bestiary & Locals:
-  - Soon
+  - Driftlin:
+![er](https://cdn.wikimg.net/en/hkwiki/images/8/8b/B_Driftlin.png)
+    - Hornet's notes: Gentle glider of Mount Fay. Its downy wings and cowl allow it to resist even the most cutting cold. This one would make a perfect pet, but for the freezing temperatures it requires for comfort.
+  - Mnemonid:
+![tf u say this?](https://cdn.wikimg.net/en/hkwiki/images/9/9e/B_Mnemonid.png)
+    - Hornet's notes: Flighted creature formed from coldshard. If shattered it will quickly reform. The coldshard, even when destroyed it remembers its former shape. A remarkable material, and perhaps even more astonishing there seems life contained within it.
 - Art:
 None yet :/
 - Subreddit: [r/Mountfay](https://www.reddit.com/r/Mountfay)
