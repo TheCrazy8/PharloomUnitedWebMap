@@ -176,7 +176,12 @@ None yet :/
 - The eastern side of Greymoor, ruled by the Court of the Craws.
 - Leader: Crawfather
 - Bestiary & Locals:
-  - Soon
+  - Craw:
+![deded](https://cdn.wikimg.net/en/hkwiki/images/d/d6/B_Craw.png)
+    - Hornet's notes: Screeching scavenger that roosts high in caverns and preys on passing pilgrims. By this swooping menace, a simple bug could be easily overcome. More dangerous still, they rarely attack alone.
+  - Tallcraw:
+![dewivhwiirfvirw](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Tallcraw.png)
+    - Hornet's notes: Rag-winged adult crawbug bearing a scavenged pin. Far more hostile than their younger companions but seemingly less likely to roam far from their nest.
 - Art:
 None yet :/
 - Subreddit: [r/EasternGreymoor](https://www.reddit.com/r/EasternGreymoor)
@@ -403,7 +408,7 @@ None yet :/
 :::
 ::: details Verdania
 - A lush and found kingdom.
-- Leader: TBD
+- Leader: Green Prince
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -475,7 +480,7 @@ None yet :/
 :::
 ::: details The Kingdom Above
 - A nice kingdom on the surface!
-- Leader: TBD
+- Leader: Sherma
 - Bestiary & Locals:
   - Soon
 - Art:
