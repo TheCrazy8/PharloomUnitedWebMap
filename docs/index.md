@@ -303,7 +303,9 @@ None yet :/
 - A sandy land full of Snitchflies.
 - Leader: Grindle
 - Bestiary & Locals:
-  - Soon
+  - Snitchfly:
+![Snitchfly](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png)
+    - Hornet's notes: Buzzing pest of Pharloom's sandy reaches. Calls out to alert other creatures when it spots intruders. These creatures serve as the kingdom's unwilling sentries. Their cries bring more danger than their stings.
 - Art:
 None yet :/
 - Subreddit: [r/Blasted_Steps](https://www.reddit.com/r/Blasted_Steps)
@@ -312,7 +314,69 @@ None yet :/
 - A river with corals, now flourishing.
 - Leader: Crust King Khan
 - Bestiary & Locals:
-  - Soon
+  - Coral Furm:
+![Coral Furm](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Coral_Furm.png)
+    - Hornet's notes: Aquatic bug dwelling among the corals. Adapted to underwater life with specialized gills. The water here teems with life, both beautiful and deadly.
+  - Conchfly:
+![Conchfly](https://cdn.wikimg.net/en/hkwiki/images/f/f2/B_Conchfly.png)
+    - Hornet's notes: Shell-bearing flyer of Karak's waters. Uses its conch to amplify sound attacks. Nature provides many weapons for those who know how to use them.
+  - Great Conchfly:
+![Great Conchfly](https://cdn.wikimg.net/en/hkwiki/images/2/28/B_Great_Conchfly.png)
+    - Hornet's notes: Enormous Conchfly with a massive shell. Its sonic attacks can stun even the hardiest warriors. Size does not always mean slow.
+  - Crustcrawler:
+![Crustcrawler](https://cdn.wikimg.net/en/hkwiki/images/4/4c/B_Crustcrawler.png)
+    - Hornet's notes: Armored crustacean that scuttles along the riverbed. Its pincers are surprisingly strong. Water dwelling has given these bugs new forms of protection.
+  - Crustcrag:
+![Crustcrag](https://cdn.wikimg.net/en/hkwiki/images/b/b2/B_Crustcrag.png)
+    - Hornet's notes: Heavily armored elder Crustcrawler. Its shell has grown thick with age and accumulated minerals. Time hardens all things, even shells.
+  - Driznit:
+![Driznit](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Driznit.png)
+    - Hornet's notes: Small darting fish of Karak's waters. Travels in schools for safety. Even small things can overwhelm in numbers.
+  - Driznarga:
+![Driznarga](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Driznarga.png)
+    - Hornet's notes: Massive Driznit grown to frightening size. Its bulk makes it slow but devastating when it strikes. What feeds in these waters to grow so large?
+  - Pokenabbin:
+![Pokenabbin](https://cdn.wikimg.net/en/hkwiki/images/f/fe/B_Pokenabbin.png)
+    - Hornet's notes: Curious bug that pokes and prods at anything it encounters. Its behavior seems more playful than aggressive. Not all creatures here seek combat.
+  - Kai Spinebeak:
+![Kai Spinebeak](https://cdn.wikimg.net/en/hkwiki/images/7/7c/B_Kai_Spinebeak.png)
+    - Hornet's notes: Warrior of the Kai tribe. Wields a spined beak as both weapon and tool. These warriors are well adapted to their aquatic environment.
+  - Kai Steelspine:
+![Kai Steelspine](https://cdn.wikimg.net/en/hkwiki/images/7/7c/B_Kai_Steelspine.png)
+    - Hornet's notes: Elite Kai warrior with reinforced spine armor. Commands respect from lesser Kai. Strength and skill combined create formidable fighters.
+  - Kai Yuma:
+![Kai Yuma](https://cdn.wikimg.net/en/hkwiki/images/6/6c/B_Kai_Yuma.png)
+    - Hornet's notes: Yuma of the Kai, a specialized role within their ranks. Each culture develops its own forms of combat and hierarchy.
+  - Yumama:
+![Yumama](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Yumama.png)
+    - Hornet's notes: Mother of the Yuma, protector of her young. Maternal instinct makes even peaceful creatures dangerous. Never underestimate a mother defending her brood.
+  - Karaka:
+![Karaka](https://cdn.wikimg.net/en/hkwiki/images/8/85/B_Karaka.png)
+    - Hornet's notes: Citizen of Karak's order. Maintains the coral structures that house their society. Even in collapse, some try to maintain order.
+  - Kakri:
+![Kakri](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Kakri.png)
+    - Hornet's notes: Nimble member of Karak society. Moves with grace through the water. Adaptation to environment creates unique movement styles.
+  - Yago:
+![Yago](https://cdn.wikimg.net/en/hkwiki/images/7/7d/B_Yago.png)
+    - Hornet's notes: Guardian of Karak's deeper waters. Protects the sacred coral groves. All societies have their protectors.
+  - Karak Gor:
+![Karak Gor](https://cdn.wikimg.net/en/hkwiki/images/c/ca/B_Karak_Gor.png)
+    - Hornet's notes: Elite guardian of the Order of Karak. Wields ancient coral weapons passed down through generations. Tradition and strength combined.
+  - Alita:
+![Alita](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Alita.png)
+    - Hornet's notes: Swift hunter of Karak's shallows. Strikes with precision before retreating. Speed can be as deadly as strength.
+  - Corrcrust:
+![Corrcrust](https://cdn.wikimg.net/en/hkwiki/images/e/e1/B_Corrcrust.png)
+    - Hornet's notes: Corrupted Karak citizen, shell warped by unknown forces. Even in this flourishing place, corruption finds a way.
+  - Karaka Crust King:
+![Karaka Crust King](https://cdn.wikimg.net/en/hkwiki/images/2/2b/B_Karaka_Crust_King.png)
+    - Hornet's notes: Ancient ruler of the Karaka. Its massive shell is adorned with coral and minerals. Leadership takes many forms. This one has endured for ages.
+  - Khann:
+![Khann](https://cdn.wikimg.net/en/hkwiki/images/f/f8/B_Khann.png)
+    - Hornet's notes: Crust King Khann, current leader of the Order of Karak. Commands with wisdom earned through long years. A true king serves their people.
+  - Watcher at the Edge:
+![Watcher at the Edge](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Watcher_at_the_Edge.png)
+    - Hornet's notes: Mysterious sentinel standing at the boundary of Karak's territory. What does it watch for? What threat does it guard against?
 - Art:
 None yet :/
 - Subreddit: [r/OrderOfKarak](https://www.reddit.com/r/OrderOfKarak)
@@ -321,7 +385,39 @@ None yet :/
 - The entrance to the citadel, now open to all!
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Envoy Choir:
+![Envoy Choir](https://cdn.wikimg.net/en/hkwiki/images/9/9a/B_Envoy_Choir.png)
+    - Hornet's notes: Diplomatic member of the Citadel's choir. Once carried messages through song. Music used for communication - a beautiful idea, now corrupted.
+  - Pouncer Choir:
+![Pouncer Choir](https://cdn.wikimg.net/en/hkwiki/images/c/c2/B_Pouncer_Choir.png)
+    - Hornet's notes: Agile choir member that leaps between platforms. Their movements were once dance, now they're attacks. Art weaponized.
+  - Hornhead Choir:
+![Hornhead Choir](https://cdn.wikimg.net/en/hkwiki/images/5/56/B_Hornhead_Choir.png)
+    - Hornet's notes: Choir bug with prominent horns used to amplify their voice. Sound can be a powerful tool, or a weapon.
+  - Bellbearer Choir:
+![Bellbearer Choir](https://cdn.wikimg.net/en/hkwiki/images/8/83/B_Bellbearer_Choir.png)
+    - Hornet's notes: Carries ceremonial bells that ring with each movement. The bells warned of danger. Now they herald it.
+  - Flyer Choir:
+![Flyer Choir](https://cdn.wikimg.net/en/hkwiki/images/a/a1/B_Flyer_Choir.png)
+    - Hornet's notes: Winged choir member that swoops from above. Their aerial harmonies once filled these halls with beauty.
+  - Elder Choir:
+![Elder Choir](https://cdn.wikimg.net/en/hkwiki/images/7/7b/B_Elder_Choir.png)
+    - Hornet's notes: Ancient member of the choir, voice deepened with age. The eldest voices carried the most weight. Age brings wisdom, or so it should.
+  - Choristor:
+![Choristor](https://cdn.wikimg.net/en/hkwiki/images/4/42/B_Choristor.png)
+    - Hornet's notes: Elite choir conductor animated by silk and song. Commands other choir members in deadly harmony. Leadership in art, twisted to violence.
+  - Reed Grand:
+![Reed Grand](https://cdn.wikimg.net/en/hkwiki/images/c/c6/B_Reed_Grand.png)
+    - Hornet's notes: Grand master of the reed instruments. Their music once brought joy to the Citadel. Now it brings only sorrow.
+  - Reed Choir:
+![Reed Choir](https://cdn.wikimg.net/en/hkwiki/images/3/30/B_Reed_Choir.png)
+    - Hornet's notes: Choir member specializing in reed instruments. Woodwind melodies turned to war cries.
+  - Clapper Choir:
+![Clapper Choir](https://cdn.wikimg.net/en/hkwiki/images/8/8a/B_Clapper_Choir.png)
+    - Hornet's notes: Uses clapping shells to create rhythm. Percussion for the choir's violent performances.
+  - Clawmaiden:
+![Clawmaiden](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
+    - Hornet's notes: Silk-animated servant of the Citadel. Claws meant for delicate work now slash at intruders. Service corrupted into servitude.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -330,7 +426,24 @@ None yet :/
 - The bulk of the citadel's industrial production.
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Underworker:
+![Underworker](https://cdn.wikimg.net/en/hkwiki/images/9/93/B_Underworker.png)
+    - Hornet's notes: Frail worker of the Underworks. Uses twistpins for their labor. These bugs built the Citadel's foundation. Now they defend it mindlessly.
+  - Underscrub:
+![Underscrub](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Underscrub.png)
+    - Hornet's notes: Maintenance worker responsible for cleaning the Underworks. Still scrubs floors despite the Haunting. Purpose persists beyond reason.
+  - Undersweep:
+![Undersweep](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Undersweep.png)
+    - Hornet's notes: Sweeper bug with large broom-like appendages. Keeps the Underworks clear of debris. Even in chaos, some try to maintain order.
+  - Underpoke:
+![Underpoke](https://cdn.wikimg.net/en/hkwiki/images/c/c3/B_Underpoke.png)
+    - Hornet's notes: Inspector bug that prods and tests machinery. Quality control lost to the Haunting but behavior remains.
+  - Underloft:
+![Underloft](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Underloft.png)
+    - Hornet's notes: Worker responsible for moving materials to higher levels. Strength dedicated to construction, now to destruction.
+  - Undercrank:
+![Undercrank](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Undercrank.png)
+    - Hornet's notes: Operates the great cranks and gears of the Underworks. The machines still turn, though purpose is lost.
 - Art:
 None yet :/
 - Subreddit: [r/Underworks](https://www.reddit.com/r/Underworks)
@@ -348,7 +461,36 @@ None yet :/
 - The inner workings of the citadel.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Cogwork Underfly:
+![Cogwork Underfly](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Cogwork_Underfly.png)
+    - Hornet's notes: Mechanical flying construct of the Cogwork Core. Gears and springs give it life. The line between life and machine blurs here.
+  - Cogwork Hauler:
+![Cogwork Hauler](https://cdn.wikimg.net/en/hkwiki/images/5/5f/B_Cogwork_Hauler.png)
+    - Hornet's notes: Heavy mechanical construct designed for transport. Pulls great weights with tireless efficiency. Machines never tire, never question.
+  - Cogwork Crawler:
+![Cogwork Crawler](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Cogwork_Crawler.png)
+    - Hornet's notes: Insectoid machine that scuttles through the Core. Mimics life but lacks its spark. Or does it?
+  - Cogworker:
+![Cogworker](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Cogworker.png)
+    - Hornet's notes: Mechanical worker performing endless tasks. Built to serve, now serves only chaos. Purpose without understanding.
+  - Cogwork Spine:
+![Cogwork Spine](https://cdn.wikimg.net/en/hkwiki/images/8/83/B_Cogwork_Spine.png)
+    - Hornet's notes: Segmented mechanical construct with articulated spine. Flexibility in machine form - impressive engineering.
+  - Cogwork Choirbug:
+![Cogwork Choirbug](https://cdn.wikimg.net/en/hkwiki/images/7/7f/B_Cogwork_Choirbug.png)
+    - Hornet's notes: Mechanical recreation of a choir member. Even music is mechanized here. Can machines understand beauty?
+  - Cogwork Cleanser:
+![Cogwork Cleanser](https://cdn.wikimg.net/en/hkwiki/images/9/96/B_Cogwork_Cleanser.png)
+    - Hornet's notes: Maintenance machine that purges contaminants. Cleansing with mechanical precision. No mercy in its programming.
+  - Cogwork Defender:
+![Cogwork Defender](https://cdn.wikimg.net/en/hkwiki/images/f/fe/B_Cogwork_Defender.png)
+    - Hornet's notes: Combat-ready mechanical guardian. Defends the Core from all intruders. A machine built for war knows nothing but war.
+  - Cogwork Clapper:
+![Cogwork Clapper](https://cdn.wikimg.net/en/hkwiki/images/1/11/B_Cogwork_Clapper.png)
+    - Hornet's notes: Mechanical construct that creates rhythmic sounds. Timing is everything, in music and combat.
+  - Cogwork Dancers:
+![Cogwork Dancers](https://cdn.wikimg.net/en/hkwiki/images/8/88/B_Cogwork_Dancers.png)
+    - Hornet's notes: Twin mechanical constructs that move in perfect synchronization. A dance of gears and springs. Beauty in precision, death in harmony.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -357,7 +499,15 @@ None yet :/
 - The main social and commercial area of the citadel.
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Memoria Minister:
+![Memoria Minister](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Memoria_Minister.png)
+    - Hornet's notes: High-ranking official of the Memorium. Keeper of memories and records. Knowledge preserved becomes knowledge weaponized.
+  - Maestro:
+![Maestro](https://cdn.wikimg.net/en/hkwiki/images/d/d0/B_Maestro.png)
+    - Hornet's notes: Master conductor of the Citadel's grand performances. Led symphonies that moved hearts. Now conducts only violence.
+  - Second Sentinel:
+![Second Sentinel](https://cdn.wikimg.net/en/hkwiki/images/a/aa/B_Second_Sentinel.png)
+    - Hornet's notes: Elite guardian of the High Halls. Second only to the First in skill and power. Rank earned through dedication and strength.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -366,7 +516,21 @@ None yet :/
 - The citadel's hospital.
 - Leader: Conductor Mizello
 - Bestiary & Locals:
-  - Soon
+  - Dreg Husk:
+![Dreg Husk](https://cdn.wikimg.net/en/hkwiki/images/8/8c/B_Dreg_Husk.png)
+    - Hornet's notes: Empty shell of a bug, animated by silk residue. Not truly alive, but moving nonetheless. The boundary between life and death is unclear here.
+  - Dregwheel:
+![Dregwheel](https://cdn.wikimg.net/en/hkwiki/images/f/f3/B_Dregwheel.png)
+    - Hornet's notes: Wheeled construct made from dreg remains. Rolls through corridors endlessly. Even death doesn't stop the work.
+  - Surgeon:
+![Surgeon](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Surgeon.png)
+    - Hornet's notes: Medical practitioner lost to the Haunting. Precise cuts meant for healing now cause harm. The healer's hand turned to violence.
+  - Mortician:
+![Mortician](https://cdn.wikimg.net/en/hkwiki/images/2/29/B_Mortician.png)
+    - Hornet's notes: Caretaker of the dead. Prepares bodies for final rest. Still tends to the deceased, though now creates more work for itself.
+  - The Unravelled:
+![The Unravelled](https://cdn.wikimg.net/en/hkwiki/images/6/69/B_The_Unravelled.png)
+    - Hornet's notes: Silk-being that has lost all cohesion. Fragments held together by will alone. Coming undone yet still fighting. Determination in the face of dissolution.
 - Art:
 None yet :/
 - Subreddit: [r/WhiteWardCitadel](https://www.reddit.com/r/WhiteWardCitadel)
@@ -384,7 +548,18 @@ None yet :/
 - The former home of all knowledge about everything.
 - Leader: Hornet
 - Bestiary & Locals:
-  - Soon
+  - Vaultborn:
+![Vaultborn](https://cdn.wikimg.net/en/hkwiki/images/5/50/B_Vaultborn.png)
+    - Hornet's notes: Bug born and raised within the Vaults. Never knew the world outside these walls. Knowledge without experience creates a narrow perspective.
+  - Lampbearer:
+![Lampbearer](https://cdn.wikimg.net/en/hkwiki/images/b/b6/B_Lampbearer.png)
+    - Hornet's notes: Carries light through the dark Vaults. Illuminates knowledge for scholars. Now the light reveals only danger.
+  - Scrollreader:
+![Scrollreader](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Scrollreader.png)
+    - Hornet's notes: Scholar dedicated to reading and preserving ancient texts. Eyes strained from years of study. Knowledge is power, but what power remains when the mind is lost?
+  - Vaultkeeper:
+![Vaultkeeper](https://cdn.wikimg.net/en/hkwiki/images/b/b9/B_Vaultkeeper.png)
+    - Hornet's notes: Guardian of the Vault's most precious knowledge. Protects secrets with fierce dedication. Some knowledge should remain hidden.
 - Art:
 None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
@@ -420,7 +595,36 @@ None yet :/
 - A bog of bile, but the locals are quite nice.
 - Leader: Groal
 - Bestiary & Locals:
-  - Soon
+  - Muckmaggot:
+![Muckmaggot](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Muckmaggot.png)
+    - Hornet's notes: Writhing larvae that thrives in Bilewater's toxic pools. Feeding on decay and filth. Even in the vilest places, life finds a way.
+  - Slugberlug:
+![Slugberlug](https://cdn.wikimg.net/en/hkwiki/images/a/a4/B_Slugberlug.png)
+    - Hornet's notes: Corpulent slug adapted to life in bile. Leaves a corrosive trail wherever it moves. The poison that would kill others is home to these creatures.
+  - Muckroach:
+![Muckroach](https://cdn.wikimg.net/en/hkwiki/images/e/eb/B_Muckroach.png)
+    - Hornet's notes: Scuttling roach of the bile bogs. Feeds on organic waste. Nature's cleaners, no matter how unpleasant.
+  - Bloatroach:
+![Bloatroach](https://cdn.wikimg.net/en/hkwiki/images/e/eb/B_Bloatroach.png)
+    - Hornet's notes: Swollen Muckroach filled with toxic gases. Explodes violently when threatened. A defense mechanism that ensures mutual destruction.
+  - Roachcatcher:
+![Roachcatcher](https://cdn.wikimg.net/en/hkwiki/images/a/a9/B_Roachcatcher.png)
+    - Hornet's notes: Bug that hunts roaches through the bile. Even predators have learned to thrive here. Every ecosystem has its hunters.
+  - Roachfeeder:
+![Roachfeeder](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Roachfeeder.png)
+    - Hornet's notes: Domesticated bug that tends to roach colonies. Lost to the Haunting but still performs its duties. The habits of work persist even when purpose is lost.
+  - Roachkeeper:
+![Roachkeeper](https://cdn.wikimg.net/en/hkwiki/images/1/1c/B_Roachkeeper.png)
+    - Hornet's notes: Guardian of roach breeding grounds. Protects the roaches with fierce determination. Even the lowliest creatures deserve protection.
+  - Roachserver:
+![Roachserver](https://cdn.wikimg.net/en/hkwiki/images/8/8b/B_Roachserver.png)
+    - Hornet's notes: Server bug that once brought roach-based dishes to diners. Now serves only the Haunting. Hospitality turned to hostility.
+  - Disgraced Chef Lugoli:
+![Disgraced Chef Lugoli](https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Disgraced_Chef_Lugoli.png)
+    - Hornet's notes: Once-renowned chef, now disgraced and lost to the Haunting. His culinary passion twisted into violent obsession. Genius corrupted is a terrible thing.
+  - Groal the Great:
+![Groal the Great](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Groal_the_Great.png)
+    - Hornet's notes: Massive toad-like beast ruling over Bilewater. Commands the toxic swamp with brutal authority. Power comes in many forms. This one is ancient and unyielding.
 - Art:
 None yet :/
 - Subreddit: [r/Bilewater](https://www.reddit.com/r/Bilewater)
@@ -436,7 +640,21 @@ None yet :/
 - The result of old citadel pollution.
 - Leader: Groal
 - Bestiary & Locals:
-  - Soon
+  - Barnak:
+![Barnak](https://cdn.wikimg.net/en/hkwiki/images/2/2a/B_Barnak.png)
+    - Hornet's notes: Crustacean adapted to the polluted ducts. Filters toxins through specialized gills. Life adapts even to poison.
+  - Ductsucker:
+![Ductsucker](https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Ductsucker.png)
+    - Hornet's notes: Clings to duct walls and feeds on residue. Cleans pollution while creating more. The cycle continues.
+  - Miremite:
+![Miremite](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Miremite.png)
+    - Hornet's notes: Tiny pest that thrives in mire and sludge. Multiplies rapidly in polluted areas. Contamination breeds contamination.
+  - Swamp Squit:
+![Swamp Squit](https://cdn.wikimg.net/en/hkwiki/images/1/10/B_Swamp_Squit.png)
+    - Hornet's notes: Flying insect of the swampy ducts. Carries disease on its wings. Avoid contact when possible.
+  - Spit Squit:
+![Spit Squit](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Spit_Squit.png)
+    - Hornet's notes: Aggressive variant that spits corrosive fluid. Defense through offense. Effective, if crude.
 - Art:
 None yet :/
 - Subreddit: [r/putrifiedducts](https://www.reddit.com/r/putrifiedducts)
@@ -463,7 +681,33 @@ None yet :/
 - A lush and found kingdom.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Pharlid:
+![Pharlid](https://cdn.wikimg.net/en/hkwiki/images/0/0a/B_Pharlid.png)
+    - Hornet's notes: Native insect of Verdania's lush groves. Gentle creatures that feed on pollen. Not all bugs seek conflict.
+  - Pharlid Diver:
+![Pharlid Diver](https://cdn.wikimg.net/en/hkwiki/images/b/b7/B_Pharlid_Diver.png)
+    - Hornet's notes: Aquatic Pharlid that plunges through Verdania's waters. Adapted to both land and sea. Versatility is a valuable trait.
+  - Cloverstag:
+![Cloverstag](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Cloverstag.png)
+    - Hornet's notes: Majestic stag-beetle of Verdania. Antlers adorned with clover. Beauty and strength combined. The natural royalty of this lost kingdom.
+  - Clover Dancers:
+![Clover Dancers](https://cdn.wikimg.net/en/hkwiki/images/c/c4/B_Clover_Dancers.png)
+    - Hornet's notes: Graceful performers of Verdania's court. Their dances celebrated nature and growth. Art that honored life itself.
+  - Gahlia:
+![Gahlia](https://cdn.wikimg.net/en/hkwiki/images/c/cf/B_Gahlia.png)
+    - Hornet's notes: Flower guardian of Verdania. Protects the sacred blooms. Even plants have their protectors.
+  - Pollenica:
+![Pollenica](https://cdn.wikimg.net/en/hkwiki/images/4/41/B_Pollenica.png)
+    - Hornet's notes: Pollen carrier essential to Verdania's ecosystem. Spreads life wherever it goes. Small actions can have great consequences.
+  - Phacia:
+![Phacia](https://cdn.wikimg.net/en/hkwiki/images/c/c0/B_Phacia.png)
+    - Hornet's notes: Rare butterfly of Verdania. Its wings shimmer with iridescent beauty. Some things exist purely to be beautiful.
+  - Shrine Guardian Seth:
+![Shrine Guardian Seth](https://cdn.wikimg.net/en/hkwiki/images/2/28/B_Shrine_Guardian_Seth.png)
+    - Hornet's notes: Sacred protector of Verdania's shrines. Sworn to defend the Green Prince's legacy. Duty beyond death.
+  - Nyleth:
+![Nyleth](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Nyleth.png)
+    - Hornet's notes: Ancient guardian spirit of Verdania. Watches over the lost kingdom with eternal vigilance. Some places are never truly abandoned.
 - Art:
 None yet :/
 - Subreddit: [r/NewVerdania](https://www.reddit.com/r/NewVerdania)
@@ -517,7 +761,15 @@ None yet :/
 - A forest of flames and the cult that worships them.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Wisp:
+![Wisp](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Wisp.png)
+    - Hornet's notes: Flickering flame spirit of the Thicket. Burns with an otherworldly light. Are they alive? Or merely energy given form?
+  - Burning Bug:
+![Burning Bug](https://cdn.wikimg.net/en/hkwiki/images/4/4e/B_Burning_Bug.png)
+    - Hornet's notes: Insect wreathed in living flame. Immune to fire, vulnerable to everything else. A beautiful, deadly paradox.
+  - Father of the Flame:
+![Father of the Flame](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Father_of_the_Flame.png)
+    - Hornet's notes: Ancient burning entity worshipped by the flame cult. Commands fire with divine authority. Gods come in many forms. This one burns.
 - Art:
 None yet :/
 - Subreddit: [r/WispThicket](https://www.reddit.com/r/WispThicket)
