@@ -500,7 +500,7 @@ None yet :/
 - Subreddit: [r/CitadelUnsung](https://www.reddit.com/r/CitadelUnsung)
 :::
 ::: details Whispering Vaults
-- The former home of all knowledge about everything.
+- The former home of all knowledge about everything, now home of the Web (data about everything stored on silk, can be used for communication and accessed anywhere within Pharloom, also where this map resides in universe).
 - Leader: Hornet
 - Bestiary & Locals:
   - Vaultkeeper:
