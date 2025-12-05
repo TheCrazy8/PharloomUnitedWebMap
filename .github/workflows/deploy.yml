@@ -38,12 +38,10 @@ jobs:
           node-version: 20
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Install VitePress and build pages
+      - name: Install dependencies and build pages
         run: |
-          cd docs
-          npm install vitepress @lando/vitepress-theme-default-plus
-          npm install vitepress-plugin-image-viewer
-          npx vitepress build
+          npm install
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
