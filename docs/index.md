@@ -387,8 +387,7 @@ None yet :/
 ![ert](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Watcher_at_the_Edge.png)
     - Hornet's notes: Old warrior guarding the border of their domain, stiffened by time and awoken by song. They held long at their vigil, far beyond the age of their brethren, yet still when roused they swung their blade with remarkable ease.
 - Art:
-![Currently Broken, will be fixed](https://cdn.discordapp.com/attachments/1439581601158926366/1445555487452958826/1qcungj6jv4g1.png)
-![e](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1439581601158926366%2F1445555487452958826%2F1qcungj6jv4g1.png%3Fex%3D693411b5%26is%3D6932c035%26hm%3Da0b16ba06578869f21890f3e7687515cad2591397aae4a234a2695c9d6864ddb%26&data=05%7C02%7Cs977168%40student.knoxschools.org%7C37a8613d5ee4443cbf6108de341437b1%7Ca2c165ce3db24317b7428b26460ec108%7C0%7C0%7C639005458595694372%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ICyv6KteCOhs%2FvlVuve2zu9HZuNutHB97bKr%2BFY%2FaE0%3D&reserved=0)
+![pop](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1439581601158926366%2F1445555487452958826%2F1qcungj6jv4g1.png%3Fex%3D693411b5%26is%3D6932c035%26hm%3Da0b16ba06578869f21890f3e7687515cad2591397aae4a234a2695c9d6864ddb%26&data=05%7C02%7Cs977168%40student.knoxschools.org%7C37a8613d5ee4443cbf6108de341437b1%7Ca2c165ce3db24317b7428b26460ec108%7C0%7C0%7C639005458595694372%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ICyv6KteCOhs%2FvlVuve2zu9HZuNutHB97bKr%2BFY%2FaE0%3D&reserved=0)
 - Subreddit: [r/OrderOfKarak](https://www.reddit.com/r/OrderOfKarak)
 :::
 ::: details Choral Chambers
