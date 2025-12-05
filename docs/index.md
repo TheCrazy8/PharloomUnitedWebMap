@@ -176,7 +176,27 @@ None yet :/
 - The eastern side of Greymoor, ruled by the Court of the Craws.
 - Leader: Crawfather
 - Bestiary & Locals:
-  - Soon
+  - Craw:
+![Craw](https://cdn.wikimg.net/en/hkwiki/images/d/d6/B_Craw.png)
+    - Hornet's notes: Citizen of Greymoor, member of the Court of the Craws. Demands payment from all who pass through their territory. Their demands may seem severe, but fair leadership requires a full treasury.
+  - Tallcraw:
+![Tallcraw](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Tallcraw.png)
+    - Hornet's notes: Tall member of the Court of the Craws. Its stature grants advantage in reach. Height provides certain advantages in combat, though a skilled fighter knows how to exploit an opponent's stance.
+  - Squatcraw:
+![Squatcraw](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Squatcraw.png)
+    - Hornet's notes: Squat member of the Court of the Craws. Its low profile makes it difficult to strike. Those who fight from below can be the hardest to predict and counter.
+  - Craw Juror:
+![Craw Juror](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Craw_Juror.png)
+    - Hornet's notes: Judicial member of the Court of the Craws. Passes judgement on those who violate their laws. All civilised societies require law and order, though the methods of enforcement vary greatly.
+  - Tallcraw Juror:
+![Tallcraw Juror](https://cdn.wikimg.net/en/hkwiki/images/e/ef/B_Tallcraw_Juror.png)
+    - Hornet's notes: Tall judicial member of the Court of the Craws. Its verdicts are delivered from on high. The combination of height and authority can be intimidating, though justice should not rely on intimidation alone.
+  - Squatcraw Juror:
+![Squatcraw Juror](https://cdn.wikimg.net/en/hkwiki/images/1/14/B_Squatcraw_Juror.png)
+    - Hornet's notes: Squat judicial member of the Court of the Craws. Delivers low judgements. Even the smallest can hold great authority.
+  - Crawfather:
+![Crawfather](https://cdn.wikimg.net/en/hkwiki/images/8/87/B_Crawfather.png)
+    - Hornet's notes: Ancient leader of the Court of the Craws. Protects his subjects and their traditions fiercely. A ruler who will fight for their people commands respect, even from those who oppose them.
 - Art:
 None yet :/
 - Subreddit: [r/EasternGreymoor](https://www.reddit.com/r/EasternGreymoor)
@@ -198,7 +218,11 @@ None yet :/
 ![edfrtrttrrt](https://cdn.wikimg.net/en/hkwiki/images/b/bb/B_Dreg_Catcher.png)
     - Hornet's notes: Bug charged to catch dregs of Silk that fall from the Citadel. Will attack with its staff if provoked. These bugs look to have spent every waking moment at their work. Grim, endless labour in service of the unseen Citadel above.
   - Silk Snipper:
-![wedewdfer](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
+![Silk Snipper](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
+    - Hornet's notes: Bug tasked with cutting and gathering silk that falls from the Citadel. Wields large scissors to perform their work. The silk of the Citadel falls constantly. An entire economy built around catching scraps from above.
+  - Thread Raker:
+![Thread Raker](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Thread_Raker.png)
+    - Hornet's notes: Worker bug responsible for raking and organizing gathered silk threads. Lost to the Haunting, they still perform their tasks mindlessly. Their dedication persists even as their minds have failed them.
 - Art:
 None yet :/
 - Subreddit: [r/GreymoorSilksong](https://www.reddit.com/r/GreymoorSilksong)
@@ -207,7 +231,18 @@ None yet :/
 - A quaint town between Greymoor and Shellwood, home to many friendly faces.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Pilgrim Groveller:
+![Pilgrim Groveller](https://cdn.wikimg.net/en/hkwiki/images/e/e1/B_Pilgrim_Groveller.png)
+    - Hornet's notes: Basic bug of Pharloom, laid low upon the ground. Taken by Pharloom's Haunting, the bug is now capable of little more than prayer and aggression. So many of this kingdom's citizens have been reduced to this pitiful state.
+  - Pilgrim Pouncer:
+![Pilgrim Pouncer](https://cdn.wikimg.net/en/hkwiki/images/8/88/B_Pilgrim_Pouncer.png)
+    - Hornet's notes: Agile bug of Pharloom, whose higher functions have been lost to the Haunting. They rely on athleticism for survival. Even those blessed with grace and agility are not immune to this curse.
+  - Pilgrim Hornfly:
+![Pilgrim Hornfly](https://cdn.wikimg.net/en/hkwiki/images/e/ec/B_Pilgrim_Hornfly.png)
+    - Hornet's notes: Winged pilgrim bug that dive-bombs intruders. Flight should grant freedom, yet these bugs remain trapped by the Haunting.
+  - Winged Pilgrim:
+![Winged Pilgrim](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Winged_Pilgrim.png)
+    - Hornet's notes: Flying pilgrim capable of swift aerial maneuvers. Their wings carry them through the air with practiced ease. I wonder if they remember learning to fly.
 - Art:
 None yet :/
 - Subreddit: [r/Bellhart](https://www.reddit.com/r/Bellhart)
@@ -216,7 +251,30 @@ None yet :/
 - A wet, forestlike, and wild woodland with pretty white flowers.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Pond Skipper:
+![Pond Skipper](https://cdn.wikimg.net/en/hkwiki/images/5/5e/B_Pond_Skipper.png)
+    - Hornet's notes: Water-walking bug that skitters across the ponds of Shellwood. Moves with remarkable speed across the water's surface. I've tried to mimic such movement myself, but lack the proper build.
+  - Pondcatcher:
+![Pondcatcher](https://cdn.wikimg.net/en/hkwiki/images/5/58/B_Pondcatcher.png)
+    - Hornet's notes: Predatory bug that lurks near water, waiting to snatch prey. Patient and deadly in equal measure. The stillness before the strike is when they are most dangerous.
+  - Shellwood Gnat:
+![Shellwood Gnat](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Shellwood_Gnat.png)
+    - Hornet's notes: Tiny flying insect common throughout Shellwood. Individually harmless, but their swarms can overwhelm. Even the smallest creatures can pose a threat in numbers.
+  - Wood Wasp:
+![Wood Wasp](https://cdn.wikimg.net/en/hkwiki/images/e/ed/B_Wood_Wasp.png)
+    - Hornet's notes: Shellwood wasp that feeds on tree sap and defends its territory. Their stingers are sharp and their aim true. Natural guardians of their forest home.
+  - Splinter:
+![Splinter](https://cdn.wikimg.net/en/hkwiki/images/5/5f/B_Splinter.png)
+    - Hornet's notes: Wooden construct animated by unknown means. Moves with surprising agility through the branches. Are they alive, or merely animated? The distinction matters less when they attack.
+  - Splinterhorn:
+![Splinterhorn](https://cdn.wikimg.net/en/hkwiki/images/9/91/B_Splinterhorn.png)
+    - Hornet's notes: Horned variant of the Splinter with enhanced offensive capabilities. The horn is both weapon and weak point. A skilled strike can shatter it entirely.
+  - Splinterbark:
+![Splinterbark](https://cdn.wikimg.net/en/hkwiki/images/d/dc/B_Splinterbark.png)
+    - Hornet's notes: Heavily armored Splinter covered in thick bark plating. Their defense is formidable. Sometimes the best offense is finding a way around the defense.
+  - Sister Splinter:
+![Sister Splinter](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Sister_Splinter.png)
+    - Hornet's notes: Elite Splinter guardian, faster and more aggressive than its kin. Commands other Splinters in battle. Every army needs its leaders. This one leads with violence.
 - Art:
 None yet :/
 - Subreddit: [r/Shellwood](https://www.reddit.com/r/Shellwood)
