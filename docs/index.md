@@ -25,10 +25,10 @@ title: Pharloom Web Map
 ![Mossmir](./public/Mossmir_Idle.png)
     - Hornet's notes: Small fluttering creature capable of defending itself with its small stinger. This bug is soft and clumsy, but to its fortune its home caves seem relatively free of effective predators. I wonder why that is.
   - Moss Mother:
-![Moss Mother](https://cdn.wikimg.net/en/hkwiki/images/1/1e/B_Moss_Mother.png)
+![Moss Mother](https://hollowknight.wiki/w/images/B_Moss_Mother.png)
     - Hornet's notes: Adult Mossmir with fully developed stinger and hardened hide. Motherhood is an instinct that can push creatures beyond what seems their normal limits. It turns even weaker beasts like these into formidable foes.
   - Aknid:
-![Aknid](https://cdn.wikimg.net/en/hkwiki/images/f/fb/B_Aknid.png)
+![Aknid](https://hollowknight.wiki/w/images/B_Aknid.png)
     - Hornet's notes: Winged insect that feeds upon moss and lichen in the caves above Bone Bottom. In its natural state it would avoid potential predators, but Pharloom's Haunting now compels it to aggression. Fortunately, its jaws are ill-suited for combat.
 - Art:
 None yet :/
@@ -39,7 +39,7 @@ None yet :/
   - Leader: Flick the fixer
   - Bestiary & Locals:
     - Bell Beast:
-![Bell Beast](https://cdn.wikimg.net/en/hkwiki/images/8/84/B_Bell_Beast.png)
+![Bell Beast](https://hollowknight.wiki/w/images/B_Bell_Beast.png)
       - Hornet's notes: Massive creature controlled by ceremonial bells. The bells command its every movement. Control through sound - a fascinating method.
     - (Also home to Pilgrim Groveller and Pilgrim Pouncer - see Bellhart)
 :::
@@ -48,22 +48,22 @@ None yet :/
 - Leader: BigShip6556
 - Bestiary & Locals:
   - Skull Scuttler:
-![Skull Scuttler](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Skull_Scuttler.png)
+![Skull Scuttler](https://hollowknight.wiki/w/images/B_Skull_Scuttler.png)
     - Hornet's notes: Small, soft bug that uses the hard skulls of the Marrow for protection and disguise. In every land, creatures find new and surprising ways to disguise themselves. One must be wary always.
   - Skullwing:
-![Skullwing](https://cdn.wikimg.net/en/hkwiki/images/5/55/B_Skullwing.png)
+![Skullwing](https://hollowknight.wiki/w/images/B_Skullwing.png)
     - Hornet's notes: Airborne relative of the grounded Skull Scuttler, found only in the Marrow's deepest, hottest caves. Such feeble creatures could only survive thanks to the rarity of predators in these super-heated caverns.
   - Skull Brute:
-![Skull Brute](https://cdn.wikimg.net/en/hkwiki/images/9/9a/B_Skull_Brute.png)
+![Skull Brute](https://hollowknight.wiki/w/images/B_Skull_Brute.png)
     - Hornet's notes: Soft bug beneath a huge, horned skull. Charges at intruders to protect its territory and its smaller companions. Either its size has made it fearless or the Haunting has removed its sense of self-preservation.
   - Skull Tyrant:
-![Skulltyrant](https://cdn.wikimg.net/en/hkwiki/images/2/29/B_Skull_Tyrant.png)
+![Skulltyrant](https://hollowknight.wiki/w/images/B_Skull_Tyrant.png)
     - Hornet's notes: Rare, enormous Skull Scuttler. The Marrow's largest predator, and the most feared for its ferocious temperament. Though surely fierce, the skull it bears looks taken from an even larger beast. If not for the bones as proof, I would scarcely believe bugs could grow to such scale.
   - Kilik:
-![Killik](https://cdn.wikimg.net/en/hkwiki/images/1/1d/B_Kilik.png)
+![Killik](https://hollowknight.wiki/w/images/B_Kilik.png)
     - Hornet's notes: Small bony bug that favours dark tunnels. Can expand its spiked carapace to ward against attacking predators. I am fond of simple, effective traps such as this bug's extendable spikes. An unwary predator would be skewered clean through.
   - Beastfly:
-![Beastfly](https://cdn.wikimg.net/en/hkwiki/images/b/ba/B_Beastfly.png)
+![Beastfly](https://hollowknight.wiki/w/images/B_Beastfly.png)
     - Hornet's notes: Aggressive fly of Pharloom's lowlands. Rams prey with its hardbone mask. Dancing around this simple creature as it charges back and forth is the sort of game I delighted in as a child. Alas, I now have more pressing matters to attend to.
 - Art:
 None yet :/
@@ -74,25 +74,25 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Lavalug:
-![slug](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Lavalug.png)
+![slug](https://hollowknight.wiki/w/images/B_Lavalug.png)
     - Hornet's notes: Sticky mollusc that defends itself by spraying burning fluid from growths on its back. What seems at first a purely defensive mechanism may also be necessary to rid this creature of excess heat.
   - Lavalarga:
-![slug but fat](https://cdn.wikimg.net/en/hkwiki/images/4/45/B_Lavalarga.png)
+![slug but fat](https://hollowknight.wiki/w/images/B_Lavalarga.png)
     - Hornet's notes: Fully grown mollusc able to unleash a gushing torrent of burning fluid from its back. To survive while storing so much searing fluid within... Before I would have believed it impossible, but Pharloom is home to many marvels.
   - Smelt Shoveller:
-![o](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Smelt_Shoveller.png)
+![o](https://hollowknight.wiki/w/images/B_Smelt_Shoveller.png)
     - Hornet's notes: Low level worker lost to Pharloom's haunting. Instinct keeps them at their task, though in much simpler fashion than before. This kingdom appears more advanced in metalwork than my own ever was, in great part due to the natural heat source at its base. Working in such an environment is an impressive feat.
   - Flintstone Flyer:
-![GRAND DAD](https://cdn.wikimg.net/en/hkwiki/images/9/92/B_Flintstone_Flyer.png)
+![GRAND DAD](https://hollowknight.wiki/w/images/B_Flintstone_Flyer.png)
     - Hornet's notes: Aerial worker lost to Pharloom's Haunting. Bears a pouch full with flintstone which they will fling at intruders. That incendiary material they carry is a natural wonder, with many potential applications. What a waste to carelessly throw it at me whenever I pass by.
   - Flintflame Flyer:
-![FLEENTSTONES?!](https://cdn.wikimg.net/en/hkwiki/images/b/b1/B_Flintflame_Flyer.png)
+![FLEENTSTONES?!](https://hollowknight.wiki/w/images/B_Flintflame_Flyer.png)
     - Hornet's notes: Brave worker carrying unstable flintflame and wearing a heavy bell to protect against potential ignition. Theirs would be a high risk life, followed by a short, searing end.
   - Smokerock Sifter:
-![egg](https://cdn.wikimg.net/en/hkwiki/images/1/1d/B_Smokerock_Sifter.png)
+![egg](https://hollowknight.wiki/w/images/B_Smokerock_Sifter.png)
     - Hornet's notes: Cymbal bearing worker of the Deep Docks. Pans the hauls of smokerock to find traces of more precious minerals. The Haunting has stolen some important part of these bugs, yet still they attempt their former task. Until, that is, they sense my presence...
   - Deep Diver:
-![deev](https://cdn.wikimg.net/en/hkwiki/images/e/ef/B_Deep_Diver.png)
+![deev](https://hollowknight.wiki/w/images/B_Deep_Diver.png)
     - Hornet's notes: Bell-clad bug responsible for mining the deeper, treacherous depths below their docks. Their heavier bells armour them well against my strikes, but against that oppressive heat... can they help at all?
 - Art:
 None yet :/
@@ -103,22 +103,22 @@ None yet :/
 - Leader: Last Claw
 - Bestiary & Locals:
   - Skarrlid:
-![https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png)
+![https://hollowknight.wiki/w/images/B_Skarrlid.png](https://hollowknight.wiki/w/images/B_Skarrlid.png)
     - Hornet's notes: Small burrowing ant, servant to the larger Skarr. These bugs work mainly as finders and foragers for the warriors of their tribe. Combat has not long been their nature.
   - Skarrwing:
-![feeff](https://cdn.wikimg.net/en/hkwiki/images/2/20/B_Skarrwing.png)
+![feeff](https://hollowknight.wiki/w/images/B_Skarrwing.png)
     - Hornet's notes: Darting predator that clings fast to roofs and outcrops, often summoned to aid its larger companions. They would make effective hunting companions, though even without the Haunting I suspect their loyalty would always remain to their clan.
   - Skarr Scout:
-![ruhyeifbovuegt](https://cdn.wikimg.net/en/hkwiki/images/2/2b/B_Skarr_Scout.png)
+![ruhyeifbovuegt](https://hollowknight.wiki/w/images/B_Skarr_Scout.png)
     - Hornet's notes: Young ant hunter wielding sickles carved from teeth. Will often call for aid if danger comes close. Despite their youth, they are impressive opponents. It seems likely their tribe were trained for combat from birth.
   - Skarr Stalker:
-![ecefvrfv](https://cdn.wikimg.net/en/hkwiki/images/1/13/B_Skarr_Stalker.png)
+![ecefvrfv](https://hollowknight.wiki/w/images/B_Skarr_Stalker.png)
     - Hornet's notes: Skilled ant hunter bearing blade and armour fashioned from bone. Fierce, strong and disciplined... yet these qualities do not protect them from the Haunting. Is such a fate inevitable in these lands?
   - Spear Skarr:
-![  dedededed](https://cdn.wikimg.net/en/hkwiki/images/6/6e/Spear_Skarr.png)
+![  dedededed](https://hollowknight.wiki/w/images/Spear_Skarr.png)
     - Hornet's notes: Winged ant hunter that strikes from the air with its bone lance. In my youth, I envied all bugs with wings. I even fancied I might grow a pair... I have since learned better. Accept the limitations of one's body... and augment with tools as needed.
   - Skarrgard:
-![eicfefvirvri](https://cdn.wikimg.net/en/hkwiki/images/4/44/B_Skarrgard.png)
+![eicfefvirvri](https://hollowknight.wiki/w/images/B_Skarrgard.png)
     - Hornet's notes: Huge ant hunter tasked to protect the stores and passages of its tribe. Theirs is the perfect shell for their duty, a wall of a warrior and an adept fighter. If I hope to claim their treasures, I must bring my best.
 - Art:
 None yet :/
@@ -129,49 +129,49 @@ None yet :/
 - Leader: Last Claw
 - Bestiary & Locals:
   - Savage Beastfly:
-![theworstboss /j](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Savage_Beastfly.png)
+![theworstboss /j](https://hollowknight.wiki/w/images/B_Savage_Beastfly.png)
     - Hornet's notes: Angered, adult Beastfly with a weighty body and a thickened hardshell mask. Civilisation encroaches from this kingdom's crown, but the lowlands are still ruled by great beasts. Its roar stirs something deep within me, some primal instinct.
   - Caranid:
-![thisthingy](https://cdn.wikimg.net/en/hkwiki/images/8/82/B_Caranid.png)
+![thisthingy](https://hollowknight.wiki/w/images/B_Caranid.png)
     - Hornet's notes: Common winged bug of the lowlands. Generally docile, but will attack if threats come close. Their plump, round shape makes them well-suited for target practice. Difficult to resist testing my aim on them...
   - Vile Caranid:
-![thisalttextwontbeusedright?](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Vicious_Caranid.png)
+![thisalttextwontbeusedright?](https://hollowknight.wiki/w/images/B_Vicious_Caranid.png)
     - Hornet's notes: Aggressively winged bug of the lowlands. When angered, it rapidly whips its bladed tail as a weapon. Its wings are quite small compared to its bulk. Perhaps it uses the warm air of these fiery lands to help stay airborne. Clever, if so.
   - Hardbone Hopper:
-![technically its deepdocks but it also fits here better soooooo](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Hardbone_Hopper.png)
+![technically its deepdocks but it also fits here better soooooo](https://hollowknight.wiki/w/images/B_Hardbone_Hopper.png)
     - Hornet's notes: Grazing creature with sharp senses that nimbly retreats from danger. Despite the Haunting of its shell, it has not been overcome with aggression. Its desire to flee remains too strong.
   - Hardbone Elder:
-![here ig](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Hardbone_Elder.png)
+![here ig](https://hollowknight.wiki/w/images/B_Hardbone_Elder.png)
     - Hornet's notes: Tall creature with sharp senses. Defends its herd with powerful legs and a sharp tipped mask. There is surprising strength hidden in their thin, elegant limbs. It would be a pleasure to ride upon it...
   - Tarmite:
-![Termate](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Tarmite.png)
+![Termate](https://hollowknight.wiki/w/images/B_Tarmite.png)
     - Hornet's notes: Flying bone mite that lives near magma. Roasts its prey by spitting scorching tar. Its sticky spit would no doubt make a useful crafting material if moulded fresh. Unfortunately, I cannot stop to experiment.
   - Mawling:
-![shush i know](https://cdn.wikimg.net/en/hkwiki/images/7/70/B_Mawling.png)
+![shush i know](https://hollowknight.wiki/w/images/B_Mawling.png)
     - Hornet's notes: Young, bony bug that can curl its body to form a ball. Their rough, ridged shell grips tight to any surface. Even walls and roofs become pathways for these nimble bugs.
   - Marrowmaw:
-![so these are actually found inthe moss , nmed after the marrow, and i put it in far fielsd](https://cdn.wikimg.net/en/hkwiki/images/4/4a/B_Marrowmaw.png)
+![so these are actually found inthe moss , nmed after the marrow, and i put it in far fielsd](https://hollowknight.wiki/w/images/B_Marrowmaw.png)
     - Hornet's notes: Giant roller of the lowlands. Its ridged hide will crush smaller creatures beneath it. Sheer bulk makes for an effective weapon, but requires much sustenance. This creature would have spent most of its time eating. An acceptable life for some.
   - Hoker:
-![hoker](https://cdn.wikimg.net/en/hkwiki/images/0/0d/B_Hoker.png)
+![hoker](https://hollowknight.wiki/w/images/B_Hoker.png)
     - Hornet's notes: Spine-shooting drifter of the lowlands. Whatever admiration I had for its fleecy down is spoilt by its disturbing mask... and its steely spines.
   - Flintbeetle:
-![fleetle](https://cdn.wikimg.net/en/hkwiki/images/1/1a/B_Flintbeetle.png)
+![fleetle](https://hollowknight.wiki/w/images/B_Flintbeetle.png)
     - Hornet's notes: Rarely seen beetle that spends most of its life nestled deep in bone and rock. The flintgems on its shell excrete an explosive powder. Its bright gems could be used to make beautiful, but short-lived jewellery. An amusing idea for a gift... or a trap.
   - Rhinogrund:
-![did you meet this?](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Rhinogrund.png)
+![did you meet this?](https://hollowknight.wiki/w/images/B_Rhinogrund.png)
     - Hornet's notes: Long-Horned beast of Pharloom's lowlands. Relies on its horn to both impale and to wrench the ground beneath it, flinging dangerous debris. Certain tools and skills can pierce its defences. I should adjust my strategy as needed.
   - Brushflit:
-![dowpeoeodkiedjcfiruhnviru](https://cdn.wikimg.net/en/hkwiki/images/5/51/B_Brushflit.png)
+![dowpeoeodkiedjcfiruhnviru](https://hollowknight.wiki/w/images/B_Brushflit.png)
     - Hornet's notes: Tiny, timid creatures that huddle in flocks and flee at the first hint of danger. They call out to their fellows at the smallest sense of threat. A successful hunt here means staying silent and hidden right up until the decisive strike.
   - Fertid:
-![eodierjfvoruit](https://cdn.wikimg.net/en/hkwiki/images/7/74/B_Fertid.png)
+![eodierjfvoruit](https://hollowknight.wiki/w/images/B_Fertid.png)
     - Hornet's notes: Skittish scrambler of the Far Fields. Its antennae resemble stalks of grass to aid in camouflage. It has no means to defend itself. Its only hope for survival is to be mistaken for a plant.
   - Flapping Fertid:
-![keerceceecfcf](https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_Flapping_Fertid.png)
+![keerceceecfcf](https://hollowknight.wiki/w/images/B_Flapping_Fertid.png)
     - Hornet's notes: Docile bugs whose wings mimic the grasses of the Far Fields. A common snack for larger predators. When roosting, it would look convincingly plant-like. In flight, its bulbous body quickly ruins the ruse.
   - Fourth Chorus:
-![ecowdeweccwe](https://cdn.wikimg.net/en/hkwiki/images/thumb/d/db/B_Fourth_Chorus.png/600px-B_Fourth_Chorus.png)
+![ecowdeweccwe](https://hollowknight.wiki/w/images/db/B_Fourth_Chorus.png/600px-B_Fourth_Chorus.png)
     - Hornet's notes: Towering iron automaton, driven by rotor and cog. A terrifying achievement of Pharloom, to build a construct so large and yet so nimble.
 - Art:
 None yet :/
@@ -182,25 +182,25 @@ None yet :/
 - Leader: Crawfather
 - Bestiary & Locals:
   - Craw:
-![Craw](https://cdn.wikimg.net/en/hkwiki/images/d/d6/B_Craw.png)
+![Craw](https://hollowknight.wiki/w/images/B_Craw.png)
     - Hornet's notes: Citizen of Greymoor, member of the Court of the Craws. Demands payment from all who pass through their territory. Their demands may seem severe, but fair leadership requires a full treasury.
   - Tallcraw:
-![Tallcraw](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Tallcraw.png)
+![Tallcraw](https://hollowknight.wiki/w/images/B_Tallcraw.png)
     - Hornet's notes: Tall member of the Court of the Craws. Its stature grants advantage in reach. Height provides certain advantages in combat, though a skilled fighter knows how to exploit an opponent's stance.
   - Squatcraw:
-![Squatcraw](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Squatcraw.png)
+![Squatcraw](https://hollowknight.wiki/w/images/B_Squatcraw.png)
     - Hornet's notes: Squat member of the Court of the Craws. Its low profile makes it difficult to strike. Those who fight from below can be the hardest to predict and counter.
   - Craw Juror:
-![Craw Juror](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Craw_Juror.png)
+![Craw Juror](https://hollowknight.wiki/w/images/B_Craw_Juror.png)
     - Hornet's notes: Judicial member of the Court of the Craws. Passes judgement on those who violate their laws. All civilised societies require law and order, though the methods of enforcement vary greatly.
   - Tallcraw Juror:
-![Tallcraw Juror](https://cdn.wikimg.net/en/hkwiki/images/e/ef/B_Tallcraw_Juror.png)
+![Tallcraw Juror](https://hollowknight.wiki/w/images/B_Tallcraw_Juror.png)
     - Hornet's notes: Tall judicial member of the Court of the Craws. Its verdicts are delivered from on high. The combination of height and authority can be intimidating, though justice should not rely on intimidation alone.
   - Squatcraw Juror:
-![Squatcraw Juror](https://cdn.wikimg.net/en/hkwiki/images/1/14/B_Squatcraw_Juror.png)
+![Squatcraw Juror](https://hollowknight.wiki/w/images/B_Squatcraw_Juror.png)
     - Hornet's notes: Squat judicial member of the Court of the Craws. Delivers low judgements. Even the smallest can hold great authority.
   - Crawfather:
-![Crawfather](https://cdn.wikimg.net/en/hkwiki/images/8/87/B_Crawfather.png)
+![Crawfather](https://hollowknight.wiki/w/images/B_Crawfather.png)
     - Hornet's notes: Ancient leader of the Court of the Craws. Protects his subjects and their traditions fiercely. A ruler who will fight for their people commands respect, even from those who oppose them.
 - Art:
 None yet :/
@@ -211,25 +211,25 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Mite:
-![erf](https://cdn.wikimg.net/en/hkwiki/images/0/09/B_Mite.png)
+![erf](https://hollowknight.wiki/w/images/B_Mite.png)
     - Hornet's notes: Verminous pest, common throughout the dark corners of Greymoor. Individually they offer little challenge, but their numbers are surely vast, and most remain hidden.
   - Fluttermite:
-![ergry](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Fluttermite.png)
+![ergry](https://hollowknight.wiki/w/images/B_Fluttermite.png)
     - Hornet's notes: Airborne pest, less common than its grounded siblings. Attacks with sharp fangs if agitated. Similar bugs would gnaw away at unguarded food supplies in my homeland. As a child, I would hunt them, eager to make use of myself and test my skills.
   - Mitemother:
-![erfurutviruv](https://cdn.wikimg.net/en/hkwiki/images/a/ae/B_Mitemother.png)
+![erfurutviruv](https://hollowknight.wiki/w/images/B_Mitemother.png)
     - Hornet's notes: Aged female mite, grown larger and stronger than most of its kin. Poor of sight but possessing a keen sense of smell, it uses its bulk to charge at foreign scents. Remaining fierce so far into old age is an admirable trait.
   - Dreg Catcher:
-![edfrtrttrrt](https://cdn.wikimg.net/en/hkwiki/images/b/bb/B_Dreg_Catcher.png)
+![edfrtrttrrt](https://hollowknight.wiki/w/images/B_Dreg_Catcher.png)
     - Hornet's notes: Bug charged to catch dregs of Silk that fall from the Citadel. Will attack with its staff if provoked. These bugs look to have spent every waking moment at their work. Grim, endless labour in service of the unseen Citadel above.
   - Silk Snipper:
-![Silk Snipper](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
+![Silk Snipper](https://hollowknight.wiki/w/images/B_Silk_Snipper.png)
     - Hornet's notes: Bug tasked with cutting and gathering silk that falls from the Citadel. Wields large scissors to perform their work. The silk of the Citadel falls constantly. An entire economy built around catching scraps from above.
   - Thread Raker:
-![Thread Raker](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Thread_Raker.png)
+![Thread Raker](https://hollowknight.wiki/w/images/B_Thread_Raker.png)
     - Hornet's notes: Worker bug responsible for raking and organizing gathered silk threads. Lost to the Haunting, they still perform their tasks mindlessly. Their dedication persists even as their minds have failed them.
   - Moorwing:
-![Moorwing](https://cdn.wikimg.net/en/hkwiki/images/6/6e/B_Moorwing.png)
+![Moorwing](https://hollowknight.wiki/w/images/B_Moorwing.png)
     - Hornet's notes: Guardian boss of Western Greymoor. Massive winged beast that patrols the misty moors. Some guardians are skippable, but worthy opponents nonetheless.
 - Art:
 None yet :/
@@ -240,22 +240,22 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Pilgrim Groveller:
-![Pilgrim Groveller](https://cdn.wikimg.net/en/hkwiki/images/e/e1/B_Pilgrim_Groveller.png)
+![Pilgrim Groveller](https://hollowknight.wiki/w/images/B_Pilgrim_Groveller.png)
     - Hornet's notes: Basic bug of Pharloom, laid low upon the ground. Taken by Pharloom's Haunting, the bug is now capable of little more than prayer and aggression. So many of this kingdom's citizens have been reduced to this pitiful state.
   - Pilgrim Pouncer:
-![Pilgrim Pouncer](https://cdn.wikimg.net/en/hkwiki/images/8/88/B_Pilgrim_Pouncer.png)
+![Pilgrim Pouncer](https://hollowknight.wiki/w/images/B_Pilgrim_Pouncer.png)
     - Hornet's notes: Agile bug of Pharloom, whose higher functions have been lost to the Haunting. They rely on athleticism for survival. Even those blessed with grace and agility are not immune to this curse.
   - Pilgrim Hornfly:
-![Pilgrim Hornfly](https://cdn.wikimg.net/en/hkwiki/images/e/ec/B_Pilgrim_Hornfly.png)
+![Pilgrim Hornfly](https://hollowknight.wiki/w/images/B_Pilgrim_Hornfly.png)
     - Hornet's notes: Winged pilgrim bug that dive-bombs intruders. Flight should grant freedom, yet these bugs remain trapped by the Haunting.
   - Winged Pilgrim:
-![Winged Pilgrim](https://cdn.wikimg.net/en/hkwiki/images/2/2e/B_Winged_Pilgrim.png)
+![Winged Pilgrim](https://hollowknight.wiki/w/images/B_Winged_Pilgrim.png)
     - Hornet's notes: Flying pilgrim capable of swift aerial maneuvers. Their wings carry them through the air with practiced ease. I wonder if they remember learning to fly.
   - Furm:
-![Furm](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
+![Furm](https://hollowknight.wiki/w/images/B_Furm.png)
     - Hornet's notes: Common insect of Bellhart. Feeds on grain and grass. Every land has its humble inhabitants.
   - Winged Furm:
-![Winged Furm](https://cdn.wikimg.net/en/hkwiki/images/c/c1/B_Winged_Furm.png)
+![Winged Furm](https://hollowknight.wiki/w/images/B_Winged_Furm.png)
     - Hornet's notes: Airborne variant of the Furm. Takes to the skies during mating season. Flight opens new possibilities.
 - Art:
 None yet :/
@@ -266,28 +266,28 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Pond Skipper:
-![Pond Skipper](https://cdn.wikimg.net/en/hkwiki/images/5/5e/B_Pond_Skipper.png)
+![Pond Skipper](https://hollowknight.wiki/w/images/B_Pond_Skipper.png)
     - Hornet's notes: Water-walking bug that skitters across the ponds of Shellwood. Moves with remarkable speed across the water's surface. I've tried to mimic such movement myself, but lack the proper build.
   - Pondcatcher:
-![Pondcatcher](https://cdn.wikimg.net/en/hkwiki/images/5/58/B_Pondcatcher.png)
+![Pondcatcher](https://hollowknight.wiki/w/images/B_Pondcatcher.png)
     - Hornet's notes: Predatory bug that lurks near water, waiting to snatch prey. Patient and deadly in equal measure. The stillness before the strike is when they are most dangerous.
   - Shellwood Gnat:
-![Shellwood Gnat](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Shellwood_Gnat.png)
+![Shellwood Gnat](https://hollowknight.wiki/w/images/B_Shellwood_Gnat.png)
     - Hornet's notes: Tiny flying insect common throughout Shellwood. Individually harmless, but their swarms can overwhelm. Even the smallest creatures can pose a threat in numbers.
   - Wood Wasp:
-![Wood Wasp](https://cdn.wikimg.net/en/hkwiki/images/e/ed/B_Wood_Wasp.png)
+![Wood Wasp](https://hollowknight.wiki/w/images/B_Wood_Wasp.png)
     - Hornet's notes: Shellwood wasp that feeds on tree sap and defends its territory. Their stingers are sharp and their aim true. Natural guardians of their forest home.
   - Splinter:
-![Splinter](https://cdn.wikimg.net/en/hkwiki/images/5/5f/B_Splinter.png)
+![Splinter](https://hollowknight.wiki/w/images/B_Splinter.png)
     - Hornet's notes: Wooden construct animated by unknown means. Moves with surprising agility through the branches. Are they alive, or merely animated? The distinction matters less when they attack.
   - Splinterhorn:
-![Splinterhorn](https://cdn.wikimg.net/en/hkwiki/images/9/91/B_Splinterhorn.png)
+![Splinterhorn](https://hollowknight.wiki/w/images/B_Splinterhorn.png)
     - Hornet's notes: Horned variant of the Splinter with enhanced offensive capabilities. The horn is both weapon and weak point. A skilled strike can shatter it entirely.
   - Splinterbark:
-![Splinterbark](https://cdn.wikimg.net/en/hkwiki/images/d/dc/B_Splinterbark.png)
+![Splinterbark](https://hollowknight.wiki/w/images/B_Splinterbark.png)
     - Hornet's notes: Heavily armored Splinter covered in thick bark plating. Their defense is formidable. Sometimes the best offense is finding a way around the defense.
   - Sister Splinter:
-![Sister Splinter](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Sister_Splinter.png)
+![Sister Splinter](https://hollowknight.wiki/w/images/B_Sister_Splinter.png)
     - Hornet's notes: Elite Splinter guardian, faster and more aggressive than its kin. Commands other Splinters in battle. Every army needs its leaders. This one leads with violence.
 - Art:
 None yet :/
@@ -298,25 +298,25 @@ None yet :/
 - Leader: Lifeblood (it consumes all)
 - Bestiary & Locals:
   - Gromling:
-![the adhd bee made this site](https://cdn.wikimg.net/en/hkwiki/images/e/e8/B_Gromling.png)
+![the adhd bee made this site](https://hollowknight.wiki/w/images/B_Gromling.png)
     - Hornet's notes: Young masked worm that delights in ambushing intruders within its tunnels. A frustrating fiend. They flee beneath the bone whenever I try to strike them down.
   - Grom:
-![qwef](https://cdn.wikimg.net/en/hkwiki/images/8/8e/B_Grom.png)
+![qwef](https://hollowknight.wiki/w/images/B_Grom.png)
     - Hornet's notes: Burrowing worm that uses its many blunted teeth to dig through even the hardest bone. They ceaselessly churn through rock and bone without ever seeming to rest. Do they have a destination? Or are they compelled to dig forever deeper?
   - Cragglite:
-![this](https://cdn.wikimg.net/en/hkwiki/images/f/fc/B_Cragglite.png)
+![this](https://hollowknight.wiki/w/images/B_Cragglite.png)
     - Hornet's notes: Infant form of the more formidable Craggler. If left to grow, these young bugs will fight for dominance until only one remains.
   - Craggler:
-![this is a boss?](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Craggler.png)
+![this is a boss?](https://hollowknight.wiki/w/images/B_Craggler.png)
     - Hornet's notes: Thick-plated scuttler that prefers high places. Holds an extensive supply of searing acid in a layered sack within its shell. The acid rains from its mouth upon any creature it sees as food.
   - Shardillard:
-![Shardillard](https://cdn.wikimg.net/en/hkwiki/images/8/8d/B_Shardillard.png)
+![Shardillard](https://hollowknight.wiki/w/images/B_Shardillard.png)
     - Hornet's notes: Crystal-backed bug of the Wormways. Its shards reflect light beautifully. Beauty often conceals danger.
   - Sandcarver:
-![Sandcarver](https://cdn.wikimg.net/en/hkwiki/images/3/3f/B_Sandcarver.png)
+![Sandcarver](https://hollowknight.wiki/w/images/B_Sandcarver.png)
     - Hornet's notes: Artisan bug that carves intricate patterns in sandstone. Even in ruin, art persists. Creation is an unstoppable urge.
   - Squirrm:
-![Squirrm](https://cdn.wikimg.net/en/hkwiki/images/1/19/B_Squirrm.png)
+![Squirrm](https://hollowknight.wiki/w/images/B_Squirrm.png)
     - Hornet's notes: Wriggling creature of the sandy tunnels. Moves with unpredictable motion. Chaos has its own form of grace.
 - Art:
 None yet :/
@@ -468,22 +468,22 @@ None yet :/
 - Leader: Hornet
 - Bestiary & Locals:
   - Underworker:
-![Underworker](https://cdn.wikimg.net/en/hkwiki/images/9/93/B_Underworker.png)
+![Underworker](https://hollowknight.wiki/w/images/B_Underworker.png)
     - Hornet's notes: Frail worker of the Underworks. Uses twistpins for their labor. These bugs built the Citadel's foundation. Now they defend it mindlessly.
   - Underscrub:
-![Underscrub](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Underscrub.png)
+![Underscrub](https://hollowknight.wiki/w/images/B_Underscrub.png)
     - Hornet's notes: Maintenance worker responsible for cleaning the Underworks. Still scrubs floors despite the Haunting. Purpose persists beyond reason.
   - Undersweep:
-![Undersweep](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Undersweep.png)
+![Undersweep](https://hollowknight.wiki/w/images/B_Undersweep.png)
     - Hornet's notes: Sweeper bug with large broom-like appendages. Keeps the Underworks clear of debris. Even in chaos, some try to maintain order.
   - Underpoke:
-![Underpoke](https://cdn.wikimg.net/en/hkwiki/images/c/c3/B_Underpoke.png)
+![Underpoke](https://hollowknight.wiki/w/images/B_Underpoke.png)
     - Hornet's notes: Inspector bug that prods and tests machinery. Quality control lost to the Haunting but behavior remains.
   - Underloft:
-![Underloft](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Underloft.png)
+![Underloft](https://hollowknight.wiki/w/images/B_Underloft.png)
     - Hornet's notes: Worker responsible for moving materials to higher levels. Strength dedicated to construction, now to destruction.
   - Undercrank:
-![Undercrank](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Undercrank.png)
+![Undercrank](https://hollowknight.wiki/w/images/B_Undercrank.png)
     - Hornet's notes: Operates the great cranks and gears of the Underworks. The machines still turn, though purpose is lost.
 - Art:
 None yet :/
@@ -541,13 +541,13 @@ None yet :/
 - Leader: Hornet
 - Bestiary & Locals:
   - Memoria Minister:
-![Memoria Minister](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Memoria_Minister.png)
+![Memoria Minister](https://hollowknight.wiki/w/images/B_Memoria_Minister.png)
     - Hornet's notes: High-ranking official of the Memorium. Keeper of memories and records. Knowledge preserved becomes knowledge weaponized.
   - Maestro:
-![Maestro](https://cdn.wikimg.net/en/hkwiki/images/d/d0/B_Maestro.png)
+![Maestro](https://hollowknight.wiki/w/images/B_Maestro.png)
     - Hornet's notes: Master conductor of the Citadel's grand performances. Led symphonies that moved hearts. Now conducts only violence.
   - Second Sentinel:
-![Second Sentinel](https://cdn.wikimg.net/en/hkwiki/images/a/aa/B_Second_Sentinel.png)
+![Second Sentinel](https://hollowknight.wiki/w/images/B_Second_Sentinel.png)
     - Hornet's notes: Elite guardian of the High Halls. Second only to the First in skill and power. Rank earned through dedication and strength.
 - Art:
 None yet :/
@@ -645,34 +645,34 @@ None yet :/
 - Leader: Groal
 - Bestiary & Locals:
   - Muckmaggot:
-![Muckmaggot](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Muckmaggot.png)
+![Muckmaggot](https://hollowknight.wiki/w/images/B_Muckmaggot.png)
     - Hornet's notes: Writhing larvae that thrives in Bilewater's toxic pools. Feeding on decay and filth. Even in the vilest places, life finds a way.
   - Slugberlug:
-![Slugberlug](https://cdn.wikimg.net/en/hkwiki/images/a/a4/B_Slugberlug.png)
+![Slugberlug](https://hollowknight.wiki/w/images/B_Slugberlug.png)
     - Hornet's notes: Corpulent slug adapted to life in bile. Leaves a corrosive trail wherever it moves. The poison that would kill others is home to these creatures.
   - Muckroach:
-![Muckroach](https://cdn.wikimg.net/en/hkwiki/images/e/eb/B_Muckroach.png)
+![Muckroach](https://hollowknight.wiki/w/images/B_Muckroach.png)
     - Hornet's notes: Scuttling roach of the bile bogs. Feeds on organic waste. Nature's cleaners, no matter how unpleasant.
   - Bloatroach:
-![Bloatroach](https://cdn.wikimg.net/en/hkwiki/images/e/eb/B_Bloatroach.png)
+![Bloatroach](https://hollowknight.wiki/w/images/B_Bloatroach.png)
     - Hornet's notes: Swollen Muckroach filled with toxic gases. Explodes violently when threatened. A defense mechanism that ensures mutual destruction.
   - Roachcatcher:
-![Roachcatcher](https://cdn.wikimg.net/en/hkwiki/images/a/a9/B_Roachcatcher.png)
+![Roachcatcher](https://hollowknight.wiki/w/images/B_Roachcatcher.png)
     - Hornet's notes: Bug that hunts roaches through the bile. Even predators have learned to thrive here. Every ecosystem has its hunters.
   - Roachfeeder:
-![Roachfeeder](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Roachfeeder.png)
+![Roachfeeder](https://hollowknight.wiki/w/images/B_Roachfeeder.png)
     - Hornet's notes: Domesticated bug that tends to roach colonies. Lost to the Haunting but still performs its duties. The habits of work persist even when purpose is lost.
   - Roachkeeper:
-![Roachkeeper](https://cdn.wikimg.net/en/hkwiki/images/1/1c/B_Roachkeeper.png)
+![Roachkeeper](https://hollowknight.wiki/w/images/B_Roachkeeper.png)
     - Hornet's notes: Guardian of roach breeding grounds. Protects the roaches with fierce determination. Even the lowliest creatures deserve protection.
   - Roachserver:
-![Roachserver](https://cdn.wikimg.net/en/hkwiki/images/8/8b/B_Roachserver.png)
+![Roachserver](https://hollowknight.wiki/w/images/B_Roachserver.png)
     - Hornet's notes: Server bug that once brought roach-based dishes to diners. Now serves only the Haunting. Hospitality turned to hostility.
   - Disgraced Chef Lugoli:
-![Disgraced Chef Lugoli](https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Disgraced_Chef_Lugoli.png)
+![Disgraced Chef Lugoli](https://hollowknight.wiki/w/images/B_Disgraced_Chef_Lugoli.png)
     - Hornet's notes: Once-renowned chef, now disgraced and lost to the Haunting. His culinary passion twisted into violent obsession. Genius corrupted is a terrible thing.
   - Groal the Great:
-![Groal the Great](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Groal_the_Great.png)
+![Groal the Great](https://hollowknight.wiki/w/images/B_Groal_the_Great.png)
     - Hornet's notes: Massive toad-like beast ruling over Bilewater. Commands the toxic swamp with brutal authority. Power comes in many forms. This one is ancient and unyielding.
 - Art:
 None yet :/
@@ -690,19 +690,19 @@ None yet :/
 - Leader: Groal
 - Bestiary & Locals:
   - Barnak:
-![Barnak](https://cdn.wikimg.net/en/hkwiki/images/2/2a/B_Barnak.png)
+![Barnak](https://hollowknight.wiki/w/images/B_Barnak.png)
     - Hornet's notes: Crustacean adapted to the polluted ducts. Filters toxins through specialized gills. Life adapts even to poison.
   - Ductsucker:
-![Ductsucker](https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Ductsucker.png)
+![Ductsucker](https://hollowknight.wiki/w/images/B_Ductsucker.png)
     - Hornet's notes: Clings to duct walls and feeds on residue. Cleans pollution while creating more. The cycle continues.
   - Miremite:
-![Miremite](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Miremite.png)
+![Miremite](https://hollowknight.wiki/w/images/B_Miremite.png)
     - Hornet's notes: Tiny pest that thrives in mire and sludge. Multiplies rapidly in polluted areas. Contamination breeds contamination.
   - Swamp Squit:
-![Swamp Squit](https://cdn.wikimg.net/en/hkwiki/images/1/10/B_Swamp_Squit.png)
+![Swamp Squit](https://hollowknight.wiki/w/images/B_Swamp_Squit.png)
     - Hornet's notes: Flying insect of the swampy ducts. Carries disease on its wings. Avoid contact when possible.
   - Spit Squit:
-![Spit Squit](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Spit_Squit.png)
+![Spit Squit](https://hollowknight.wiki/w/images/B_Spit_Squit.png)
     - Hornet's notes: Aggressive variant that spits corrosive fluid. Defense through offense. Effective, if crude.
 - Art:
 None yet :/
@@ -814,13 +814,13 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Wisp:
-![Wisp](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Wisp.png)
+![Wisp](https://hollowknight.wiki/w/images/B_Wisp.png)
     - Hornet's notes: Flickering flame spirit of the Thicket. Burns with an otherworldly light. Are they alive? Or merely energy given form?
   - Burning Bug:
-![Burning Bug](https://cdn.wikimg.net/en/hkwiki/images/4/4e/B_Burning_Bug.png)
+![Burning Bug](https://hollowknight.wiki/w/images/B_Burning_Bug.png)
     - Hornet's notes: Insect wreathed in living flame. Immune to fire, vulnerable to everything else. A beautiful, deadly paradox.
   - Father of the Flame:
-![Father of the Flame](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Father_of_the_Flame.png)
+![Father of the Flame](https://hollowknight.wiki/w/images/B_Father_of_the_Flame.png)
     - Hornet's notes: Ancient burning entity worshipped by the flame cult. Commands fire with divine authority. Gods come in many forms. This one burns.
 - Art:
 None yet :/
