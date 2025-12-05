@@ -204,6 +204,13 @@ None yet :/
     - Hornet's notes: Bug charged to catch dregs of Silk that fall from the Citadel. Will attack with its staff if provoked. These bugs look to have spent every waking moment at their work. Grim, endless labour in service of the unseen Citadel above.
   - Silk Snipper:
 ![wedewdfer](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Silk_Snipper.png)
+    - Hornet's notes: Scissor-wielding bug charged to cut and spool fallen dregs of Silk for return to the Citadel above. Is it the Haunting that drove them to cackling madness, or was their unending toil the cause even before that?
+  - Thread Raker:
+![ewfjvhigbueirg](https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e4/B_Thread_Raker.png/300px-B_Thread_Raker.png)
+    - Hornet's notes: Tall bug charged to pile Silk dregs in preparation for respooling. Their sharp rake now doubles equally well as a stabbing weapon. Theirs seems a sad, grueling task, serving their lifetime for a Citadel unseen.
+  - Moorwing:
+![dfdeve](https://cdn.wikimg.net/en/hkwiki/images/thumb/6/6e/B_Moorwing.png/300px-B_Moorwing.png)
+    - Hornet's notes: Winged mite-beast, bred large to catch workers who once tried to flee their tasks. With its wranglers long dead, the Moorwing stalked the towers of Greymoor, feasting on passing pilgrims and tenders alike.
 - Art:
 None yet :/
 - Subreddit: [r/GreymoorSilksong](https://www.reddit.com/r/GreymoorSilksong)
