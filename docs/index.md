@@ -327,8 +327,14 @@ None yet :/
 - Leader: Grindle
 - Bestiary & Locals:
   - Snitchfly:
-![Snitchfly](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png)
+![Snitchfly](https://hollowknight.wiki/w/images/B_Snitchfly.png)
     - Hornet's notes: Buzzing pest of Pharloom's sandy reaches. Calls out to alert other creatures when it spots intruders. These creatures serve as the kingdom's unwilling sentries. Their cries bring more danger than their stings.
+  - Judge:
+![Judge](https://hollowknight.wiki/w/images/B_Judge.png)
+    - Hornet's notes: Stern arbiter of justice in Sinners Road. Passes sentence on all who enter. Justice without mercy becomes cruelty.
+  - Last Judge:
+![Last Judge](https://hollowknight.wiki/w/images/B_Last_Judge.png)
+    - Hornet's notes: Final judge of Sinners Road, ancient and unyielding. Has seen countless souls pass through. What makes one qualified to judge others?
 - Art:
 None yet :/
 - Subreddit: [r/Blasted_Steps](https://www.reddit.com/r/Blasted_Steps)
@@ -338,67 +344,67 @@ None yet :/
 - Leader: Crust King Khan
 - Bestiary & Locals:
   - Coral Furm:
-![Coral Furm](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Coral_Furm.png)
+![Coral Furm](https://hollowknight.wiki/w/images/B_Coral_Furm.png)
     - Hornet's notes: Aquatic bug dwelling among the corals. Adapted to underwater life with specialized gills. The water here teems with life, both beautiful and deadly.
   - Conchfly:
-![Conchfly](https://cdn.wikimg.net/en/hkwiki/images/f/f2/B_Conchfly.png)
+![Conchfly](https://hollowknight.wiki/w/images/B_Conchfly.png)
     - Hornet's notes: Shell-bearing flyer of Karak's waters. Uses its conch to amplify sound attacks. Nature provides many weapons for those who know how to use them.
   - Great Conchfly:
-![Great Conchfly](https://cdn.wikimg.net/en/hkwiki/images/2/28/B_Great_Conchfly.png)
+![Great Conchfly](https://hollowknight.wiki/w/images/B_Great_Conchfly.png)
     - Hornet's notes: Enormous Conchfly with a massive shell. Its sonic attacks can stun even the hardiest warriors. Size does not always mean slow.
   - Crustcrawler:
-![Crustcrawler](https://cdn.wikimg.net/en/hkwiki/images/4/4c/B_Crustcrawler.png)
+![Crustcrawler](https://hollowknight.wiki/w/images/B_Crustcrawler.png)
     - Hornet's notes: Armored crustacean that scuttles along the riverbed. Its pincers are surprisingly strong. Water dwelling has given these bugs new forms of protection.
   - Crustcrag:
-![Crustcrag](https://cdn.wikimg.net/en/hkwiki/images/b/b2/B_Crustcrag.png)
+![Crustcrag](https://hollowknight.wiki/w/images/B_Crustcrag.png)
     - Hornet's notes: Heavily armored elder Crustcrawler. Its shell has grown thick with age and accumulated minerals. Time hardens all things, even shells.
   - Driznit:
-![Driznit](https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Driznit.png)
+![Driznit](https://hollowknight.wiki/w/images/B_Driznit.png)
     - Hornet's notes: Small darting fish of Karak's waters. Travels in schools for safety. Even small things can overwhelm in numbers.
   - Driznarga:
-![Driznarga](https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Driznarga.png)
+![Driznarga](https://hollowknight.wiki/w/images/B_Driznarga.png)
     - Hornet's notes: Massive Driznit grown to frightening size. Its bulk makes it slow but devastating when it strikes. What feeds in these waters to grow so large?
   - Pokenabbin:
-![Pokenabbin](https://cdn.wikimg.net/en/hkwiki/images/f/fe/B_Pokenabbin.png)
+![Pokenabbin](https://hollowknight.wiki/w/images/B_Pokenabbin.png)
     - Hornet's notes: Curious bug that pokes and prods at anything it encounters. Its behavior seems more playful than aggressive. Not all creatures here seek combat.
   - Kai Spinebeak:
-![Kai Spinebeak](https://cdn.wikimg.net/en/hkwiki/images/7/7c/B_Kai_Spinebeak.png)
+![Kai Spinebeak](https://hollowknight.wiki/w/images/B_Kai_Spinebeak.png)
     - Hornet's notes: Warrior of the Kai tribe. Wields a spined beak as both weapon and tool. These warriors are well adapted to their aquatic environment.
   - Kai Steelspine:
-![Kai Steelspine](https://cdn.wikimg.net/en/hkwiki/images/7/7c/B_Kai_Steelspine.png)
+![Kai Steelspine](https://hollowknight.wiki/w/images/B_Kai_Steelspine.png)
     - Hornet's notes: Elite Kai warrior with reinforced spine armor. Commands respect from lesser Kai. Strength and skill combined create formidable fighters.
   - Kai Yuma:
-![Kai Yuma](https://cdn.wikimg.net/en/hkwiki/images/6/6c/B_Kai_Yuma.png)
+![Kai Yuma](https://hollowknight.wiki/w/images/B_Kai_Yuma.png)
     - Hornet's notes: Yuma of the Kai, a specialized role within their ranks. Each culture develops its own forms of combat and hierarchy.
   - Yumama:
-![Yumama](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Yumama.png)
+![Yumama](https://hollowknight.wiki/w/images/B_Yumama.png)
     - Hornet's notes: Mother of the Yuma, protector of her young. Maternal instinct makes even peaceful creatures dangerous. Never underestimate a mother defending her brood.
   - Karaka:
-![Karaka](https://cdn.wikimg.net/en/hkwiki/images/8/85/B_Karaka.png)
+![Karaka](https://hollowknight.wiki/w/images/B_Karaka.png)
     - Hornet's notes: Citizen of Karak's order. Maintains the coral structures that house their society. Even in collapse, some try to maintain order.
   - Kakri:
-![Kakri](https://cdn.wikimg.net/en/hkwiki/images/f/ff/B_Kakri.png)
+![Kakri](https://hollowknight.wiki/w/images/B_Kakri.png)
     - Hornet's notes: Nimble member of Karak society. Moves with grace through the water. Adaptation to environment creates unique movement styles.
   - Yago:
-![Yago](https://cdn.wikimg.net/en/hkwiki/images/7/7d/B_Yago.png)
+![Yago](https://hollowknight.wiki/w/images/B_Yago.png)
     - Hornet's notes: Guardian of Karak's deeper waters. Protects the sacred coral groves. All societies have their protectors.
   - Karak Gor:
-![Karak Gor](https://cdn.wikimg.net/en/hkwiki/images/c/ca/B_Karak_Gor.png)
+![Karak Gor](https://hollowknight.wiki/w/images/B_Karak_Gor.png)
     - Hornet's notes: Elite guardian of the Order of Karak. Wields ancient coral weapons passed down through generations. Tradition and strength combined.
   - Alita:
-![Alita](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Alita.png)
+![Alita](https://hollowknight.wiki/w/images/B_Alita.png)
     - Hornet's notes: Swift hunter of Karak's shallows. Strikes with precision before retreating. Speed can be as deadly as strength.
   - Corrcrust:
-![Corrcrust](https://cdn.wikimg.net/en/hkwiki/images/e/e1/B_Corrcrust.png)
+![Corrcrust](https://hollowknight.wiki/w/images/B_Corrcrust.png)
     - Hornet's notes: Corrupted Karak citizen, shell warped by unknown forces. Even in this flourishing place, corruption finds a way.
   - Karaka Crust King:
-![Karaka Crust King](https://cdn.wikimg.net/en/hkwiki/images/2/2b/B_Karaka_Crust_King.png)
+![Karaka Crust King](https://hollowknight.wiki/w/images/B_Karaka_Crust_King.png)
     - Hornet's notes: Ancient ruler of the Karaka. Its massive shell is adorned with coral and minerals. Leadership takes many forms. This one has endured for ages.
   - Khann:
-![Khann](https://cdn.wikimg.net/en/hkwiki/images/f/f8/B_Khann.png)
+![Khann](https://hollowknight.wiki/w/images/B_Khann.png)
     - Hornet's notes: Crust King Khann, current leader of the Order of Karak. Commands with wisdom earned through long years. A true king serves their people.
   - Watcher at the Edge:
-![Watcher at the Edge](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Watcher_at_the_Edge.png)
+![Watcher at the Edge](https://hollowknight.wiki/w/images/B_Watcher_at_the_Edge.png)
     - Hornet's notes: Mysterious sentinel standing at the boundary of Karak's territory. What does it watch for? What threat does it guard against?
 - Art:
 None yet :/
@@ -408,38 +414,50 @@ None yet :/
 - The entrance to the citadel, now open to all!
 - Leader: Hornet
 - Bestiary & Locals:
-  - Envoy Choir:
-![Envoy Choir](https://cdn.wikimg.net/en/hkwiki/images/9/9a/B_Envoy_Choir.png)
+  - Envoy:
+![Envoy](https://hollowknight.wiki/w/images/B_Envoy.png)
     - Hornet's notes: Diplomatic member of the Citadel's choir. Once carried messages through song. Music used for communication - a beautiful idea, now corrupted.
-  - Pouncer Choir:
-![Pouncer Choir](https://cdn.wikimg.net/en/hkwiki/images/c/c2/B_Pouncer_Choir.png)
+  - Choir Pouncer:
+![Choir Pouncer](https://hollowknight.wiki/w/images/B_Choir_Pouncer.png)
     - Hornet's notes: Agile choir member that leaps between platforms. Their movements were once dance, now they're attacks. Art weaponized.
-  - Hornhead Choir:
-![Hornhead Choir](https://cdn.wikimg.net/en/hkwiki/images/5/56/B_Hornhead_Choir.png)
+  - Choir Hornhead:
+![Choir Hornhead](https://hollowknight.wiki/w/images/B_Choir_Hornhead.png)
     - Hornet's notes: Choir bug with prominent horns used to amplify their voice. Sound can be a powerful tool, or a weapon.
-  - Bellbearer Choir:
-![Bellbearer Choir](https://cdn.wikimg.net/en/hkwiki/images/8/83/B_Bellbearer_Choir.png)
+  - Choir Bellbearer:
+![Choir Bellbearer](https://hollowknight.wiki/w/images/B_Choir_Bellbearer.png)
     - Hornet's notes: Carries ceremonial bells that ring with each movement. The bells warned of danger. Now they herald it.
-  - Flyer Choir:
-![Flyer Choir](https://cdn.wikimg.net/en/hkwiki/images/a/a1/B_Flyer_Choir.png)
+  - Choir Flyer:
+![Choir Flyer](https://hollowknight.wiki/w/images/B_Choir_Flyer.png)
     - Hornet's notes: Winged choir member that swoops from above. Their aerial harmonies once filled these halls with beauty.
-  - Elder Choir:
-![Elder Choir](https://cdn.wikimg.net/en/hkwiki/images/7/7b/B_Elder_Choir.png)
+  - Choir Elder:
+![Choir Elder](https://hollowknight.wiki/w/images/B_Choir_Elder.png)
     - Hornet's notes: Ancient member of the choir, voice deepened with age. The eldest voices carried the most weight. Age brings wisdom, or so it should.
   - Choristor:
-![Choristor](https://cdn.wikimg.net/en/hkwiki/images/4/42/B_Choristor.png)
+![Choristor](https://hollowknight.wiki/w/images/B_Choristor.png)
     - Hornet's notes: Elite choir conductor animated by silk and song. Commands other choir members in deadly harmony. Leadership in art, twisted to violence.
-  - Reed Grand:
-![Reed Grand](https://cdn.wikimg.net/en/hkwiki/images/c/c6/B_Reed_Grand.png)
+  - Grand Reed:
+![Grand Reed](https://hollowknight.wiki/w/images/B_Grand_Reed.png)
     - Hornet's notes: Grand master of the reed instruments. Their music once brought joy to the Citadel. Now it brings only sorrow.
-  - Reed Choir:
-![Reed Choir](https://cdn.wikimg.net/en/hkwiki/images/3/30/B_Reed_Choir.png)
+  - Reed:
+![Reed](https://hollowknight.wiki/w/images/B_Reed.png)
     - Hornet's notes: Choir member specializing in reed instruments. Woodwind melodies turned to war cries.
-  - Clapper Choir:
-![Clapper Choir](https://cdn.wikimg.net/en/hkwiki/images/8/8a/B_Clapper_Choir.png)
+  - Choir Clapper:
+![Choir Clapper](https://hollowknight.wiki/w/images/B_Choir_Clapper.png)
     - Hornet's notes: Uses clapping shells to create rhythm. Percussion for the choir's violent performances.
+  - Drapefly:
+![Drapefly](https://hollowknight.wiki/w/images/B_Drapefly.png)
+    - Hornet's notes: Flying bug with electrical membrane wings. Static builds with each wing beat. Flight and lightning combined.
+  - Drapelord:
+![Drapelord](https://hollowknight.wiki/w/images/B_Drapelord.png)
+    - Hornet's notes: Massive Drapefly crackling with accumulated charge. Commands lesser drapeflies with electromagnetic pulses. Power attracts power.
+  - Drapemite:
+![Drapemite](https://hollowknight.wiki/w/images/B_Drapemite.png)
+    - Hornet's notes: Tiny electric parasite. Feeds on electrical energy. Even electricity has its predators.
+  - Giant Drapemite:
+![Giant Drapemite](https://hollowknight.wiki/w/images/B_Giant_Drapemite.png)
+    - Hornet's notes: Enormous Drapemite swollen with stolen energy. Dangerously overcharged. Greed leads to dangerous accumulation.
   - Clawmaiden:
-![Clawmaiden](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
+![Clawmaiden](https://hollowknight.wiki/w/images/B_Clawmaiden.png)
     - Hornet's notes: Silk-animated servant of the Citadel. Claws meant for delicate work now slash at intruders. Service corrupted into servitude.
 - Art:
 None yet :/
@@ -485,34 +503,34 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Cogwork Underfly:
-![Cogwork Underfly](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Cogwork_Underfly.png)
+![Cogwork Underfly](https://hollowknight.wiki/w/images/B_Cogwork_Underfly.png)
     - Hornet's notes: Mechanical flying construct of the Cogwork Core. Gears and springs give it life. The line between life and machine blurs here.
   - Cogwork Hauler:
-![Cogwork Hauler](https://cdn.wikimg.net/en/hkwiki/images/5/5f/B_Cogwork_Hauler.png)
+![Cogwork Hauler](https://hollowknight.wiki/w/images/B_Cogwork_Hauler.png)
     - Hornet's notes: Heavy mechanical construct designed for transport. Pulls great weights with tireless efficiency. Machines never tire, never question.
   - Cogwork Crawler:
-![Cogwork Crawler](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Cogwork_Crawler.png)
+![Cogwork Crawler](https://hollowknight.wiki/w/images/B_Cogwork_Crawler.png)
     - Hornet's notes: Insectoid machine that scuttles through the Core. Mimics life but lacks its spark. Or does it?
   - Cogworker:
-![Cogworker](https://cdn.wikimg.net/en/hkwiki/images/0/06/B_Cogworker.png)
+![Cogworker](https://hollowknight.wiki/w/images/B_Cogworker.png)
     - Hornet's notes: Mechanical worker performing endless tasks. Built to serve, now serves only chaos. Purpose without understanding.
   - Cogwork Spine:
-![Cogwork Spine](https://cdn.wikimg.net/en/hkwiki/images/8/83/B_Cogwork_Spine.png)
+![Cogwork Spine](https://hollowknight.wiki/w/images/B_Cogwork_Spine.png)
     - Hornet's notes: Segmented mechanical construct with articulated spine. Flexibility in machine form - impressive engineering.
   - Cogwork Choirbug:
-![Cogwork Choirbug](https://cdn.wikimg.net/en/hkwiki/images/7/7f/B_Cogwork_Choirbug.png)
+![Cogwork Choirbug](https://hollowknight.wiki/w/images/B_Cogwork_Choirbug.png)
     - Hornet's notes: Mechanical recreation of a choir member. Even music is mechanized here. Can machines understand beauty?
   - Cogwork Cleanser:
-![Cogwork Cleanser](https://cdn.wikimg.net/en/hkwiki/images/9/96/B_Cogwork_Cleanser.png)
+![Cogwork Cleanser](https://hollowknight.wiki/w/images/B_Cogwork_Cleanser.png)
     - Hornet's notes: Maintenance machine that purges contaminants. Cleansing with mechanical precision. No mercy in its programming.
   - Cogwork Defender:
-![Cogwork Defender](https://cdn.wikimg.net/en/hkwiki/images/f/fe/B_Cogwork_Defender.png)
+![Cogwork Defender](https://hollowknight.wiki/w/images/B_Cogwork_Defender.png)
     - Hornet's notes: Combat-ready mechanical guardian. Defends the Core from all intruders. A machine built for war knows nothing but war.
   - Cogwork Clapper:
-![Cogwork Clapper](https://cdn.wikimg.net/en/hkwiki/images/1/11/B_Cogwork_Clapper.png)
+![Cogwork Clapper](https://hollowknight.wiki/w/images/B_Cogwork_Clapper.png)
     - Hornet's notes: Mechanical construct that creates rhythmic sounds. Timing is everything, in music and combat.
   - Cogwork Dancers:
-![Cogwork Dancers](https://cdn.wikimg.net/en/hkwiki/images/8/88/B_Cogwork_Dancers.png)
+![Cogwork Dancers](https://hollowknight.wiki/w/images/B_Cogwork_Dancers.png)
     - Hornet's notes: Twin mechanical constructs that move in perfect synchronization. A dance of gears and springs. Beauty in precision, death in harmony.
 - Art:
 None yet :/
@@ -540,19 +558,19 @@ None yet :/
 - Leader: Conductor Mizello
 - Bestiary & Locals:
   - Dreg Husk:
-![Dreg Husk](https://cdn.wikimg.net/en/hkwiki/images/8/8c/B_Dreg_Husk.png)
+![Dreg Husk](https://hollowknight.wiki/w/images/B_Dreg_Husk.png)
     - Hornet's notes: Empty shell of a bug, animated by silk residue. Not truly alive, but moving nonetheless. The boundary between life and death is unclear here.
   - Dregwheel:
-![Dregwheel](https://cdn.wikimg.net/en/hkwiki/images/f/f3/B_Dregwheel.png)
+![Dregwheel](https://hollowknight.wiki/w/images/B_Dregwheel.png)
     - Hornet's notes: Wheeled construct made from dreg remains. Rolls through corridors endlessly. Even death doesn't stop the work.
   - Surgeon:
-![Surgeon](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Surgeon.png)
+![Surgeon](https://hollowknight.wiki/w/images/B_Surgeon.png)
     - Hornet's notes: Medical practitioner lost to the Haunting. Precise cuts meant for healing now cause harm. The healer's hand turned to violence.
   - Mortician:
-![Mortician](https://cdn.wikimg.net/en/hkwiki/images/2/29/B_Mortician.png)
+![Mortician](https://hollowknight.wiki/w/images/B_Mortician.png)
     - Hornet's notes: Caretaker of the dead. Prepares bodies for final rest. Still tends to the deceased, though now creates more work for itself.
   - The Unravelled:
-![The Unravelled](https://cdn.wikimg.net/en/hkwiki/images/6/69/B_The_Unravelled.png)
+![The Unravelled](https://hollowknight.wiki/w/images/B_The_Unravelled.png)
     - Hornet's notes: Silk-being that has lost all cohesion. Fragments held together by will alone. Coming undone yet still fighting. Determination in the face of dissolution.
 - Art:
 None yet :/
@@ -572,16 +590,16 @@ None yet :/
 - Leader: Hornet
 - Bestiary & Locals:
   - Vaultborn:
-![Vaultborn](https://cdn.wikimg.net/en/hkwiki/images/5/50/B_Vaultborn.png)
+![Vaultborn](https://hollowknight.wiki/w/images/B_Vaultborn.png)
     - Hornet's notes: Bug born and raised within the Vaults. Never knew the world outside these walls. Knowledge without experience creates a narrow perspective.
   - Lampbearer:
-![Lampbearer](https://cdn.wikimg.net/en/hkwiki/images/b/b6/B_Lampbearer.png)
+![Lampbearer](https://hollowknight.wiki/w/images/B_Lampbearer.png)
     - Hornet's notes: Carries light through the dark Vaults. Illuminates knowledge for scholars. Now the light reveals only danger.
   - Scrollreader:
-![Scrollreader](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Scrollreader.png)
+![Scrollreader](https://hollowknight.wiki/w/images/B_Scrollreader.png)
     - Hornet's notes: Scholar dedicated to reading and preserving ancient texts. Eyes strained from years of study. Knowledge is power, but what power remains when the mind is lost?
   - Vaultkeeper:
-![Vaultkeeper](https://cdn.wikimg.net/en/hkwiki/images/b/b9/B_Vaultkeeper.png)
+![Vaultkeeper](https://hollowknight.wiki/w/images/B_Vaultkeeper.png)
     - Hornet's notes: Guardian of the Vault's most precious knowledge. Protects secrets with fierce dedication. Some knowledge should remain hidden.
 - Art:
 None yet :/
@@ -610,23 +628,14 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Stilkin:
-![Stilkin](https://cdn.wikimg.net/en/hkwiki/images/b/b0/B_Stilkin.png)
+![Stilkin](https://hollowknight.wiki/w/images/B_Stilkin.png)
     - Hornet's notes: Lanky bug that stalks the prison corridors. Moves on long, thin legs. Height and reach create advantage in narrow spaces.
   - Stilkin Trapper:
-![Stilkin Trapper](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Stilkin_Trapper.png)
+![Stilkin Trapper](https://hollowknight.wiki/w/images/B_Stilkin_Trapper.png)
     - Hornet's notes: Stilkin that sets traps for escapees. Guards the prison with cunning rather than strength. Intelligence can be more dangerous than power.
-  - Judge:
-![Judge](https://cdn.wikimg.net/en/hkwiki/images/6/6c/B_Judge.png)
-    - Hornet's notes: Stern arbiter of justice in Sinners Road. Passes sentence on all who enter. Justice without mercy becomes cruelty.
-  - Last Judge:
-![Last Judge](https://cdn.wikimg.net/en/hkwiki/images/4/45/B_Last_Judge.png)
-    - Hornet's notes: Final judge of Sinners Road, ancient and unyielding. Has seen countless souls pass through. What makes one qualified to judge others?
   - Wraith:
-![Wraith](https://cdn.wikimg.net/en/hkwiki/images/d/d7/B_Wraith.png)
+![Wraith](https://hollowknight.wiki/w/images/B_Wraith.png)
     - Hornet's notes: Spectral entity that haunts the prison. Perhaps a former inmate, now eternally imprisoned. Some sentences extend beyond death.
-  - Mothleaf Lagnia:
-![Mothleaf Lagnia](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Mothleaf_Lagnia.png)
-    - Hornet's notes: Mysterious moth creature found in the prison depths. Its presence suggests this place holds more than common criminals.
 - Art:
 None yet :/
 - Subreddit: [r/Sinnnersroad](https://www.reddit.com/r/Sinnersroad)
@@ -722,32 +731,35 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Pharlid:
-![Pharlid](https://cdn.wikimg.net/en/hkwiki/images/0/0a/B_Pharlid.png)
+![Pharlid](https://hollowknight.wiki/w/images/B_Pharlid.png)
     - Hornet's notes: Native insect of Verdania's lush groves. Gentle creatures that feed on pollen. Not all bugs seek conflict.
   - Pharlid Diver:
-![Pharlid Diver](https://cdn.wikimg.net/en/hkwiki/images/b/b7/B_Pharlid_Diver.png)
+![Pharlid Diver](https://hollowknight.wiki/w/images/B_Pharlid_Diver.png)
     - Hornet's notes: Aquatic Pharlid that plunges through Verdania's waters. Adapted to both land and sea. Versatility is a valuable trait.
   - Cloverstag:
-![Cloverstag](https://cdn.wikimg.net/en/hkwiki/images/5/5c/B_Cloverstag.png)
+![Cloverstag](https://hollowknight.wiki/w/images/B_Cloverstag.png)
     - Hornet's notes: Majestic stag-beetle of Verdania. Antlers adorned with clover. Beauty and strength combined. The natural royalty of this lost kingdom.
   - Clover Dancers:
-![Clover Dancers](https://cdn.wikimg.net/en/hkwiki/images/c/c4/B_Clover_Dancers.png)
+![Clover Dancers](https://hollowknight.wiki/w/images/B_Clover_Dancers.png)
     - Hornet's notes: Graceful performers of Verdania's court. Their dances celebrated nature and growth. Art that honored life itself.
   - Gahlia:
-![Gahlia](https://cdn.wikimg.net/en/hkwiki/images/c/cf/B_Gahlia.png)
+![Gahlia](https://hollowknight.wiki/w/images/B_Gahlia.png)
     - Hornet's notes: Flower guardian of Verdania. Protects the sacred blooms. Even plants have their protectors.
   - Pollenica:
-![Pollenica](https://cdn.wikimg.net/en/hkwiki/images/4/41/B_Pollenica.png)
+![Pollenica](https://hollowknight.wiki/w/images/B_Pollenica.png)
     - Hornet's notes: Pollen carrier essential to Verdania's ecosystem. Spreads life wherever it goes. Small actions can have great consequences.
   - Phacia:
-![Phacia](https://cdn.wikimg.net/en/hkwiki/images/c/c0/B_Phacia.png)
+![Phacia](https://hollowknight.wiki/w/images/B_Phacia.png)
     - Hornet's notes: Rare butterfly of Verdania. Its wings shimmer with iridescent beauty. Some things exist purely to be beautiful.
   - Shrine Guardian Seth:
-![Shrine Guardian Seth](https://cdn.wikimg.net/en/hkwiki/images/2/28/B_Shrine_Guardian_Seth.png)
+![Shrine Guardian Seth](https://hollowknight.wiki/w/images/B_Shrine_Guardian_Seth.png)
     - Hornet's notes: Sacred protector of Verdania's shrines. Sworn to defend the Green Prince's legacy. Duty beyond death.
   - Nyleth:
-![Nyleth](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Nyleth.png)
+![Nyleth](https://hollowknight.wiki/w/images/B_Nyleth.png)
     - Hornet's notes: Ancient guardian spirit of Verdania. Watches over the lost kingdom with eternal vigilance. Some places are never truly abandoned.
+  - Mothleaf Lagnia:
+![Mothleaf Lagnia](https://hollowknight.wiki/w/images/B_Mothleaf_Lagnia.png)
+    - Hornet's notes: Mysterious moth creature found in the prison depths. Its presence suggests this place holds more than common criminals.
 - Art:
 None yet :/
 - Subreddit: [r/NewVerdania](https://www.reddit.com/r/NewVerdania)
@@ -846,20 +858,8 @@ None yet :/
 - Leader: TBD
 - Bestiary & Locals:
   - Voltvyrm:
-![Voltvyrm](https://cdn.wikimg.net/en/hkwiki/images/c/c2/B_Voltvyrm.png)
+![Voltvyrm](https://hollowknight.wiki/w/images/B_Voltvyrm.png)
     - Hornet's notes: Electric serpent that crackles with energy. Generates powerful shocks to stun prey. Lightning given form and purpose.
-  - Drapefly:
-![Drapefly](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Drapefly.png)
-    - Hornet's notes: Flying bug with electrical membrane wings. Static builds with each wing beat. Flight and lightning combined.
-  - Drapelord:
-![Drapelord](https://cdn.wikimg.net/en/hkwiki/images/9/9e/B_Drapelord.png)
-    - Hornet's notes: Massive Drapefly crackling with accumulated charge. Commands lesser drapeflies with electromagnetic pulses. Power attracts power.
-  - Drapemite:
-![Drapemite](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Drapemite.png)
-    - Hornet's notes: Tiny electric parasite. Feeds on electrical energy. Even electricity has its predators.
-  - Giant Drapemite:
-![Giant Drapemite](https://cdn.wikimg.net/en/hkwiki/images/d/da/B_Giant_Drapemite.png)
-    - Hornet's notes: Enormous Drapemite swollen with stolen energy. Dangerously overcharged. Greed leads to dangerous accumulation.
 - Art:
 None yet :/
 - Subreddit: N/A
