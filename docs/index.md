@@ -306,7 +306,7 @@ None yet :/
 :::
 ::: details Whiteward
 - The citadel's hospital.
-- Leader: Hornet through Malafar
+- Leader: Conductor Mizello
 - Bestiary & Locals:
   - Soon
 - Art:
@@ -315,7 +315,7 @@ None yet :/
 :::
 ::: details Memorium
 - A conservatory for all beasts of any kind!
-- Leader: TBD
+- Leader: ObjectiveRecent4984
 - Bestiary & Locals:
   - No unique creatures.
 - Art:
