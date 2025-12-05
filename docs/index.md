@@ -95,7 +95,7 @@ None yet :/
 :::
 ::: details Hunters March
 - The lands of the Skarr Tribe, home to many traps.
-- Leader: Last Claw
+- Leader: Last Claw, Gurr the Outcast
 - Bestiary & Locals:
   - Skarrlid:
 ![https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png)
