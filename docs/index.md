@@ -188,6 +188,15 @@ None yet :/
   - Craw Juror:
 ![wr](https://cdn.wikimg.net/en/hkwiki/images/7/79/B_Craw_Juror.png)
     - Hornet's notes: Screeching scavenger dyed black in mourning at their land's collapse. Weak, afraid, and aware of the imminent end. I understand their desperation, but my death will not prevent the coming fall.
+  - Tallcraw Juror:
+![https://cdn.wikimg.net/en/hkwiki/images/thumb/e/ef/B_Tallcraw_Juror.png/300px-B_Tallcraw_Juror.png](https://cdn.wikimg.net/en/hkwiki/images/thumb/e/ef/B_Tallcraw_Juror.png/300px-B_Tallcraw_Juror.png)
+    - Hornet's notes: Elder crawbug serving in a sacred ceremony. Curiosity saw me answer their summons, but I shall not allow them to stall me long. I must work fast to fix my grand mistake.
+  - Squatcraw Juror:
+![e](https://cdn.wikimg.net/en/hkwiki/images/1/14/B_Squatcraw_Juror.png)
+    - Short elder crawbug eagerly serving in their court. They seek to slay their only chance at survival. Alas, any words would fall useless. I have only my blade to offer response.
+  - Crawfather:
+![eeeeeeeeeeeee](https://cdn.wikimg.net/en/hkwiki/images/thumb/8/87/B_Crawfather.png/299px-B_Crawfather.png)
+    - Hornet's notes: Lord and justice of Pharloom's craws. Delivers death to condemned bugs with his steel-plated beak. Did he recognise my part played in this land's void-strung state? If so, perhaps his judgement was not unfair. To these bugs I have brought much destruction.
 - Art:
 None yet :/
 - Subreddit: [r/EasternGreymoor](https://www.reddit.com/r/EasternGreymoor)
