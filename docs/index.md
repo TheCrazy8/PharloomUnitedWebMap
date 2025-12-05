@@ -382,7 +382,24 @@ None yet :/
 - A prison.
 - Leader: TBD
 - Bestiary & Locals:
-  - Soon
+  - Muckroach:
+![dcw](https://cdn.wikimg.net/en/hkwiki/images/thumb/e/eb/B_Muckroach.png/300px-B_Muckroach.png)
+    - Hornet's notes: Starved pack bug with an insatiable appetite. Despite their tough hide and pungent meat, roaches breed rapidly so are sometimes farmed for food. A revolting creature. My shell itches at their presence. In the pens where their numbers grow vast, I am forever on edge.
+  - Roachcatcher:
+![dec](https://cdn.wikimg.net/en/hkwiki/images/a/a9/B_Roachcatcher.png)
+    - Hornet's notes: Short, nimble bug who uses bolas to keep beasts corralled and caged. Their throwing weapon is well-suited to the wide caverns they inhabit. These sly little bugs have a keen claw for crafting.
+  - Roachfeeder:
+![wdwe3](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Roachfeeder.png)
+    - Hornet's notes: Tall roach tender charged to feed Muckroaches on a lean diet of maggot gruel. The feeder's curled pin looks designed to keep ravenous roaches at bay, and the tender from turning into the meal.
+  - Roachkeeper:
+![edf](https://cdn.wikimg.net/en/hkwiki/images/thumb/1/1c/B_Roachkeeper.png/300px-B_Roachkeeper.png)
+    - Hornet's notes: Grizzled older roach tender weighted with a lasso of heavy chain. Though their mind is largely lost their skill with a chain has not been forgotten. Does the Haunting eternally bind a bug to the task it had in life?
+  - Roachserver:
+![decedfc](https://cdn.wikimg.net/en/hkwiki/images/8/8b/B_Roachserver.png)
+    - Hornet's notes: Brutish cook responsible for dicing Muckroach meat into edible portions. Could their actions be called skill? I see only a crude mangling of meat. Yet I wonder, before the Haunting snared their minds was it any different?
+  - Disgraced Chef Lugoli:
+![luigi](https://cdn.wikimg.net/en/hkwiki/images/thumb/1/12/B_Disgraced_Chef_Lugoli.png/300px-B_Disgraced_Chef_Lugoli.png)
+    - Hornet's notes: Once exulted chef, exiled from the Citadel for repeated culinary crimes. Returned to their home caves, this chef continued to devise delicacies too repulsive for any bug still sane.
 - Art:
 None yet :/
 - Subreddit: [r/Sinnnersroad](https://www.reddit.com/r/Sinnersroad)
@@ -391,13 +408,46 @@ None yet :/
 - A bog of bile, but the locals are quite nice.
 - Leader: Groal
 - Bestiary & Locals:
-  - Soon
+  - Muckmaggot:
+![dce](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Muckmaggot.png)
+    - Hornet's notes: Mindless infant larva, coated in a thick slime. They cling fast to the shells of other bugs, destroying any hope for concentration or comfort.
+  - Slubberlug:
+![ed](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Slubberlug.png)
+    - Hornet's notes: Younger form of a Muckroach. Attacks prey by leaping from the water and snapping with its flexible jaws. These creatures look to have been bred deliberately in watery pens. If they are food to be, their scent suggests they must taste vile.
+  - Bloatroach:
+![dhe](https://cdn.wikimg.net/en/hkwiki/images/thumb/e/eb/B_Bloatroach.png/300px-B_Bloatroach.png)
+    - Hornet's notes: Obese offshoot of the Muckroaches, born of the Citadel's exhaust smog. The winged roach's sagging stomach is filled with sizzling bile. Its form is absurd... Surely it would not be able to hold itself in the air? The noxious gasses in its stomach must provide its levity.
+  - Mothleaf Lagnia:
+![https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Mothleaf_Lagnia.png](https://cdn.wikimg.net/en/hkwiki/images/2/23/B_Mothleaf_Lagnia.png)
+    - Hornet's notes: A rare, calmer bug of Bilewater, survives its hazardous surroundings by hiding as a plant. This one is pretty, but not as soft as it first seems. The plant it mimics is flaked and coarse, and the bug's coat shares similar texture.
+  - Miremite:
+![e](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Miremite.png)
+    - Hornet's notes: Crawling insect with a sizzling bile sack in its abdomen. The threat of its exploding rear is an effective deterrent to predators, but the slightest jolt or fall can cause its premature end.
+  - Swamp Squit:
+![de](https://cdn.wikimg.net/en/hkwiki/images/1/10/B_Swamp_Squit.png)
+    - Hornet's notes: Plentiful pest with a sharp proboscis and a belly full of bile. More dangerous in the moment of its explosive and corrosive death than it ever was in life.
+  - Spit Squit:
+![eec](https://cdn.wikimg.net/en/hkwiki/images/2/24/B_Spit_Squit.png)
+    - Hornet's notes: Hovering pest with a hollowed proboscis able to spit gobs of sizzling bile. To subsist on the sickly water in this fetid environment it spits out the most toxic elements. Over generations, this former survival technique has turned into an effective hunting tool.
+  - Stilkin:
+![edf](https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b0/B_Stilkin.png/300px-B_Stilkin.png)
+    - Hornet's notes: Cunning bug that hunts with darts fashioned from stake and bile. They know well their domain, lurking in wait in its byways and bogs, always ready to pounce.
+  - Stilkin Trapper:
+![ef](https://cdn.wikimg.net/en/hkwiki/images/6/6a/B_Stilkin_Trapper.png)
+    - Hornet's notes: Trap setting bug carrying a pouch of sharpened long-stakes. More bother than the bug themself are the countless traps they have already laid throughout their caves.
+  - Groal the Great:
+![efve](https://cdn.wikimg.net/en/hkwiki/images/thumb/0/07/B_Groal_the_Great.png/300px-B_Groal_the_Great.png)
+    - Hornet's notes: Chief and chaplain of the Stilkin, forever raging against the Citadel that chokes their caves and sees them suffer. This one's strength was much enhanced by stolen soul. They are not the first who tried to hoard it, or to mould it towards such violent ends.
 - Art:
 None yet :/
 - Subreddit: [r/Bilewater](https://www.reddit.com/r/Bilewater)
 :::
 ::: details Exhaust Organ
 - An area ruled by Phantom, independant of everyone else.
+- Bestiary & Locals:
+  - Wraith:
+![c](https://cdn.wikimg.net/en/hkwiki/images/d/d7/B_Wraith.png)
+    - Hornet's notes: Anguished spectre of lingering thread. Despite its ephemeral nature, strong strikes can dispel the Wraith for a time. Not a bug but a projection of another's will in smog and Silk.
 :::
 ::: details Pharloom Labs
 - A laboratory for testing tech, and studying stuff.
@@ -407,7 +457,12 @@ None yet :/
 - The result of old citadel pollution.
 - Leader: Groal
 - Bestiary & Locals:
-  - Soon
+  - Barnak:
+![re](https://cdn.wikimg.net/en/hkwiki/images/2/2a/B_Barnak.png)
+    - Hornet's notes: Toothy growth that lives on cave roofs. Wraps wayward bugs with its long tongue and drags them up to be consumed. Hiding its tongue amongst fronds so similar... There is impressive style to this one's trickery.
+  - Ductsucker:
+![wdedf](https://cdn.wikimg.net/en/hkwiki/images/thumb/6/63/B_Ductsucker.png/300px-B_Ductsucker.png)
+    - Hornet's notes: Suction creature surviving on the thick slime that coats its caves. This mindless bug seems to sense only through its tendrils, yet despite that simplicity it still poses a serious threat.
 - Art:
 None yet :/
 - Subreddit: [r/putrifiedducts](https://www.reddit.com/r/putrifiedducts)
