@@ -14,7 +14,7 @@ title: Pharloom Web Map
 ::: details Mosslands
 - A mossy place, good for starting grand adventures.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Mossgrub:
 ![Mossgrub](./public/B_Mossgrub.png)
     - Hornet's notes: Fur covered crawler with a series of sharp spikes along its back. If not for the spikes, I would think it an appealing bug.
@@ -41,7 +41,7 @@ None yet :/
 ::: details The Marrow
 - A bony place, with fire and such.
 - Leader: BigShip6556
-- Bestiary & Locals:
+- Inhabitants:
   - Skull Scuttler:
 ![Skull Scuttler](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Skull_Scuttler.png)
     - Hornet's notes: Small, soft bug that uses the hard skulls of the Marrow for protection and disguise. In every land, creatures find new and surprising ways to disguise themselves. One must be wary always.
@@ -67,7 +67,7 @@ None yet :/
 ::: details Deep Docks
 - A firey industrial district with forges and the likes.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Lavalug:
 ![slug](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Lavalug.png)
     - Hornet's notes: Sticky mollusc that defends itself by spraying burning fluid from growths on its back. What seems at first a purely defensive mechanism may also be necessary to rid this creature of excess heat.
@@ -96,7 +96,7 @@ None yet :/
 ::: details Hunters March
 - The lands of the Skarr Tribe, home to many traps.
 - Leader: Last Claw, Gurr the Outcast
-- Bestiary & Locals:
+- Inhabitants:
   - Skarrlid:
 ![https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Skarrlid.png)
     - Hornet's notes: Small burrowing ant, servant to the larger Skarr. These bugs work mainly as finders and foragers for the warriors of their tribe. Combat has not long been their nature.
@@ -122,7 +122,7 @@ None yet :/
 ::: details Far Fields
 - The outer reaches of the Skarr Tribe, unintentionally heated by Deep Docks.
 - Leader: Last Claw
-- Bestiary & Locals:
+- Inhabitants:
   - Savage Beastfly:
 ![theworstboss /j](https://cdn.wikimg.net/en/hkwiki/images/6/68/B_Savage_Beastfly.png)
     - Hornet's notes: Angered, adult Beastfly with a weighty body and a thickened hardshell mask. Civilisation encroaches from this kingdom's crown, but the lowlands are still ruled by great beasts. Its roar stirs something deep within me, some primal instinct.
@@ -175,7 +175,7 @@ None yet :/
 ::: details Eastern Greymoor
 - The eastern side of Greymoor, ruled by the Court of the Craws.
 - Leader: Crawfather
-- Bestiary & Locals:
+- Inhabitants:
   - Craw:
 ![deded](https://cdn.wikimg.net/en/hkwiki/images/d/d6/B_Craw.png)
     - Hornet's notes: Screeching scavenger that roosts high in caverns and preys on passing pilgrims. By this swooping menace, a simple bug could be easily overcome. More dangerous still, they rarely attack alone.
@@ -204,7 +204,7 @@ None yet :/
 ::: details Western Greymoor
 - The west side of Greymoor, from the entrance to Far Fields home to Bellhart.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Mite:
 ![erf](https://cdn.wikimg.net/en/hkwiki/images/0/09/B_Mite.png)
     - Hornet's notes: Verminous pest, common throughout the dark corners of Greymoor. Individually they offer little challenge, but their numbers are surely vast, and most remain hidden.
@@ -233,7 +233,7 @@ None yet :/
 ::: details Bellhart
 - A quaint town between Greymoor and Shellwood, home to many friendly faces.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Furm:
 ![defrg](https://cdn.wikimg.net/en/hkwiki/images/a/a5/B_Furm.png)
     - Hornet's notes: Burrower that nests in the Bellvein and seeks out hard bells to protect its soft body. I would very much like to feel their soft fur, if only they weren't so hostile.
@@ -247,7 +247,7 @@ None yet :/
 ::: details Shellwood
 - A wet, forestlike, and wild woodland with pretty white flowers.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Pond Skipper:
 ![dd](https://cdn.wikimg.net/en/hkwiki/images/5/5e/B_Pond_Skipper.png)
     - Hornet's notes: Hard-shelled insect common upon the surface of Shellwood Pond. Once a staple food for passing pilgrims.The way they skate along the water's surface is so elegant. Surely it is a skill that can be learned? When time permits, I should attempt the task.
@@ -291,7 +291,7 @@ None yet :/
 ::: details Wormways
 - A formerly sandy area, now infected with lifeblood.
 - Leader: Lifeblood (it consumes all)
-- Bestiary & Locals:
+- Inhabitants:
   - Gromling:
 ![the adhd bee made this site](https://cdn.wikimg.net/en/hkwiki/images/e/e8/B_Gromling.png)
     - Hornet's notes: Young masked worm that delights in ambushing intruders within its tunnels. A frustrating fiend. They flee beneath the bone whenever I try to strike them down.
@@ -311,7 +311,7 @@ None yet :/
 ::: details Snitch Steps
 - A sandy land full of Snitchflies.
 - Leader: Grindle
-- Bestiary & Locals:
+- Inhabitants:
   - Snitchfly:
 ![https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png](https://cdn.wikimg.net/en/hkwiki/images/c/c7/B_Snitchfly.png)
     - Hornet's notes: Pernicious looter found all over Pharloom. While these bothersome bugs are left free to forage, no loose rosary or trinket is safe.
@@ -322,7 +322,7 @@ None yet :/
 ::: details Order of Karak
 - A river with corals, now flourishing.
 - Leader: Crust King Khan
-- Bestiary & Locals:
+- Inhabitants:
   - Coral Furm:
 ![dcef](https://cdn.wikimg.net/en/hkwiki/images/a/ac/B_Coral_Furm.png)
     - Hornet's notes: Dark-furred bug protecting itself with a spiked coral nut. Its fur is thick and silky. Sadly, lost to its Haunting, I shall never safely be able to touch it.
@@ -393,7 +393,7 @@ None yet :/
 ::: details Choral Chambers
 - The entrance to the citadel, now open to all!
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Clawmaiden:
 ![defr](https://cdn.wikimg.net/en/hkwiki/images/a/ad/B_Clawmaiden.png)
     - Hornet's notes: Puppet servant of the Citadel, suspended on strings of Silk. An early form of automaton, requiring extensive Silk to maintain its service. If given a chance, this one will steal Silk from any significant source, including my own shell.
@@ -404,7 +404,7 @@ None yet :/
 ::: details Underworks
 - The bulk of the citadel's industrial production.
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Drapefly:
 ![](https://cdn.wikimg.net/en/hkwiki/images/f/f9/B_Drapefly.png)
     - Hornet's notes: Erratic, flying pest that nests in rags and curtains. Like fabric somehow sprung to life. Its pelt is perfectly matched to the rags it infests.
@@ -424,7 +424,7 @@ None yet :/
 ::: details Colosseum of Spools
 - The military district of the citadel.
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - No unique
 - Art:
 None yet :/
@@ -433,7 +433,7 @@ None yet :/
 ::: details Cogwork Core
 - The inner workings of the citadel.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Cogwork Underfly:
 ![](https://cdn.wikimg.net/en/hkwiki/images/1/16/B_Cogwork_Underfly.png)
     - Hornet's notes: Small automaton built to work, without complaint, in the scorching heat of the Underworks' Cauldron. It is no wonder these constructs were cast. No mortal bug would last long inside that scorching place. Even my shell struggles to withstand its heat.
@@ -462,7 +462,7 @@ None yet :/
 ::: details High Halls
 - The main social and commercial area of the citadel.
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Minister:
 ![d](https://cdn.wikimg.net/en/hkwiki/images/0/0f/B_Minister.png)
     - Hornet's notes: Gold ranked disciple of the Choir and direct servant to the Citadel's Conductors. The lethality of these bugs is unexpected. Their bodies were never built for combat. The Haunting has altered their nature dramatically.
@@ -479,7 +479,7 @@ None yet :/
 ::: details Whiteward
 - The citadel's hospital.
 - Leader: Conductor Mizello
-- Bestiary & Locals:
+- Inhabitants:
   - Dreg Husk:
 ![](https://cdn.wikimg.net/en/hkwiki/images/thumb/3/39/B_Dreg_Husk.png/300px-B_Dreg_Husk.png)
     - Hornet's notes: Remains of a Citadel bug possessed by Silk dregs. The husk will lash out wildly with the many sharp pins caught inside its thread. There is old anguish bound upon these threads, the result of countless cruel procedures.
@@ -493,7 +493,7 @@ None yet :/
 ::: details Memorium
 - A conservatory for all beasts of any kind!
 - Leader: ObjectiveRecent4984
-- Bestiary & Locals:
+- Inhabitants:
   - No unique creatures.
 - Art:
 None yet :/
@@ -502,7 +502,7 @@ None yet :/
 ::: details Whispering Vaults
 - The former home of all knowledge about everything, now home of the Web (data about everything stored on silk, can be used for communication and accessed anywhere within Pharloom, also where this map resides in universe).
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Vaultkeeper:
 ![e](https://cdn.wikimg.net/en/hkwiki/images/6/65/B_Vaultkeeper.png)
     - Hornet's notes: High caste bug, responsible for delivering sermons and leading prayer for those beyond the walls of the Whispering Vaults. Most likely this one's true charge was to root out and condemn those not seen as sufficiently fervent.
@@ -513,7 +513,7 @@ None yet :/
 ::: details Flies People's Republic
 - Formerly the Slab, but now free!
 - Leader: TBD
-- Bestiary & Locals: (Warning: Hornet was racist in the notes, and we are looking for alternatives)
+- Inhabitants: (Warning: Hornet was racist in the notes, and we are looking for alternatives)
   - Penitent:
 ![](https://cdn.wikimg.net/en/hkwiki/images/c/ca/B_Penitent.png)
     - Hornet's notes: Humbled prisoner serving their sentence for sin committed within the Citadel. All are haunted here, the jailers and the jailed. Do they realise they will never leave this place? Or how long they have stayed already?
@@ -542,7 +542,7 @@ None yet :/
 ::: details The Cradle
 - The capital of the citadel.
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -551,7 +551,7 @@ None yet :/
 ::: details Sinners Road
 - A prison.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Muckroach:
 ![dcw](https://cdn.wikimg.net/en/hkwiki/images/thumb/e/eb/B_Muckroach.png/300px-B_Muckroach.png)
     - Hornet's notes: Starved pack bug with an insatiable appetite. Despite their tough hide and pungent meat, roaches breed rapidly so are sometimes farmed for food. A revolting creature. My shell itches at their presence. In the pens where their numbers grow vast, I am forever on edge.
@@ -577,7 +577,7 @@ None yet :/
 ::: details Bilewater
 - A bog of bile, but the locals are quite nice.
 - Leader: Groal
-- Bestiary & Locals:
+- Inhabitants:
   - Muckmaggot:
 ![dce](https://cdn.wikimg.net/en/hkwiki/images/6/61/B_Muckmaggot.png)
     - Hornet's notes: Mindless infant larva, coated in a thick slime. They cling fast to the shells of other bugs, destroying any hope for concentration or comfort.
@@ -615,7 +615,7 @@ None yet :/
 ::: details Exhaust Organ
 - An area ruled by Phantom, independant of everyone else.
 - Leader: Phantom
-- Bestiary & Locals:
+- Inhabitants:
   - Wraith:
 ![c](https://cdn.wikimg.net/en/hkwiki/images/d/d7/B_Wraith.png)
     - Hornet's notes: Anguished spectre of lingering thread. Despite its ephemeral nature, strong strikes can dispel the Wraith for a time. Not a bug but a projection of another's will in smog and Silk.
@@ -630,7 +630,7 @@ None yet :/
 ::: details Putrified Ducts
 - The result of old citadel pollution.
 - Leader: Groal
-- Bestiary & Locals:
+- Inhabitants:
   - Barnak:
 ![re](https://cdn.wikimg.net/en/hkwiki/images/2/2a/B_Barnak.png)
     - Hornet's notes: Toothy growth that lives on cave roofs. Wraps wayward bugs with its long tongue and drags them up to be consumed. Hiding its tongue amongst fronds so similar... There is impressive style to this one's trickery.
@@ -644,7 +644,7 @@ None yet :/
 ::: details Fleatopia
 - The fleas' utopia.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -653,7 +653,7 @@ None yet :/
 ::: details Mythfalls
 - Reminds me of stories of Bilewater's glory days...
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -662,7 +662,7 @@ None yet :/
 ::: details Verdania
 - A lush and found kingdom.
 - Leader: Green Prince
-- Bestiary & Locals:
+- Inhabitants:
   - Leaf Glider:
 ![](https://cdn.wikimg.net/en/hkwiki/images/c/c5/B_Leaf_Glider.png)
     - Hornet's notes: Fine winged flyer that survives in flocks. So light they can rest atop still water's surface. An elegant bug indeed.
@@ -703,7 +703,7 @@ None yet :/
 ::: details Fields of Eucor
 - The lands to the east of Vernadia, originally used as protection, now sovereign.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -712,7 +712,7 @@ None yet :/
 ::: details Mount Fay
 - Cold mountain... Can't stay too long.
 - Leader: Sharp-Somewhere
-- Bestiary & Locals:
+- Inhabitants:
   - Driftlin:
 ![er](https://cdn.wikimg.net/en/hkwiki/images/8/8b/B_Driftlin.png)
     - Hornet's notes: Gentle glider of Mount Fay. Its downy wings and cowl allow it to resist even the most cutting cold. This one would make a perfect pet, but for the freezing temperatures it requires for comfort.
@@ -729,7 +729,7 @@ None yet :/
 ::: details Last Oasis
 - It seems to be the river that leads into the Order of Karak.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -738,7 +738,7 @@ None yet :/
 ::: details Vermilion depths
 - Red crystal caverns, accessed from Bilewater.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -747,7 +747,7 @@ None yet :/
 ::: details Weavenests
 - The homes of Weavers.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -756,7 +756,7 @@ None yet :/
 ::: details Wisp Thicket
 - A forest of flames and the cult that worships them.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Wisp:
 ![sde](https://cdn.wikimg.net/en/hkwiki/images/1/1f/B_Wisp.png)
     - Hornet's notes: Short-lived sprite born of flickering flame. To live only a single, bright moment... What would one feel? Is it glorious, or only despair? Or could it be both, mixed equal?
@@ -773,7 +773,7 @@ None yet :/
 ::: details Pharloom's Hive
 - Reminds me of home back in Hallownest...
 - Leader: Hive Knight
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -782,7 +782,7 @@ None yet :/
 ::: details The Kingdom Above
 - A nice kingdom on the surface!
 - Leader: Sherma
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -791,7 +791,7 @@ None yet :/
 ::: details Nameless Town
 - An old dilapidated town.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -800,7 +800,7 @@ None yet :/
 ::: details Voltnest
 - Electric area...
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Voltvyrm:
 ![](https://cdn.wikimg.net/en/hkwiki/images/thumb/c/c2/B_Voltvyrm.png/300px-B_Voltvyrm.png)
     - Hornet's notes: Coiled nest of charged worms. Assaults intruders with bolts of crackling electricity. Barely a bug, and possessing only basic thought, yet instinct alone proved enough to turn it deadly.
@@ -811,7 +811,7 @@ None yet :/
 ::: details Frosted Prairie
 - A cold grassland, home to the ladybugs.
 - Leader: TBD
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -820,7 +820,7 @@ None yet :/
 ::: details Silver Wastes
 - The home of the Grimmmtroupe.
 - Leader: Grimm
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -829,7 +829,7 @@ None yet :/
 ::: details Fern Forest
 - A forest of ferns...
 - Leader: the Tull
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -838,7 +838,7 @@ None yet :/
 ::: details The Abyss
 - A deep dark void below the kingdom... Below everything...
 - Leader: the Shade Lord
-- Bestiary & Locals:
+- Inhabitants:
   - Shadow Creeper:
 ![df](https://cdn.wikimg.net/en/hkwiki/images/9/92/B_Shadow_Creeper_%28Silksong%29.png)
     - Hornet's notes: Shell-plated worm found only in the deepest depths. Seems to survive despite consuming no food or liquid. A creature long familiar to me. I suspect that no matter how far I travel, if I descend deep enough they will always be there.
@@ -855,7 +855,7 @@ None yet :/
 ::: details Highland Trails
 - Chilly highlands above Mt Fay.
 - Leader: Garmond
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
@@ -864,7 +864,7 @@ None yet :/
 ::: details Fern Farms
 - The Citadel's farming district.
 - Leader: Hornet
-- Bestiary & Locals:
+- Inhabitants:
   - Soon
 - Art:
 None yet :/
