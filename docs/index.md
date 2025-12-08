@@ -40,7 +40,7 @@ None yet :/
 :::
 ::: details The Marrow
 - A bony place, with fire and such.
-- Leader: BigShip6556
+- Leader: Mantis Higher Being
 - Inhabitants:
   - Skull Scuttler:
 ![Skull Scuttler](https://cdn.wikimg.net/en/hkwiki/images/0/03/B_Skull_Scuttler.png)
@@ -869,4 +869,20 @@ None yet :/
 - Art:
 None yet :/
 - Subreddit: [r/FernFarmsCitadel](https://www.reddit.com/r/FernFarmsCitadel)
+:::
+::: details Pharloom Bay
+- The bay at the east edge of Pharloom.
+- Leader: TBD
+- Inhabitants:
+  - Soon
+- Art:
+None yet :/
+:::
+::: details Aspid Aery
+- The homeland of the Aspids.
+- Leader: Ancient Aspid
+- Inhabitants:
+  - Soon
+- Art:
+None yet :/
 :::
