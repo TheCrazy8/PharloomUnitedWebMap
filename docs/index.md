@@ -878,7 +878,7 @@ None yet :/
 - Art:
 None yet :/
 :::
-::: details Aspid Aery
+::: details Ammonite Aery
 - The homeland of the Aspids.
 - Leader: Ancient Aspid
 - Inhabitants:
