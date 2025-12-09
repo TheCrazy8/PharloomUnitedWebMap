@@ -17,7 +17,7 @@
   "dependencies": {
     "@lando/vitepress-theme-default-plus": "^1.1.1",
     "viewerjs": "^1.11.7",
-    "vitepress-plugin-image-viewer": "^1.1.6"
+    "vitepress-plugin-image-viewer": "^1.1.6",
     "vitepress-plugin-back-to-top": "^0.0.0"
   }
 }
