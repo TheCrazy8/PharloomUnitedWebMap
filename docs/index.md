@@ -150,9 +150,6 @@ None yet :/
   - Hoker:
 ![hoker](https://cdn.wikimg.net/en/hkwiki/images/0/0d/B_Hoker.png)
     - Hornet's notes: Spine-shooting drifter of the lowlands. Whatever admiration I had for its fleecy down is spoilt by its disturbing mask... and its steely spines.
-  - Flintbeetle:
-![fleetle](https://cdn.wikimg.net/en/hkwiki/images/1/1a/B_Flintbeetle.png)
-    - Hornet's notes: Rarely seen beetle that spends most of its life nestled deep in bone and rock. The flintgems on its shell excrete an explosive powder. Its bright gems could be used to make beautiful, but short-lived jewellery. An amusing idea for a gift... or a trap.
   - Rhinogrund:
 ![did you meet this?](https://cdn.wikimg.net/en/hkwiki/images/0/07/B_Rhinogrund.png)
     - Hornet's notes: Long-Horned beast of Pharloom's lowlands. Relies on its horn to both impale and to wrench the ground beneath it, flinging dangerous debris. Certain tools and skills can pierce its defences. I should adjust my strategy as needed.
@@ -877,6 +874,7 @@ None yet :/
   - Soon
 - Art:
 None yet :/
+- Subreddit: [r/PharloomBay](https://www.reddit.com/r/PharloomBay)
 :::
 ::: details Ammonite Aery
 - The homeland of the Aspids.
@@ -885,4 +883,16 @@ None yet :/
   - Soon
 - Art:
 None yet :/
+- Subreddit: [r/AmmoniteAery](https://www.reddit.com/r/AmmoniteAery)
+:::
+::: details Flintlight
+- The land of flint and flame.
+- Leader: TBD
+- Inhabitants:
+  - Flintbeetle:
+![fleetle](https://cdn.wikimg.net/en/hkwiki/images/1/1a/B_Flintbeetle.png)
+    - Hornet's notes: Rarely seen beetle that spends most of its life nestled deep in bone and rock. The flintgems on its shell excrete an explosive powder. Its bright gems could be used to make beautiful, but short-lived jewellery. An amusing idea for a gift... or a trap.
+- Art:
+None yet :/
+- Subreddit: To be added later
 :::
