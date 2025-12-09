@@ -861,7 +861,7 @@ None yet :/
 None yet :/
 - Subreddit: [r/TherestofPharloom](https://www.reddit.com/r/TherestofPharloom)
 :::
-::: details Fern Farms
+::: details Holy Farms
 - The Citadel's farming district.
 - Leader: Hornet
 - Inhabitants:
