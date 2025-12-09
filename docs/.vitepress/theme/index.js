@@ -4,6 +4,8 @@ import imageViewer from 'vitepress-plugin-image-viewer';
 import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
 import InteractiveMap from './components/InteractiveMap.vue';
+import vitepressBackToTop from 'vitepress-plugin-back-to-top'
+import 'vitepress-plugin-back-to-top/dist/style.css'
 
 export default {
 ...VPLTheme,
@@ -13,6 +15,10 @@ VPLTheme.enhanceApp(ctx);
 ctx.app.component('vImageViewer', vImageViewer);
 // Register InteractiveMap component
 ctx.app.component('InteractiveMap', InteractiveMap);
+  vitepressBackToTop({
+      // default
+      threshold:300
+    })
 },
 setup() {
 const route = useRoute();
