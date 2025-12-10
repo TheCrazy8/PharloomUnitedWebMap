@@ -1,0 +1,12 @@
+/* in .vitepress/theme/custom.css */
+
+/* Change default link color and remove underline */
+hiddenlink {
+  color: White; /* Use a VitePress theme variable for consistency */
+  text-decoration: none;
+}
+
+/* Change the color of visited links (stops them from being purple) */
+hiddenlink:visited {
+  color: White; /* Same as the default color */
+}
