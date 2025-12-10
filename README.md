@@ -23,3 +23,7 @@ npm run serve # optional preview
 ```
 
 Host the generated `docs/.vitepress/dist` folder with any static host (GitHub Pages, Azure Static Web Apps, etc.).
+
+## Reddit
+
+https://www.reddit.com/r/PharloomMeta/s/dW97HRDkJ0
