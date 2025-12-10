@@ -10,4 +10,6 @@ title: The Secret Page
 
 [Back to index](./)
 
-Uhh there isnt much here yet
+:3
+
+![steamcrash](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnG8YjB_I6uu_ePaQ7kViL2SetZEXt2HUrbw&s)
