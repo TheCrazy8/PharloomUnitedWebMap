@@ -2,7 +2,7 @@
 title: Pharloom Web Map
 ---
 
-# Pharloom United Map:
+# Pharloom United Map[:](./odd)
 
 [[TOC]]
 
@@ -896,4 +896,3 @@ None yet :/
 None yet :/
 - Subreddit: To be added later
 :::
-[](./odd)
