@@ -2,7 +2,7 @@
 title: Pharloom Web Map
 ---
 
-# Pharloom United Map[:](./odd)
+# Pharloom United Map<hiddenlink>[:](./odd)</hiddenlink>
 
 [[TOC]]
 
