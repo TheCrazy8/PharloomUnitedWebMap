@@ -14,6 +14,7 @@ export default {
         ],
         socialLinks: [
             { icon: 'discord', link: 'https://discord.gg/qjyaSwRRk' },
+            { icon: 'reddit', link: 'https://reddit.com/r/PharloomMeta'},
         ],
 
         lastUpdated: {
