@@ -2,11 +2,12 @@
 import { computed, ref, onMounted, nextTick, watch } from 'vue'
 import { useData } from 'vitepress'
 import defaultRegions from '../data/map-regions.json'
+import diplomacyRelations from '../data/map-diplomacy.json'
 
 const defaultMapImage = 'Pharloom.png'
 const defaultLayers = [
   { id: 'region', name: 'Regions', placeholder: false },
-  { id: 'diplomacy', name: 'Diplomacy', placeholder: true }
+  { id: 'diplomacy', name: 'Diplomacy', placeholder: false }
 ]
 
 const { site } = useData()
@@ -28,10 +29,12 @@ function cloneRegions(source) {
 const activeLayer = ref(props.initialLayer)
 const mapContainer = ref(null)
 const hoveredRegion = ref(null)
+const hoveredRelation = ref(null)
 const tooltipPosition = ref({ x: 0, y: 0 })
 const customMapImage = ref('')
 const layers = ref([...defaultLayers])
 const regions = ref(cloneRegions(defaultRegions))
+const diplomacy = ref([...diplomacyRelations])
 const polygonDrafts = ref({})
 const editingRegionId = ref('')
 const draftPoints = ref([])
@@ -294,6 +297,50 @@ function saveRegionsLocally() {
   persistRegionData()
 }
 
+function getRegionCenter(regionId) {
+  const region = regions.value.find(r => r.id === regionId)
+  if (!region || !region.hitArea) return null
+  
+  if (region.hitArea.type === 'polygon' && region.hitArea.points) {
+    const points = region.hitArea.points
+    const sumX = points.reduce((sum, p) => sum + p[0], 0)
+    const sumY = points.reduce((sum, p) => sum + p[1], 0)
+    return [sumX / points.length, sumY / points.length]
+  }
+  
+  if (region.hitArea.type === 'rect') {
+    return [
+      region.hitArea.x + region.hitArea.width / 2,
+      region.hitArea.y + region.hitArea.height / 2
+    ]
+  }
+  
+  return null
+}
+
+function getRelationshipColor(type) {
+  const colors = {
+    alliance: 'rgba(34, 197, 94, 0.6)',    // green
+    trade: 'rgba(59, 130, 246, 0.6)',       // blue
+    conflict: 'rgba(239, 68, 68, 0.6)',     // red
+    neutral: 'rgba(156, 163, 175, 0.6)'     // gray
+  }
+  return colors[type] || colors.neutral
+}
+
+function handleRelationMouseMove(event, relation) {
+  hoveredRelation.value = relation
+  const rect = mapContainer.value.getBoundingClientRect()
+  tooltipPosition.value = {
+    x: event.clientX - rect.left + 10,
+    y: event.clientY - rect.top - 30
+  }
+}
+
+function handleRelationMouseLeave() {
+  hoveredRelation.value = null
+}
+
 onMounted(() => {
   if (typeof window !== 'undefined') {
     const cached = window.localStorage.getItem('pharloom-map-image')
@@ -426,16 +473,92 @@ watch(editingRegionId, seedDraftFromRegion)
         </div>
       </div>
 
-      <!-- Diplomacy Layer (Placeholder) -->
+      <!-- Diplomacy Layer -->
       <div v-show="activeLayer === 'diplomacy'" class="map-layer diplomacy-layer">
-        <div class="placeholder-message">
-          <p>🗺️ Diplomacy Layer</p>
-          <p>Coming Soon!</p>
+        <img :src="displayedMap" alt="Pharloom Diplomacy Map" class="map-image" />
+        
+        <!-- SVG Overlay for diplomacy relations -->
+        <svg
+          class="diplomacy-overlay"
+          viewBox="0 0 100 100"
+          preserveAspectRatio="none"
+        >
+          <!-- Draw lines between related regions -->
+          <template v-for="relation in diplomacy" :key="`${relation.from}-${relation.to}`">
+            <template v-if="getRegionCenter(relation.from) && getRegionCenter(relation.to)">
+              <line
+                :x1="getRegionCenter(relation.from)[0]"
+                :y1="getRegionCenter(relation.from)[1]"
+                :x2="getRegionCenter(relation.to)[0]"
+                :y2="getRegionCenter(relation.to)[1]"
+                :stroke="getRelationshipColor(relation.type)"
+                :stroke-width="relation.type === 'conflict' ? '0.4' : '0.25'"
+                :stroke-dasharray="relation.type === 'neutral' ? '1,1' : 'none'"
+                class="relation-line"
+                @mousemove="handleRelationMouseMove($event, relation)"
+                @mouseleave="handleRelationMouseLeave"
+              />
+              <!-- Add a dot at each region center -->
+              <circle
+                :cx="getRegionCenter(relation.from)[0]"
+                :cy="getRegionCenter(relation.from)[1]"
+                r="0.5"
+                :fill="getRelationshipColor(relation.type)"
+                class="region-dot"
+              />
+              <circle
+                :cx="getRegionCenter(relation.to)[0]"
+                :cy="getRegionCenter(relation.to)[1]"
+                r="0.5"
+                :fill="getRelationshipColor(relation.type)"
+                class="region-dot"
+              />
+            </template>
+          </template>
+        </svg>
+        
+        <!-- Tooltip for diplomacy -->
+        <div 
+          v-if="hoveredRelation" 
+          class="diplomacy-tooltip"
+          :style="{ left: tooltipPosition.x + 'px', top: tooltipPosition.y + 'px' }"
+        >
+          <div class="tooltip-title">{{ hoveredRelation.label }}</div>
+          <div class="tooltip-regions">
+            {{ regions.find(r => r.id === hoveredRelation.from)?.name }} 
+            ↔ 
+            {{ regions.find(r => r.id === hoveredRelation.to)?.name }}
+          </div>
+          <div class="tooltip-type" :class="`type-${hoveredRelation.type}`">
+            {{ hoveredRelation.type.charAt(0).toUpperCase() + hoveredRelation.type.slice(1) }}
+          </div>
+        </div>
+        
+        <!-- Legend -->
+        <div class="diplomacy-legend">
+          <div class="legend-title">Relationship Types</div>
+          <div class="legend-item">
+            <span class="legend-color" style="background: rgba(34, 197, 94, 0.8);"></span>
+            <span>Alliance</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background: rgba(59, 130, 246, 0.8);"></span>
+            <span>Trade</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background: rgba(239, 68, 68, 0.8);"></span>
+            <span>Conflict</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background: rgba(156, 163, 175, 0.8); border: 1px dashed rgba(156, 163, 175, 0.8);"></span>
+            <span>Neutral</span>
+          </div>
         </div>
       </div>
     </div>
 
     <p class="map-hint">💡 Click on a region to view its details below</p>
+    <p v-if="activeLayer === 'diplomacy'" class="map-hint">🤝 Hover over lines to see diplomatic relationships between regions</p>
     <p v-if="isEditing" class="map-hint editing-hint">
       ✏️ Tracing {{ regions.find(r => r.id === editingRegionId)?.name || '' }} — click anywhere on the map to add points.
       Finish by clicking “Save polygon” once you have at least three points.
@@ -836,5 +959,119 @@ watch(editingRegionId, seedDraftFromRegion)
 
 .editing-hint {
   margin-top: 0.35rem;
+}
+
+.diplomacy-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.relation-line {
+  pointer-events: stroke;
+  cursor: pointer;
+  transition: stroke-width 0.2s ease;
+}
+
+.relation-line:hover {
+  stroke-width: 0.6 !important;
+  filter: brightness(1.3);
+}
+
+.region-dot {
+  pointer-events: none;
+}
+
+.diplomacy-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 0.75rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  pointer-events: none;
+  z-index: 100;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  min-width: 200px;
+}
+
+.tooltip-title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.tooltip-regions {
+  font-size: 0.8rem;
+  opacity: 0.9;
+  margin-bottom: 0.25rem;
+}
+
+.tooltip-type {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+.tooltip-type.type-alliance {
+  background: rgba(34, 197, 94, 0.3);
+  color: rgb(134, 239, 172);
+}
+
+.tooltip-type.type-trade {
+  background: rgba(59, 130, 246, 0.3);
+  color: rgb(147, 197, 253);
+}
+
+.tooltip-type.type-conflict {
+  background: rgba(239, 68, 68, 0.3);
+  color: rgb(252, 165, 165);
+}
+
+.tooltip-type.type-neutral {
+  background: rgba(156, 163, 175, 0.3);
+  color: rgb(209, 213, 219);
+}
+
+.diplomacy-legend {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  padding: 0.75rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+.legend-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 0.35rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.35rem 0;
+  font-size: 0.8rem;
+}
+
+.legend-color {
+  display: inline-block;
+  width: 24px;
+  height: 3px;
+  border-radius: 2px;
 }
 </style>
