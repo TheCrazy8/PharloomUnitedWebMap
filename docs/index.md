@@ -902,7 +902,7 @@ None yet :/
 - Inhabitants:
   - No unique
 - Art:
-[Upper Docks Silkshot](https://cdn.discordapp.com/attachments/1438690217069383770/1452159936120488058/Upperdocks_Enhanced_Silkshot.png?ex=695bea94&is=695a9914&hm=01be55813c807bda29dc8c6cda656f72b131054f16eef36e7215b59cd1882a08&)
+![Upper Docks Silkshot](https://cdn.discordapp.com/attachments/1438690217069383770/1452159936120488058/Upperdocks_Enhanced_Silkshot.png?ex=695bea94&is=695a9914&hm=01be55813c807bda29dc8c6cda656f72b131054f16eef36e7215b59cd1882a08&)
 Credit: Foresister Astra
 - Subreddit: [r/upperdocks](https://www.reddit.com/r/upperdocks/)
 :::
