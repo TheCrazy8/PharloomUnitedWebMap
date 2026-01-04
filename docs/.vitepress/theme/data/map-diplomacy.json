@@ -9,7 +9,7 @@
     "from": "the-marrow",
     "to": "deep-docks",
     "type": "trade",
-    "label": "Industrial Trade"
+    "label": "Union Members"
   },
   {
     "from": "hunters-march",
@@ -50,8 +50,8 @@
   {
     "from": "high-halls",
     "to": "whiteward",
-    "type": "alliance",
-    "label": "Citadel Unity"
+    "type": "neutral",
+    "label": "Proximity"
   },
   {
     "from": "high-halls",
@@ -62,8 +62,8 @@
   {
     "from": "whiteward",
     "to": "whispering-vaults",
-    "type": "alliance",
-    "label": "Citadel Unity"
+    "type": "neutral",
+    "label": "Proximity"
   },
   {
     "from": "cogwork-core",
@@ -72,8 +72,8 @@
     "label": "Industrial Alliance"
   },
   {
-    "from": "bilewater",
-    "to": "purified-ducts",
+    "from": "upper-docks",
+    "to": "bilewater",
     "type": "trade",
     "label": "Cleanup Efforts"
   },
@@ -81,7 +81,7 @@
     "from": "verdania",
     "to": "fields-of-eucor",
     "type": "alliance",
-    "label": "Green Alliance"
+    "label": "Territorial Alliance"
   },
   {
     "from": "mount-fay",
@@ -99,7 +99,7 @@
     "from": "deep-docks",
     "to": "far-fields",
     "type": "trade",
-    "label": "Heat Export"
+    "label": "Union Members"
   },
   {
     "from": "pharloom-labs",
@@ -118,5 +118,35 @@
     "to": "bilewater",
     "type": "conflict",
     "label": "Pollution Dispute"
-  }
+  },
+  {"from": "order-of-karak",
+    "to": "shellwood",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
+  {"from": "verdania",
+    "to": "shellwood",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
+  {"from": "order-of-karak",
+    "to": "hunters-march",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
+  {"from": "verdania",
+    "to": "hunters-march",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
+  {"from": "shellwood",
+    "to": "hunters-march",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
+  {"from": "order-of-karak",
+    "to": "verdania",
+    "type": "alliance",
+    "label": "Alliance of Old Hearts"
+  },
 ]
