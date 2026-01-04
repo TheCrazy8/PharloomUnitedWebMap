@@ -1,1 +1,122 @@
-
+[
+  {
+    "from": "mosslands",
+    "to": "bone-bottom",
+    "type": "alliance",
+    "label": "Close Neighbors"
+  },
+  {
+    "from": "the-marrow",
+    "to": "deep-docks",
+    "type": "trade",
+    "label": "Industrial Trade"
+  },
+  {
+    "from": "hunters-march",
+    "to": "far-fields",
+    "type": "alliance",
+    "label": "Skarr Territory"
+  },
+  {
+    "from": "eastern-greymoor",
+    "to": "western-greymoor",
+    "type": "conflict",
+    "label": "Divided Greymoor"
+  },
+  {
+    "from": "bellhart",
+    "to": "shellwood",
+    "type": "neutral",
+    "label": "Trade Route"
+  },
+  {
+    "from": "order-of-karak",
+    "to": "last-oasis",
+    "type": "alliance",
+    "label": "River Kingdom"
+  },
+  {
+    "from": "choral-chambers",
+    "to": "high-halls",
+    "type": "alliance",
+    "label": "Citadel Unity"
+  },
+  {
+    "from": "choral-chambers",
+    "to": "underworks",
+    "type": "alliance",
+    "label": "Citadel Unity"
+  },
+  {
+    "from": "high-halls",
+    "to": "whiteward",
+    "type": "alliance",
+    "label": "Citadel Unity"
+  },
+  {
+    "from": "high-halls",
+    "to": "memorium",
+    "type": "alliance",
+    "label": "Citadel Unity"
+  },
+  {
+    "from": "whiteward",
+    "to": "whispering-vaults",
+    "type": "alliance",
+    "label": "Citadel Unity"
+  },
+  {
+    "from": "cogwork-core",
+    "to": "underworks",
+    "type": "alliance",
+    "label": "Industrial Alliance"
+  },
+  {
+    "from": "bilewater",
+    "to": "purified-ducts",
+    "type": "trade",
+    "label": "Cleanup Efforts"
+  },
+  {
+    "from": "verdania",
+    "to": "fields-of-eucor",
+    "type": "alliance",
+    "label": "Green Alliance"
+  },
+  {
+    "from": "mount-fay",
+    "to": "highland-trails",
+    "type": "alliance",
+    "label": "Mountain Territory"
+  },
+  {
+    "from": "wisp-thicket",
+    "to": "sinners-road",
+    "type": "neutral",
+    "label": "Border Region"
+  },
+  {
+    "from": "deep-docks",
+    "to": "far-fields",
+    "type": "trade",
+    "label": "Heat Export"
+  },
+  {
+    "from": "pharloom-labs",
+    "to": "mount-fay",
+    "type": "trade",
+    "label": "Research Materials"
+  },
+  {
+    "from": "the-cradle",
+    "to": "colosseum-of-spools",
+    "type": "alliance",
+    "label": "Citadel Capital"
+  },
+  {
+    "from": "exhaust-organ",
+    "to": "bilewater",
+    "type": "conflict",
+    "label": "Pollution Dispute"
+  }
+]
