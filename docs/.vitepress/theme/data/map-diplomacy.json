@@ -72,7 +72,7 @@
     "label": "Industrial Alliance"
   },
   {
-    "from": "upper-docks",
+    "from": "upper_docks",
     "to": "bilewater",
     "type": "trade",
     "label": "Cleanup Efforts"
