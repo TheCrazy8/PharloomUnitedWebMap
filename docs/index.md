@@ -385,6 +385,7 @@ None yet :/
     - Hornet's notes: Old warrior guarding the border of their domain, stiffened by time and awoken by song. They held long at their vigil, far beyond the age of their brethren, yet still when roused they swung their blade with remarkable ease.
 - Art:
 ![individuals of interest in Order of Karak](https://media.discordapp.net/attachments/1439581601158926366/1445555487452958826/1qcungj6jv4g1.png?ex=695b9eb5&is=695a4d35&hm=20db88d0563d4b0ec3b14362970313856b9a183c4fe935ed46f514764c249c6b&=&format=webp&quality=lossless&width=1218&height=685)
+Credit: Steel Master
 :::
 ::: details Choral Chambers
 - The entrance to the citadel, now open to all!
