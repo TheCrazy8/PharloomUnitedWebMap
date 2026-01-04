@@ -3,7 +3,7 @@ import { computed, ref, onMounted, nextTick, watch } from 'vue'
 import { useData } from 'vitepress'
 import defaultRegions from '../data/map-regions.json'
 
-const defaultMapImage = 'Pharloom.svg'
+const defaultMapImage = 'Pharloom.png'
 const defaultLayers = [
   { id: 'region', name: 'Regions', placeholder: false },
   { id: 'diplomacy', name: 'Diplomacy', placeholder: true }
