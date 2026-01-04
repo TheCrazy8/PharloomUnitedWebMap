@@ -896,3 +896,12 @@ None yet :/
 None yet :/
 - Subreddit: To be added later
 :::
+::: details Upper Docks
+- The Bilewater purification plant.
+- Leader: TBD
+- Inhabitants:
+  - No unique
+- Art:
+None yet :/
+- Subreddit: [r/deepdocks](https://www.reddit.com/r/deepdocks)
+:::
