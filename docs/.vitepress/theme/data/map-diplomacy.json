@@ -6,6 +6,12 @@
     "label": "Close Neighbors"
   },
   {
+    "from": "bone-bottom",
+    "to": "deep-docks",
+    "type": "trade",
+    "label": "Trade Agreement"
+  },
+  {
     "from": "the-marrow",
     "to": "deep-docks",
     "type": "trade",
