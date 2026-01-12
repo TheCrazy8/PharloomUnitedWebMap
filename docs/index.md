@@ -894,7 +894,7 @@ None yet :/
     - Hornet's notes: Rarely seen beetle that spends most of its life nestled deep in bone and rock. The flintgems on its shell excrete an explosive powder. Its bright gems could be used to make beautiful, but short-lived jewellery. An amusing idea for a gift... or a trap.
 - Art:
 None yet :/
-- Subreddit: To be added later
+- Subreddit: [r/Flintlight](https://www.reddit.com/r/Flintlight/)
 :::
 ::: details Upper Docks
 - The Bilewater purification plant.
