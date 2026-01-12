@@ -2,7 +2,7 @@
 #
 name: Deploy VitePress site to Pages
 
-on:
+on: 
   # Runs on pushes targeting the `main` branch. Change this to `master` if you're
   # using the `master` branch as the default branch.
   push:
@@ -12,8 +12,8 @@ on:
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
+permissions: 
+  contents: write  # Changed from 'read' to 'write' to allow pushing to website branch
   pages: write
   id-token: write
 
@@ -26,8 +26,8 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
-    steps:
+    runs-on:  ubuntu-latest
+    steps: 
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -45,17 +45,26 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: docs/. vitepress/dist
+      - name: Deploy to website branch
+        run: |
+          cd docs/.vitepress/dist
+          git init
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Deploy website - ${{ github.sha }}"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:website
 
   # Deployment job
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
+      url:  ${{ steps.deployment.outputs. page_url }}
+    needs:  build
     runs-on: ubuntu-latest
     name: Deploy
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name:  Deploy to GitHub Pages
+        id:  deployment
         uses: actions/deploy-pages@v4
