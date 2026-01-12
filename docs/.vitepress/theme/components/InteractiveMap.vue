@@ -4,7 +4,7 @@ import { useData } from 'vitepress'
 import defaultRegions from '../data/map-regions.json'
 import diplomacyRelations from '../data/map-diplomacy.json'
 
-const defaultMapImage = 'Pharloom.png'
+const defaultMapImage = 'Pharloom.svg'
 const defaultLayers = [
   { id: 'region', name: 'Regions', placeholder: false },
   { id: 'diplomacy', name: 'Diplomacy', placeholder: false }
