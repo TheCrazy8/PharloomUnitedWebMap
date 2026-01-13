@@ -14,6 +14,7 @@ This repository hosts the VitePress site for the Pharloom United community map. 
 The calibration drawer accepts imports as either the plain region array or an object shaped like `{ "regions": [...] }`. This makes it easy to share presets between collaborators.
 
 ## Deploying
+Note: it cannot deploy at school, so be patient and wait for me to be home
 
 The site is a standard VitePress project:
 
