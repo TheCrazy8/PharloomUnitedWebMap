@@ -906,3 +906,12 @@ None yet :/
 Credit: Foresister Astra
 - Subreddit: [r/upperdocks](https://www.reddit.com/r/upperdocks/)
 :::
+::: details Palefall
+- The Pale King's domain.
+- Leader: Pale King
+- Inhabitants:
+  - Saw blades probably
+- Art:
+None yet
+- Subreddit: TBD
+:::
